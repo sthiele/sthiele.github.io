@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sthiele.github.io/sitemap.xml

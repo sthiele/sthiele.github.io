@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>sthiele::weblog</title>
+	<link href="https://sthiele.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://sthiele.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2018-10-12T00:00:00+00:00</updated>
+	<id>https://sthiele.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>List of books I&#x27;ve read</title>
+		<published>2018-10-12T00:00:00+00:00</published>
+		<updated>2018-10-12T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/books/" type="text/html"/>
+		<id>https://sthiele.github.io/books/</id>
+		<content type="html">&lt;h2 id=&quot;current-reading-stack&quot;&gt;Current Reading Stack&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bertrand_Russell&quot;&gt;&lt;strong&gt;Bertrand Russell&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;A_History_of_Western_Philosophy&quot;&gt;&lt;strong&gt;A History of Western Philosophy&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+This is on my stack since 2019. It&#x27;s a pretty dense and comprehensiv history of philosophy mostly philosophers in the West. I started pretty enthusiastic with the ancient philosphers but later on skipped some parts Currently, I am at the thirteenth century and .. the Middle Ages are pretty heavy on religion. I hope to soon reach modern philosophy which hopefully I can relate more to.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2021&quot;&gt;2021&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;april&quot;&gt;April&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Heinrich_Mann&quot;&gt;Heinrich Mann&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Der_Untertan&quot;&gt;Der Untertan&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;%C3%89ric-Emmanuel_Schmitt&quot;&gt;Eric Emmanuel Schmitt&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Oskar_und_die_Dame_in_Rosa&quot;&gt;Oskar und die Dame in Rosa&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;%C3%89ric-Emmanuel_Schmitt&quot;&gt;Eric Emmanuel Schmitt&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Das_Kind_von_Noah&quot;&gt;Das Kind von Noah&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Juli_Zeh&quot;&gt;Juli Zeh&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Nullzeit_(Roman)&quot;&gt;Nullzeit&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+Cho Nam-Joo - Kim Jiyoung, Geboren 1982 &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Christa_Wolf&quot;&gt;Christa Wolf&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Medea:_Stimmen&quot;&gt;Medea: Stimmen&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Erwin_Strittmatter&quot;&gt;Erwin Strittmatter&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;portal.dnb.de&#x2F;opac.htm?referrer=Wikipedia&amp;amp;method=enhancedSearch&amp;amp;index=num&amp;amp;term=3351030061&amp;amp;operator=and&quot;&gt;Der Laden (Teil 1)&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;january&quot;&gt;January&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Chinghiz_Aitmatov&quot;&gt;Tschingis Aitmatow&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Jamila_(novel)&quot;&gt;Dschamilja&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2020&quot;&gt;2020&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Christa_Wolf&quot;&gt;Christa Wolf&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Ein_Tag_im_Jahr&quot;&gt;Ein Tag im Jahr&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Greg_Egan&quot;&gt;Greg Egan&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Permutation_City&quot;&gt;Permutation City&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Greg_Egan&quot;&gt;Greg Egan&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Diaspora_(novel)&quot;&gt;Diaspora&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Martin_Suter&quot;&gt;Martin Suter&lt;&#x2F;a&gt; - Der letzte Weynfeldt &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;9226.William_Gibson&quot;&gt;Gibson, William&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;40179612-agency&quot;&gt;Agency&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;1182281.Jan_Brokken&quot;&gt;Brokken, Jan&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;43455861-sibirische-sommer-mit-dostojewski&quot;&gt;Sibirische Sommer mit Dostojewski&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2019&quot;&gt;2019&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;13450.Gabriel_Garc_a_M_rquez&quot;&gt;Márquez, Gabriel García&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;1210234.Erinnerung_an_meine_traurigen_Huren&quot;&gt;Erinnerung an meine traurigen Huren&lt;&#x2F;a&gt;, Translator &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;504.Dagmar_Ploetz&quot;&gt;Dagmar Ploetz&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;8407795.Giuseppe_Tomasi_di_Lampedusa&quot;&gt;di Lampedusa, Guiseppe Tomasi&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;283886.Der_Leopard&quot;&gt;Der Leopard&lt;&#x2F;a&gt;, Translator Charlotte Birnbaum&lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;94147.Georg_B_chner&quot;&gt;Büchner, Georg&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;162326.Woyzeck_Leonce_und_Lena&quot;&gt;Woyzeck&#x2F;Leonce und Lena&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;25573.Stefan_Zweig&quot;&gt;Zweig, Stefan&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;1988256.Joseph_Fouch_&quot;&gt;Joseph Fouché: Bildnis eines politischen Menschen&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;11004.Denis_Diderot&quot;&gt;Diderot, Denis&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;4485897-die-nonne&quot;&gt;Die Nonne&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;68613.Theodor_Fontane&quot;&gt;Fontane, Theodor&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;47178963-mathilde-m-hring&quot;&gt;Mathilde Möhring&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;58.Frank_Herbert&quot;&gt;Herbert, Frank&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;44323246-dune&quot;&gt;Dune: The Gateway Collection&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;262916.Anna_Seghers&quot;&gt;Seghers, Anna&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;1769122.Das_siebte_Kreuz&quot;&gt;Das siebte Kreuz&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;128382.Leo_Tolstoy&quot;&gt;Tolstoi, Lew&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;3924200-der-tod-des-iwan-iljitsch&quot;&gt;Der Tod des Iwan Iljitsch&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;26853.Bertolt_Brecht&quot;&gt;Brecht, Bertolt&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;241526.Leben_des_Galilei&quot;&gt;Leben des Galilei&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;4280.Kazuo_Ishiguro&quot;&gt;Ishiguro, Kazuo&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;6334.Never_Let_Me_Go&quot;&gt;Never Let Me Go&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;157560.Christoph_Hein&quot;&gt;Hein, Christoph&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;34639026-trutz&quot;&gt;Trutz&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;395812.Yuval_Noah_Harari&quot;&gt;Harari, Yuval Noah&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;23692271-sapiens&quot;&gt;Sapiens: A Brief History of Humankind&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;585.John_Steinbeck&quot;&gt;John Steinbeck&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;18114322-the-grapes-of-wrath&quot;&gt;The Grapes of Wrath&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2018&quot;&gt;2018&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;%C3%9Cber_die_Revolution&quot;&gt;Hannah Arendt - Über die Revolution&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Im_Westen_nichts_Neues&quot;&gt;Erich Maria Remarque - Im Westen nichts Neues&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;266631.Wilhelm_Schmid&quot;&gt;Wilhelm Schmid - Dem Leben Sinn geben&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3864971047&quot;&gt;David Mazzucchelli, Paul Karasik - Paul Austers Stadt aus Glass&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;26853.Bertolt_Brecht&quot;&gt;Brecht, Bertolt&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;&quot;&gt;Mutter Courage und ihre Kinder&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;26853.Bertolt_Brecht&quot;&gt;Brecht, Bertolt&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;&quot;&gt;Der gute Mensch von Sezuan&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;&quot;&gt;Stephen Hawking - A Brief History of Time&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;&quot;&gt;Thomas Mann - Der Zauberberg&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Der_Idiot&quot;&gt;Fjodor M. Dostojewskij - Der Idiot&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Kurgast&quot;&gt;Hermann Hesse - Kurgast&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3746627435&quot;&gt;Hans Falada - Wer einmal aus dem Blechnapf fraß&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3746626781&quot;&gt;Hans Falada - Wolf unter Wölfen&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3596163587&quot;&gt;Fjodor M. Dostojewskij - Die Brüder Karamasow&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3596180945&quot;&gt;Art Spiegelman - Die Vollständige Maus&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B01N07L0MZ&quot;&gt;Osamu Tezuka - Buddah&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3551791805&quot;&gt;Osamu Tezuka - Kirihito&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2017&quot;&gt;2017&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3843083177&quot;&gt;Iwan Turgenew - Väter und Söhne&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;128382.Leo_Tolstoy&quot;&gt;Tolstoi, Lew&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3491960541&quot;&gt;Krieg und Frieden&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;128382.Leo_Tolstoy&quot;&gt;Tolstoi, Lew&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3746661110&quot;&gt;Anna Karenina&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;128382.Leo_Tolstoy&quot;&gt;Tolstoi, Lew&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3849695794&quot;&gt;Auferstehung&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;359618424X&quot;&gt;Alexander Solschenizyn - Der Archipel GULAG 1&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3803126649&quot;&gt;Françoise Sagan - Lieben Sie Brahms&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004UBAHFS&quot;&gt;Nikolai Wassiljewitsch Gogol - Tote Seelen&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3937683399&quot;&gt;Le Monde diplomatique - Atlas der Globalisierung: Die Welt von morgen&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3954550636&quot;&gt;Maxim Gorki - Die Mutter&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;B0026L9UIE&#x2F;&quot;&gt;Guy de Maupassant - Bel Ami&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;B0031R5K6S&#x2F;&quot;&gt;Aldous Huxley - Brave New World&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;3518381296&#x2F;&quot;&gt;Marguerite Duras - Der Liebhaber&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00CEQOBSA&quot;&gt;Stefan Zweig - Triumph und Tragik des Erasmus von Rotterdam&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00CEQ8KAA&quot;&gt;Stefan Zweig - Magellan&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00CEQ8DV6&quot;&gt;Stefan Zweig - Sternstunden der Menschheit&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2016&quot;&gt;2016&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00S8FCJCQ&#x2F;&quot;&gt;Cixin Liu - The Three-Body Problem&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00U7G0UYI&#x2F;&quot;&gt;Cixin Liu - The Dark Forest&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B016AWGJBK&#x2F;&quot;&gt;Cixin Liu - Death&#x27;s End (The Three-Body Problem)&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;B00AEGQOV4&#x2F;&quot;&gt;Mohsin Hamid - How to Get Filthy Rich In Rising Asia&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;B004TQR2HK&#x2F;&quot;&gt;Hans Falada - Kleiner Mann - was nun?&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00AK78QAY&#x2F;&quot;&gt;Walter Isaacson - Kissinger: A Biography&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0095TDFE0&#x2F;&quot;&gt;Pascal Mercier - Nachtzug nach Lissabon&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00NOPQU2K&#x2F;&quot;&gt;Paula Hawkins - The Girl on the Train&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00K0OI42W&#x2F;&quot;&gt;Harper Lee - To Kill a Mockingbird&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B008DM2MGW&#x2F;&quot;&gt;Philip K. Dick - The Man in the High Castle&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00ELXQYLG&#x2F;&quot;&gt;Anthony Burgess - A Clockwork Orange&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B006ACIMQQ&#x2F;&quot;&gt;William Hertling - Avogardo Corp: The Singularity is Closer Than It Appears&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B007FZVI2M&#x2F;&quot;&gt;William Hertling - A.I. Apocalypse&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00EEIGHDI&#x2F;&quot;&gt;William Hertling - The Last Firewall&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00UGIOCUK&#x2F;&quot;&gt;William Hertling - The Turing Exception&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;3351036043&#x2F;&quot;&gt;&lt;strong&gt;Anna Seghers - Das siebte Kreuz (gekürzte Comicfassung)&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+Es handelte sich um eine aus dem englischen rückübersetze Comicversion. Macht aber Lust auf das Original.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00R0RGSLG&quot;&gt;&lt;strong&gt;Neal Stephenson - &amp;quot;Seveneves&amp;quot;&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+Too long descriptions of boring fictional lasso swinging technology.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2015&quot;&gt;2015&lt;&#x2F;h2&gt;
+&lt;p&gt;Gabriel García Márquez - Hundert Jahre Einsamkeit &lt;br &#x2F;&gt;
+Isabel Allende - Das Geisterhaus &lt;br &#x2F;&gt;
+Leopold Sacher-Masoch - Venus im Pelz &lt;br &#x2F;&gt;
+Ken Kesey - One Flew Over the Cuckoo&#x27;s Nest &lt;br &#x2F;&gt;
+F. Scott Fitzgerald - The Great Gatsby &lt;br &#x2F;&gt;
+Truman Capote - Breakfast at Tiffany&#x27;s &lt;br &#x2F;&gt;
+Kurt Vonnegut - Cat&#x27;s Cradle: A Novel &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B002RI9K5Y&quot;&gt;John Steinbeck - East of Eden&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+John Steinbeck - Cannery Row &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B000OCXIRG&quot;&gt;William Golding - Lord of the Flies&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B012S0ZR3E&quot;&gt;Yasunari Kawabata - The Master of Go&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+Neil Gaiman - American Gods &lt;br &#x2F;&gt;
+Stephen King - Cujo &lt;br &#x2F;&gt;
+Arthur C. Clarke - 2001: A Space Odyssey &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0071XO8RA&quot;&gt;Hugh Howey - Wool&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00B6Z6HI2&quot;&gt;Hugh Howey - Shift&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00CYNGPTG&quot;&gt;Hugh Howey - Dust&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00FAXJHCY&quot;&gt;Andy Weir - The Martian&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B005CVWWJY&quot;&gt;Ernest Cline - Ready Player One&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+Ramez Naam - Crux &lt;br &#x2F;&gt;
+Ramez Naam - Nexus &lt;br &#x2F;&gt;
+Ken Grimwood - Replay &lt;br &#x2F;&gt;
+Joe Haldeman - The Forever War &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00AJ1ZSJ8&quot;&gt;Joe Haldeman - The Accidental Time Machine&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;0241970377&quot;&gt;&lt;strong&gt;Dave Eggers - The Circle&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+The book is a dystopia of the post privacy society.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2014&quot;&gt;2014&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0082BAJA0&quot;&gt;Margaret Atwood - The Handmaid&#x27;s Tale&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0038QN2AS&quot;&gt;Daniel Suarez - Daemon&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004IPQEAS&quot;&gt;Daniel Suarez - Freedom TM&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00DMCPOBI&quot;&gt;Daniel Suarez - Influx&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0060MBJCK&quot;&gt;Chuck Palahniuk - Fight Club&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2013&quot;&gt;2013&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B003ZUXXBA&quot;&gt;Wiliam Gibson - Zero History&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B01JP7JRXE&quot;&gt;Blue Ant Series&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0057GZINQ&quot;&gt;Vergil - Äneis&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B008O8W0J4&quot;&gt;Michail Bulgakow - Der Meister und Margarita&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0079MRDIE&quot;&gt;Arthur C. Clarke - Rendezvous with Rama&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00AS8VV0C&quot;&gt;Arkardy and Boris Strugatzki - Gesammelte Werke 5&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B003AYZBM0&quot;&gt;Alex Garland - The Beach&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;!-- [Jean Baptiste Moliere - Der Misanthrop](https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00507UZHQ) \ --&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00BBWYZK2&quot;&gt;&lt;strong&gt;Pablo Tusset - Oxford 7&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+A student uprising in space. The story has some analogies to the recent &lt;em&gt;Podemos&lt;&#x2F;em&gt; movement in Spain.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2012&quot;&gt;2012&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004UBEPFQ&quot;&gt;Miguel de Cervantes - Der sinnreiche Junker Don Quijote von der Mancha - Erstes Buch&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00507T6X0&quot;&gt;Anton Tschechow - Drei Schwestern&lt;&#x2F;a&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004OL2CM0&quot;&gt;Neal Stephenson - Cryptonomicon&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004OL2CMK&quot;&gt;Neal Stephenson - Quicksilver (Barock-Zyklus 1)&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004OL2CNE&quot;&gt;Neal Stephenson - Confusion (Barock-Zyklus 2)&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004OL2WF2&quot;&gt;Neal Stephenson - Principia&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004UO761I&quot;&gt;Marcus Aurelius - Selbstbetrachtungen&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004OVF0PG&quot;&gt;Arkardy and Boris Strugatzki - Gesammelte Werke 1&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004P1J5B0&quot;&gt;Arkardy and Boris Strugatzki - Gesammelte Werke 2&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B006W2HC9M&quot;&gt;Arkardy and Boris Strugatzki - Gesammelte Werke 3&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B007037XVE&quot;&gt;Arkardy and Boris Strugatzki - Gesammelte Werke 4&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;!--[Anton Tschechow - Die Möwe](https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004UBE5AG) 
+[Anton Tschechow - Onkel Wanja](https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00507V3UO)--&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3596177626&quot;&gt;&lt;strong&gt;Orhan Pamuk - Die weiße Festung&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Das Buch war ein Weihnachtsgeschenk meiner Freundin zur Vorbereitung auf unseren Urlaub in Istanbul.
+Leider hält das Buch nicht was der Literatur Nobelpreis des Autors und die eigentlich interessante
+Ausgangskonstellation versprechen.
+Der Roman handelt von einem jungen Venezianer der im 17. Jahrhundert als Sklave in Istanbul strandet.
+Dort gerät er in die Hände eines wissbegierigen Gelehrten dem er auf verblüffende Weise ähnelt.
+Was der Anfang eines spannenden Abenteuers sein könnte wird zum langweiligsten Buch das Ich seit langem
+gelesen habe.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3458321055&#x2F;&quot;&gt;&lt;strong&gt;Sören Kirkegaard - Tagebuch des Verführers&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Ein Briefroman, eigentlich ein Teil aus Kierkegaards größerem Werk &amp;quot;Entweder - Oder &amp;quot;.
+Geschildert wird die Verführung eines Mädchens.
+Der Verführer in diesem Buch ist ein Ästhet der rücksichtslos den sinnlichen Prozess der Verführung genießt.
+Lesenswert.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;unknown-date&quot;&gt;Unknown date&lt;&#x2F;h2&gt;
+&lt;p&gt;Hector und die Suche nach dem Glück &lt;br &#x2F;&gt;
+Cold Lunch &lt;br &#x2F;&gt;
+Schlachthof 5 &lt;br &#x2F;&gt;
+The Hichthikers Guide Through the Galaxy - a Trilogy in 5 Parts &lt;br &#x2F;&gt;
+Lolita - Vladimir Nabokov &lt;br &#x2F;&gt;
+Romeo und Julia, Orthello, der Sturm, Macbeth, Hamlet - William Shakespeare &lt;br &#x2F;&gt;
+Solaris, etc.  - Stanislav Lem &lt;br &#x2F;&gt;
+Picknick am Wegesrand, Die dunkle Stadt, Die Schnecke am Hang, Boris und Arkardi Strugatzki (Sowjetische Phantastik, Science Fiction) &lt;br &#x2F;&gt;
+1948, Die Farm der Tiere, Krieg der Welten &lt;br &#x2F;&gt;
+Fahrenheit  &lt;br &#x2F;&gt;
+Dr. Jeckyll und Mr. Hyde, Die Schatzinsel (Kinderfassung) - Robert Luis Stevenson &lt;br &#x2F;&gt;
+Robinson Crusoe - Daniel Defoe &lt;br &#x2F;&gt;
+Annihilation&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;box1&quot;&gt;Box1&lt;&#x2F;h2&gt;
+&lt;p&gt;J.D. Salinger - Der Fänger im Roggen &lt;br &#x2F;&gt;
+Nich Hornby - High Fidelity &lt;br &#x2F;&gt;
+Yann Martel - Schiffbruch mit Tiger &lt;br &#x2F;&gt;
+Charles Webb - Die Reifeprüfung &lt;br &#x2F;&gt;
+Francois Lelord - Hector und die Suche nach dem Glück &lt;br &#x2F;&gt;
+Rita Mae Brown - Rubinroter Dschungel &lt;br &#x2F;&gt;
+Trueman Capote - Kaltblütig &lt;br &#x2F;&gt;
+Douglas Coupland - Generation X&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>List of Publications</title>
+		<published>2018-10-12T00:00:00+00:00</published>
+		<updated>2018-10-12T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/publications/" type="text/html"/>
+		<id>https://sthiele.github.io/publications/</id>
+		<content type="html">&lt;p&gt;See also &lt;a href=&quot;https:&#x2F;&#x2F;scholar.google.de&#x2F;citations?user=ufPMoSAAAAAJ&quot;&gt;google.scholar&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;dblp.uni-trier.de&#x2F;pers&#x2F;hd&#x2F;t&#x2F;Thiele:Sven&quot;&gt;dblp&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2019&quot;&gt;2019&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;TCBB.2018.2812184&quot;&gt;Designing optimal experiments to discriminate interaction graph models&lt;&#x2F;a&gt;, Sven Thiele, Sandra Heise, Wiebke Hessenkemper, Hannes Bongartz, Melissa Fensky, Fred Schaper, Steffen Klamt, &lt;em&gt;IEEE&#x2F;ACM Trans. Comput. Biol. Bioinform&lt;&#x2F;em&gt;, 16(3), 2019.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2017&quot;&gt;2017&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.jbiotec.2017.05.001&quot;&gt;Use of CellNetAnalyzer in biotechnology and metabolic engineering&lt;&#x2F;a&gt;, Axel von Kamp, Sven Thiele, Oliver Hädicke, Steffen Klamt, &lt;em&gt;Journal of Biotechnology&lt;&#x2F;em&gt;, 2017.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1371&#x2F;journal.pcbi.1005276&quot;&gt;Meneco, a Topology-Based Gap-Filling Tool Applicable to Degraded Genome-Wide Metabolic Networks&lt;&#x2F;a&gt;, Sylvain Prigent, Clémence Frioux, Simon M Dittami, Sven Thiele, Abdelhalim Larhlimi, Guillaume Collet, Fabien Gutknecht, Jeanne Got, Damien Eveillard, Jérémie Bourdon, Frédéric Plewniak, Thierry Tonon, Anne Siegel, &lt;em&gt;PLOS Computational Biology&lt;&#x2F;em&gt;, 2017.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2016&quot;&gt;2016&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1002&#x2F;mbo3.315&quot;&gt;Putative bacterial interactions from metagenomic knowledge with an integrative systems ecology approach&lt;&#x2F;a&gt;, Philippe Bordron, Mauricio Latorre, Maria-Paz Cortés, Mauricio González, Sven Thiele, Anne Siegel, Alejandro Maass, Damien Eveillard, &lt;em&gt;MicrobiologyOpen&lt;&#x2F;em&gt;, 2016.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2015&quot;&gt;2015&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1186&#x2F;s12859-015-0733-7&quot;&gt;Extended notions of sign consistency to relate experimental data to signaling and regulatory network topologies&lt;&#x2F;a&gt;,
+Sven Thiele, Luca Cerone, Julio Saez-Rodriguez, Anne Siegel, Carito Guziołowski, and Steffen Klamt, &lt;em&gt;BMC Bioinformatics&lt;&#x2F;em&gt;, 16(345), 2015.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1016&#x2F;j.tcs.2014.06.022&quot;&gt;Learning Boolean logic models of signaling networks with ASP&lt;&#x2F;a&gt;,
+Santiago Videla, Carito Guziołowski, Federica Eduati, Sven Thiele, Martin Gebser, Jacques Nicolas, Julio Saez-Rodriguez, Torsten Schaub, and Anne Siegel, &lt;em&gt;Theoretical Computer Science&lt;&#x2F;em&gt;, 599, pages 79–101, &lt;em&gt;Advances in Computational Methods in Systems Biology&lt;&#x2F;em&gt;, 2015.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2014&quot;&gt;2014&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1111&#x2F;tpj.12627&quot;&gt;The genome-scale metabolic network of Ectocarpus siliculosus (EctoGEM): a resource to study brown algal physiology and beyond&lt;&#x2F;a&gt;,
+Sylvain Prigent, Guillaume Collet, Simon M. Dittami, Ludovic Delage, Floriane Ethis de Corny, Olivier Dameron, Damien Eveillard, Sven Thiele, Jeanne Cambefort, Catherine Boyen, Anne Siegel, and Thierry Tonon, &lt;em&gt;The Plant Journal&lt;&#x2F;em&gt;, 80(2), pages 367–381, 2014.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2013&quot;&gt;2013&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1093&#x2F;bioinformatics&#x2F;btt393&quot;&gt;Exhaustively characterizing feasible logic models of a signaling network using Answer Set Programming&lt;&#x2F;a&gt;,
+Carito Guziołowski, Santiago Videla, Federica Eduati, Sven Thiele, Thomas Cokelaer, Anne Siegel, and Julio Saez-Rodriguez, &lt;em&gt;Bioinformatics&lt;&#x2F;em&gt;, 29(18), pages 2320-2326, 2013.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-642-40564-8_21&quot;&gt;An ASP Application in Integrative Biology: Identification of Functional Gene Units&lt;&#x2F;a&gt;,
+Philippe Bordron, Damien Eveillard, Alejandro Maass, Anne Siegel, and Sven Thiele, &lt;em&gt;Proceedings of the Twelfth International Conference on Logic Programming and Nonmonotonic Reasoning&lt;&#x2F;em&gt;, volume 8148 of Lecture Notes in Computer Science, pages 206-218, Springer, 2013.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-642-40564-8_25&quot;&gt;Extending the Metabolic Network of Ectocarpus Siliculosus Using Answer Set Programming&lt;&#x2F;a&gt;,
+Guillaume Collet, Damien Eveillard, Martin Gebser, Sylvain Prigent, Torsten Schaub, Anne Siegel, and Sven Thiele, &lt;em&gt;Proceedings of the Twelfth International Conference on Logic Programming and Nonmonotonic Reasoning&lt;&#x2F;em&gt;, volume 8148 of Lecture Notes in Computer Science, pages 245-256, Springer, 2013.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2012&quot;&gt;2012&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-642-33636-2_20&quot;&gt;Revisiting the Training of Logic Models of Protein Signaling Networks with ASP&lt;&#x2F;a&gt;,
+Santiago Videla, Carito Guziołowski, Federica Eduati, Sven Thiele, Niels Grabe, Julio Saez-Rodriguez, and Anne Siegel, &lt;em&gt;Proceedings of the Tenth International Conference on Computational Methods in Systems Biology (CMSB&#x27;12)&lt;&#x2F;em&gt;, volume 7605 of Lecture Notes in Computer Science, pages 342-361, Springer, 2012.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;opus.kobv.de&#x2F;ubp&#x2F;volltexte&#x2F;2012&#x2F;5938&#x2F;&quot;&gt;Modeling biological systems with Answer Set Programming&lt;&#x2F;a&gt;,
+Sven Thiele, PhD thesis, &lt;em&gt;Universitätsbibliothek&lt;&#x2F;em&gt;, 2012.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2011&quot;&gt;2011&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1017&#x2F;S1471068410000554&quot;&gt;Detecting Inconsistencies in Large Biological Networks with Answer Set Programming&lt;&#x2F;a&gt;,
+Martin Gebser, Torsten Schaub, Sven Thiele, and Philippe Veber,
+&lt;em&gt;Theory and Practice of Logic Programming&lt;&#x2F;em&gt;, 11(2-3), pages 323-360, 2011.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2010&quot;&gt;2010&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.aaai.org&#x2F;ocs&#x2F;index.php&#x2F;KR&#x2F;KR2010&#x2F;paper&#x2F;viewFile&#x2F;1334&#x2F;1660&quot;&gt;Repair and Prediction (Under Inconsistency) in Large Biological Networks with Answer Set Programming&lt;&#x2F;a&gt;,
+Martin Gebser, Carito Guziołowski, Mihail Ivanchev, Torsten Schaub, Anne Siegel, Sven Thiele, and Philippe Veber, &lt;em&gt;Proceedings of the Twelfth International Conference on the Principles of Knowledge Representation and Reasoning (KR&#x27;10)&lt;&#x2F;em&gt;, AAAI Press, 2010.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;opus.kobv.de&#x2F;ubp&#x2F;volltexte&#x2F;2010&#x2F;3797&#x2F;pdf&#x2F;wlp09.pdf#page=63&quot;&gt;xpanda: A (Simple) Preprocessor for Adding Multi-Valued Propositions to ASP&lt;&#x2F;a&gt;,
+Martin Gebser, Henrik Hinrichs, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Twenty-third Workshop on (Constraint) Logic Programming (WLP&#x27;09)&lt;&#x2F;em&gt;, page 51, Universitätsverlag Potsdam, 2010.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1109&#x2F;ICTAI.2010.62&quot;&gt;The BioASP Library: ASP Solutions for Systems Biology&lt;&#x2F;a&gt;,
+Martin Gebser, Arne König, Torsten Schaub, Sven Thiele, and Philippe Veber, &lt;em&gt;Proceedings of the Twenty-second International Conference on Tools with Artificial Intelligence (ICTAI&#x27;10)&lt;&#x2F;em&gt;, volume 1, pages 383-389, IEEE Computer Society, 2010.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2009&quot;&gt;2009&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-642-02846-5_27&quot;&gt;Metabolic Network Expansion with Answer Set Programming&lt;&#x2F;a&gt;,
+Torsten Schaub and Sven Thiele, &lt;em&gt;Proceedings of the Twenty-fifth International Conference on Logic Programming (ICLP&#x27;09)&lt;&#x2F;em&gt;, volume 5649 of Lecture Notes in Computer Science, pages 312-326, Springer, 2009.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-642-04238-6_49&quot;&gt;On the Input Language of ASP Grounder Gringo&lt;&#x2F;a&gt;,
+Martin Gebser, Roland Kaminski, Max Ostrowski, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Tenth International Conference on Logic Programming and Nonmonotonic Rea- soning (LPNMR&#x27;09)&lt;&#x2F;em&gt;, volume 5753 of Lecture Notes in Computer Science, pages 502-508, Springer, 2009.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2008&quot;&gt;2008&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-540-89982-2_19&quot;&gt;Detecting Inconsistencies in Large Biological Networks with Answer Set Programming&lt;&#x2F;a&gt;,
+Martin Gebser, Torsten Schaub, Sven Thiele, Björn Usadel, and Philippe Veber, &lt;em&gt;Proceedings of the Twenty-fourth International Conference on Logic Programming (ICLP&#x27;08)&lt;&#x2F;em&gt;, volume 5366 of Lecture Notes in Computer Science, pages 130-144, Springer, 2008.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-540-89982-2_23&quot;&gt;Engineering an Incremental ASP Solver&lt;&#x2F;a&gt;,
+Martin Gebser, Roland Kaminski, Benjamin Kaufmann, Max Ostrowski, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Twenty-fourth International Conference on Logic Programming (ICLP&#x27;08)&lt;&#x2F;em&gt;, volume 5366 of Lecture Notes in Computer Science, pages 190-205, Springer, 2008.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.kr.org&#x2F;NMR&#x2F;proceedings&#x2F;NMR2008.pdf#page=155&quot;&gt;A Versatile Intermediate Language for Answer Set Programming&lt;&#x2F;a&gt;,
+Martin Gebser, Tomi Janhunen, Max Ostrowski, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Twelfth International Workshop on Nonmonotonic Reasoning (NMR&#x27;08)&lt;&#x2F;em&gt;, number UNSW-CSE-TR-0819 in School of Computer Science and Engineering, The University of New South Wales, Technical Report Series, pages 150-159, 2008.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2007&quot;&gt;2007&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-540-72200-7_24&quot;&gt;Gringo : A New Grounder for Answer Set Programming&lt;&#x2F;a&gt;,
+Martin Gebser, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Ninth International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR&#x27;07)&lt;&#x2F;em&gt;, volume 4483 of Lecture Notes in Computer Science, pages 266-271, Springer, 2007.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-540-75256-1_10&quot;&gt;COBA 2.0: A Consistency-Based Belief Change System&lt;&#x2F;a&gt;,
+James P. Delgrande, Daphne H. Liu, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Ninth European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU&#x27;07)&lt;&#x2F;em&gt;, volume 4724 of Lecture Notes in Computer Science, pages 78-90. Springer, 2007.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2006&quot;&gt;2006&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.cs.uni-potsdam.de&#x2F;wv&#x2F;pdfformat&#x2F;grjamescthti06a.pdf&quot;&gt;On Probing and Multi-Threading in Platypus&lt;&#x2F;a&gt;,
+Jean Gressmann, Tomi Janhunen, Robert E. Mercer, Torsten Schaub, Sven Thiele, and Richard Tichy, &lt;em&gt;Proceedings of the Seventeenth European Conference on Artificial Intelligence (ECAI&#x27;06)&lt;&#x2F;em&gt;, volume 141 of Frontiers in Artificial Intelligence and Applications, pages 392-396, IOS Press, 2006.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2005&quot;&gt;2005&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;11546207_18&quot;&gt;Platypus: A Platform for Distributed Answer Set Solving&lt;&#x2F;a&gt;,
+Jean Gressmann, Tomi Janhunen, Robert E. Mercer, Torsten Schaub, Sven Thiele, and Richard Tichy, &lt;em&gt;Proceedings of the Eighth International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR&#x27;05)&lt;&#x2F;em&gt;, volume 3662 of Lecture Notes in Computer Science, pages 227-239, Springer, 2005.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Software</title>
+		<published>2018-10-12T00:00:00+00:00</published>
+		<updated>2018-10-12T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/software/" type="text/html"/>
+		<id>https://sthiele.github.io/software/</id>
+		<content type="html">&lt;p&gt;Current projects:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;potassco&#x2F;clingo-rs&quot;&gt;&lt;code&gt;clingo-rs&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - Rust bindings to the clingo library.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;meneco&quot;&gt;&lt;code&gt;meneco&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - A tool to compute optimal extensions for a metabolic network.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;iggy&quot;&gt;&lt;code&gt;iggy&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - Tools for the consistency based analysis (consistency check, diagnosis, repair and prediction) of influence graphs models and experimental observations.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;exdesi&quot;&gt;&lt;code&gt;exdesi&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - Design experiments to differentiate interaction graph models.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;ingranalyze&quot;&gt;&lt;code&gt;ingranalyze&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - The precursor of Iggy computes the minimal inconsistent core (MIC) of an influence graph model.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;precursor&quot;&gt;&lt;code&gt;precursor&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - A tool to compute minimal sets of precursor metabolites necessary to produce targets metabolites.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sthiele&#x2F;pyasp&quot;&gt;&lt;code&gt;pyasp&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - A convenience wrapper for the ASP tools gringo, clasp, claspD.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Older projects:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sthiele&#x2F;clingo-rs&quot;&gt;&lt;code&gt;hasple&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - An experimental answer set solver in Haskell.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;shogen&quot;&gt;&lt;code&gt;shogen&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - Combine metabolic network and gene sequence to compute the &lt;em&gt;Shortest Gene Segments (SGS)&lt;&#x2F;em&gt; activating a metabolic pathway.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;potassco.org&#x2F;clingo&quot;&gt;&lt;code&gt;gringo&lt;&#x2F;code&gt; and &lt;code&gt;clingo&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - A grounder and solver for logic programs.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;platypus&lt;&#x2F;code&gt;- An parallel answer set solver&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>First CNA video tutorials online</title>
+		<published>2017-03-01T00:00:00+00:00</published>
+		<updated>2017-03-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/cna-video-tutorials/" type="text/html"/>
+		<id>https://sthiele.github.io/cna-video-tutorials/</id>
+		<content type="html">&lt;p&gt;I created some video tutorials for &lt;a href=&quot;https:&#x2F;&#x2F;www2.mpi-magdeburg.mpg.de&#x2F;projects&#x2F;cna&#x2F;cna.html&quot;&gt;CellNetAnalyzer&lt;&#x2F;a&gt;,
+the software we develop at work.
+I uploaded the first video to youtube.&lt;&#x2F;p&gt;
+&lt;div &gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;?list=PLvcqZyZHMRRR7ZUg0_yyFKMK5VJLB4Cj1&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;&#x2F;h3&gt;
+&lt;p&gt;The video was captured using &lt;a href=&quot;http:&#x2F;&#x2F;www.maartenbaert.be&#x2F;simplescreenrecorder&#x2F;&quot;&gt;simplescreenrecorder&lt;&#x2F;a&gt;,
+for the voice over I used a text to speech system,
+and the video editing was done with &lt;a href=&quot;https:&#x2F;&#x2F;kdenlive.org&quot;&gt;kdenlive&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sign consistency methods to reason over the transitional behavior of dynamic systems</title>
+		<published>2016-06-01T00:00:00+00:00</published>
+		<updated>2016-06-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/scm/" type="text/html"/>
+		<id>https://sthiele.github.io/scm/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;In this series I want to explain how interaction graph models and sign consistency methods are used to model the behavior of dynamical systems. The focus lies on modeling the behavior of biological systems, although the application to artificial systems is possible. In particular, I want to show how certain sign consistency methods work, under which assumption they operate, which biological questions they allow us to answer, and what problems exist. My aim is to be very beginner friendly with lots of examples. OK, let’s dive into it! Here is a table of content that list the covered topics from which you can cherry pick.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contents&quot;&gt;CONTENTS&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;scm&#x2F;scm1&quot;&gt;&lt;strong&gt;Interaction graphs and signed system changes&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;scm&#x2F;scm2&quot;&gt;&lt;strong&gt;Modeling open systems inputs and perturbations&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;scm&#x2F;scm3&quot;&gt;&lt;strong&gt;Minimum and maximum level constraints&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;scm&#x2F;scm4&quot;&gt;&lt;strong&gt;Predicting effects on downstream regulated variables&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;scm&#x2F;scm5&quot;&gt;&lt;strong&gt;Predicting effects on cooperatively regulated variables&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;scm&#x2F;scm6&quot;&gt;&lt;strong&gt;Excluding unfounded changes in feedback loops&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Model consistency wrt. measurement data&lt;&#x2F;strong&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Consistency index and data repair&lt;&#x2F;strong&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Model repair and network inference&lt;&#x2F;strong&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Dependency matrix&lt;&#x2F;strong&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Experiment design&lt;&#x2F;strong&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Relation to Boolean Networks&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;references&quot;&gt;References&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;S. Thiele, L. Cerone, J. Saez-Rodriguez, A. Siegel, C. Guziołowski, and S. Klamt. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1186&#x2F;s12859-015-0733-7&quot;&gt;Extended notions of sign consistency to relate experimental data to signaling and regulatory network topologies&lt;&#x2F;a&gt;, &lt;em&gt;BMC Bioinformatics&lt;&#x2F;em&gt;, 16(345), 2015.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;I. N. Melas, R. Samaga, L. G. Alexopoulos, and S. Klamt. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1371&#x2F;journal.pcbi.1003204&quot;&gt;Detecting and Removing Inconsistencies between Experimental Data and Signaling Network Topologies Using Integer Linear Programming on Interaction Graphs&lt;&#x2F;a&gt;, &lt;em&gt;PLoS Computational Biology&lt;&#x2F;em&gt;, 9(9):e1003204, 09 2013. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;R. Samaga and S. Klamt. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1186&#x2F;1478-811X-11-43&quot;&gt;Modeling approaches for qualitative and semi-quantitative analysis of cellular signaling networks&lt;&#x2F;a&gt;, &lt;em&gt;Cell Communication and Signaling&lt;&#x2F;em&gt;, 11(43), 2013.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;M. Gebser, T. Schaub, S. Thiele, and P. Veber. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1017&#x2F;S1471068410000554&quot;&gt;Detecting inconsistencies in large biological networks with answer set programming&lt;&#x2F;a&gt;, &lt;em&gt;Theory and Practice of Logic Programming&lt;&#x2F;em&gt;, 11(2-3):323–360, 2011.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;M. Gebser, C. Guziołowski, M. Ivanchev, T. Schaub, A. Siegel, S. Thiele, and P. Veber. &lt;a href=&quot;http:&#x2F;&#x2F;aaai.org&#x2F;ocs&#x2F;index.php&#x2F;KR&#x2F;KR2010&#x2F;paper&#x2F;view&#x2F;1334&quot;&gt;Repair and prediction (under inconsistency) in large biological networks with answer set programming&lt;&#x2F;a&gt;, &lt;em&gt;Proceedings of the Twelfth International Conference on the Principles of Knowledge Representation and Reasoning (KR’10)&lt;&#x2F;em&gt;, AAAI Press, 2010.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;J. Saez-Rodriguez, L. G. Alexopoulos, J. Epperlein, R. Samaga, D. A. Lauffenburger, S. Klamt, and P. K. Sorger. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1038&#x2F;msb.2009.87&quot;&gt;Discrete logic modelling as a means to link protein signalling networks with functional analysis of mammalian signal transduction&lt;&#x2F;a&gt;, &lt;em&gt;Molecular systems biology&lt;&#x2F;em&gt;, 5(331), 2009.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;S. Klamt, J. Saez-Rodriguez, J. Lindquist, L. Simeoni, and E. Gilles. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1186&#x2F;1471-2105-7-56&quot;&gt;A methodology for the structural and functional analysis of signaling and regulatory networks&lt;&#x2F;a&gt;, &lt;em&gt;BMC Bioinformatics&lt;&#x2F;em&gt;, 7(1):56, 2006.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Interaction graphs and signed system changes</title>
+		<published>2016-06-01T00:00:00+00:00</published>
+		<updated>2016-06-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/scm/scm1/" type="text/html"/>
+		<id>https://sthiele.github.io/scm/scm1/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 1 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+This part is introducing interaction graph models and how they are used by sign consistency methods to model the changes in a dynamic system.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-are-interaction-graphs&quot;&gt;What are interaction graphs?&lt;&#x2F;h2&gt;
+&lt;p&gt;Interaction or influence graphs are a widely used representation for complex systems.
+The components or variables of the system are represented by nodes and edges denote how these components interact with each other.
+Many biological systems have a representation as interaction graph: hunter prey models, gene regulatory networks, signaling networks, etc. 
+Here is a more formal definition.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Definition 1&lt;&#x2F;strong&gt;: 
+&lt;em&gt;An interaction graph is a signed directed graph (V, E, σ), where
+V is a set of nodes,
+E is a set of edges, and
+σ : E → {+, –} is a labeling of the edges. 
+Every node in V represents a system variable and an edge 
+i→j means that the change of i in time influences the value of j. 
+Every edge i→j of an interaction graph can be labeled with a sign, 
+either + or –, denoted by σ(i,j),
+where + (–) indicates that i tends to increase (decrease) j.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;An example of an interaction graph is given in Figure 1. 
+There exist many variants of interaction graphs some have weighted edges and some have other kind of edges or different types of nodes. 
+But this definition will suffice us for now.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;IG1.png&quot; alt=&quot;IG1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: Example of an interaction graph. Green arrows indicate positive (+) influence, red edges negative (–) influence.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-are-signed-system-changes&quot;&gt;What are signed system changes?&lt;&#x2F;h2&gt;
+&lt;p&gt;Interaction graphs are models of dynamic quantitative systems where a quantitative state of the system is a mapping &lt;em&gt;S&lt;sub&gt;i&lt;&#x2F;sub&gt; : V → ℝ&lt;sup&gt;+&lt;&#x2F;sup&gt;&lt;&#x2F;em&gt;.
+Sign consistency methods use signs to denote changes in the variables of the modeled system. 
+Examples for such changes could be increase or decrease in metabolite concentrations or expression levels of genes. 
+The signs &lt;em&gt;+&lt;&#x2F;em&gt; and &lt;em&gt;–&lt;&#x2F;em&gt; are used to denote &lt;em&gt;increase&lt;&#x2F;em&gt; and &lt;em&gt;decrease&lt;&#x2F;em&gt; and &lt;em&gt;0&lt;&#x2F;em&gt; signifies &lt;em&gt;no-change&lt;&#x2F;em&gt;. 
+Sign consistency methods relate the IG model of the system and the variations between system states by representing the variations as labels on the nodes in the graph. 
+For example, the changes between two states of the system are represented by labeling the nodes of IG with the signs of the change in the corresponding system variable. 
+Given two system states &lt;em&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; and &lt;em&gt;S&lt;sub&gt;O&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; the differences between these states can be represented as the labeling &lt;em&gt;μ&lt;sub&gt;RO&lt;&#x2F;sub&gt; : V →{+,–,0}&lt;&#x2F;em&gt; with &lt;em&gt;μ&lt;sub&gt;RO&lt;&#x2F;sub&gt;(x) = sign(x&lt;sub&gt;S&lt;sub&gt;O&lt;&#x2F;sub&gt;&lt;&#x2F;sub&gt; - x&lt;sub&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt;&lt;&#x2F;sub&gt;)&lt;&#x2F;em&gt;. 
+See Figure 2 for an example of two states and the corresponding sign labeling.
+We use the colors 
+&lt;span style=&quot;background:#AAE6AA&quot;&gt;    &lt;&#x2F;span&gt;,
+&lt;span style=&quot;background:#E6AAAA&quot;&gt;    &lt;&#x2F;span&gt;,
+&lt;span style=&quot;background:#82B9FF&quot;&gt;    &lt;&#x2F;span&gt; to represent the signs &lt;em&gt;+&lt;&#x2F;em&gt;, &lt;em&gt;–&lt;&#x2F;em&gt;, &lt;em&gt;0&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;QST1.png&quot; alt=&quot;QST1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2&lt;&#x2F;strong&gt;: Example of a sign labeling representing the changes between two quantitative states.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;sign-consistency-rules&quot;&gt;Sign consistency rules&lt;&#x2F;h2&gt;
+&lt;p&gt;Sign consistency methods define rules that determine which labelings of the graph are considered consistent and which are considered inconsistent.
+There exist several different consistency rules which are useful to model different properties of a biological system. 
+For now we only consider the following.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rule 1 (backwards propagation)&lt;&#x2F;strong&gt;
+Every change in a node must be explained by a change in one of its predecessors.
+&lt;em&gt;Let (V,E,σ) be an IG. Then a labeling μ : V →{+,–,0} satisfies Rule 1 for node i ∈ V iff&lt;&#x2F;em&gt;
++ &lt;em&gt;μ(i) = 0, or&lt;&#x2F;em&gt;
++ &lt;em&gt;there is some edge j→i in E such that μ(i) = μ(j)σ(j,i).&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Rule 1&lt;&#x2F;em&gt; implements backward reasoning. 
+Given an effect we look backwards to verify its cause. 
+Labelings that are consistent with this rule represent the differences between steady states. 
+In a steady state the values of all state variables are balanced. 
+Hence, the change in one variable must be sustained by the change in one of its predecessors. 
+In other words, if &lt;em&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; and &lt;em&gt;S&lt;sub&gt;O&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; are steady states of the system then the labeling &lt;em&gt;μ&lt;sub&gt;RO&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; is consistent with &lt;em&gt;Rule 1&lt;&#x2F;em&gt;. 
+The trivial example is when both states are the same &lt;em&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt; = S&lt;sub&gt;O&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; then nothing changes &lt;em&gt;∀x ∈ V : μ&lt;sub&gt;RO&lt;&#x2F;sub&gt;(x) = 0&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Let’s see what else we can do with that. 
+&lt;em&gt;Figure 3&lt;&#x2F;em&gt; shows an interaction graph and all labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt; : V →{+,–,0}&lt;&#x2F;em&gt; with &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(a) = +&lt;&#x2F;em&gt; that satisfy &lt;em&gt;Rule 1&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL1.png&quot; alt=&quot;COL1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 3&lt;&#x2F;strong&gt;: Labeled interaction graph&lt;&#x2F;p&gt;
+&lt;p&gt;Often it is useful to represent the labelings in a table as shown in &lt;em&gt;Table 1&lt;&#x2F;em&gt;.
+As you can see, there exist only four labelings that satisfy these constraints. 
+In every of these labeling it holds &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(e) = +&lt;&#x2F;em&gt; and &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(f) = –&lt;&#x2F;em&gt;.
+We can use this table to predict the behavior of the system. 
+We see that in every steady state, with an increase in &lt;em&gt;a&lt;&#x2F;em&gt; we also have an increase in &lt;em&gt;e&lt;&#x2F;em&gt; and a decrease in &lt;em&gt;f&lt;&#x2F;em&gt;.
+For &lt;em&gt;b&lt;&#x2F;em&gt; and &lt;em&gt;c&lt;&#x2F;em&gt; we can predict that they will not decrease, and for &lt;em&gt;d&lt;&#x2F;em&gt; that it will not increase.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;CT1.png&quot; alt=&quot;CT1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1&lt;&#x2F;strong&gt;: Table of admissible labelings.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;In this part I introduced interaction graphs and explained how they can be used to model biological systems. We have seen how sign consistency methods represent variations in the system as sign labelings, and how sign consistency constraints can be used to derive predictions over the steady states of a system. So far we have modeled a closed system. 
+In &lt;a href=&quot;&#x2F;scm&#x2F;scm2&quot;&gt;Part 2&lt;&#x2F;a&gt; I will introduce external inputs and perturbations. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Modeling open systems inputs and perturbations</title>
+		<published>2016-06-01T00:00:00+00:00</published>
+		<updated>2016-06-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/scm/scm2/" type="text/html"/>
+		<id>https://sthiele.github.io/scm/scm2/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 2 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+In &lt;a href=&quot;&#x2F;scm&#x2F;scm1&quot;&gt;Part 1&lt;&#x2F;a&gt; of this series we learned how to use interaction graphs and sign consistency methods to reason about steady states in closed systems. 
+In this part we add inputs to our model and answer the question how a biological system responds to external influences.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;inputs-and-perturbations&quot;&gt;Inputs and perturbations&lt;&#x2F;h2&gt;
+&lt;p&gt;Most systems interact in some ways with a surrounding environment.
+To reason over systems response to different environmental settings we introduce &lt;em&gt;input&lt;&#x2F;em&gt; variables.
+Input variables are not controlled by the system but represent external influences on the system.
+Such &lt;em&gt;inputs&lt;&#x2F;em&gt; could be stressors like temperature, light or drugs.
+In an IG &lt;em&gt;(E,V)&lt;&#x2F;em&gt;
+we denote the set of nodes that represent input variables with &lt;em&gt;I ⊆ V&lt;&#x2F;em&gt;. 
+Because input nodes are controlled externally,
+they are excluded from the sign consistency rules.&lt;&#x2F;p&gt;
+&lt;p&gt;For the closed system shown in &lt;em&gt;Figure 1&lt;&#x2F;em&gt;, there exists no single labeling &lt;em&gt;μ : V→{+,–,0}&lt;&#x2F;em&gt;, with &lt;em&gt;μ(a) = +&lt;&#x2F;em&gt; and &lt;em&gt;μ(b) = –&lt;&#x2F;em&gt; that satisfies &lt;em&gt;Rule 1&lt;&#x2F;em&gt; for all &lt;em&gt;v ∈ V&lt;&#x2F;em&gt;.
+In other words, there exists no transition between steady states where &lt;em&gt;a&lt;&#x2F;em&gt; increases and &lt;em&gt;b&lt;&#x2F;em&gt; decreases. 
+Because &lt;em&gt;a&lt;&#x2F;em&gt; is the only predecessor of &lt;em&gt;b&lt;&#x2F;em&gt;, between all steady states changes in &lt;em&gt;a&lt;&#x2F;em&gt; and &lt;em&gt;b&lt;&#x2F;em&gt; must have the same sign.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;IG1.png&quot; alt=&quot;IG1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: Example of an interaction graph. Green arrows indicate positive (+) influence, red edges negative (–) influence.&lt;&#x2F;p&gt;
+&lt;p&gt;We can interpret our model as an open system,
+were the value of &lt;em&gt;b&lt;&#x2F;em&gt; is determined by the environment by declaring &lt;em&gt;b&lt;&#x2F;em&gt; as input variable.
+With perturbations we can now take control over the input variables and find out how the system behaves under different environmental conditions. 
+For example we can now find out how our system reacts to a decrease in &lt;em&gt;b&lt;&#x2F;em&gt;. &lt;em&gt;Figure 2&lt;&#x2F;em&gt; shows all labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; that satisfy &lt;em&gt;Rule 1&lt;&#x2F;em&gt; for all &lt;em&gt;v ∈ V \ I&lt;&#x2F;em&gt; with &lt;em&gt;I = {b}&lt;&#x2F;em&gt; and &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(a) = +&lt;&#x2F;em&gt; and &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(b) = –&lt;&#x2F;em&gt;.
+Input nodes are denoted with a black incoming arrow.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL2.png&quot; alt=&quot;COL2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2&lt;&#x2F;strong&gt;: Labeled interaction graph&lt;&#x2F;p&gt;
+&lt;p&gt;We see that using a perfect perturbation, a sustained decrease of &lt;em&gt;b&lt;&#x2F;em&gt;,
+the system can reach a quasi steady state where both &lt;em&gt;a&lt;&#x2F;em&gt; and &lt;em&gt;d&lt;&#x2F;em&gt; are increased. 
+This is a state which could not be reached in the closed system without perturbation.
+While this is already an interesting reasoning mode, it is even more interesting to flip the question around and use this approach to do some treatment planning.
+Let’s see, what are the minimal perturbations that would allow the system to transition into a state where &lt;em&gt;a&lt;&#x2F;em&gt; and &lt;em&gt;d&lt;&#x2F;em&gt; are increased?
+&lt;em&gt;Figure 3&lt;&#x2F;em&gt; shows the potential perturbations (along with partial labelings) that allow for such a state-transition.
+We can see that we have two more alternatives to reach our goal, either a direct increase in &lt;em&gt;d&lt;&#x2F;em&gt; or a decrease in &lt;em&gt;c&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;MINPERT.png&quot; alt=&quot;MINPERT&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 3&lt;&#x2F;strong&gt;: Minimal perturbations of the system that can results in an increase of &lt;em&gt;a&lt;&#x2F;em&gt; and &lt;em&gt;d&lt;&#x2F;em&gt; (along with partial labeling)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;perturbations-and-model-topology&quot;&gt;Perturbations and model topology&lt;&#x2F;h2&gt;
+&lt;p&gt;Perturbations play a major role in the analysis of biological models. 
+A complementary view point on perturbations is that they allow us to alter the model structure. 
+In particular, all incoming edges of an input node can be ignored because the node is no longer constrained by the system but by us. 
+A special role play so called &lt;em&gt;0-perturbations&lt;&#x2F;em&gt;, these are perturbations were the value of a variable is kept &lt;em&gt;constant over the state transition&lt;&#x2F;em&gt;.
+For those nodes the only possible label is &lt;em&gt;0&lt;&#x2F;em&gt; and we can ignore their outgoing edges because they can’t be responsible for any downstream changes.
+It’s easy to see that for complex models with many cyclic interactions such perturbations are very useful to investigate the influence of single components while excluding the influence of others. 
+In a later part, we will see how perturbations are used to design experiments that allow to discriminate among alternative model topologies.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;In this part I introduced inputs and we have seen how one can model perturbations of a system. 
+We have seen how we can reason over possible perturbations of a systems, and how to use this for treatment planning. 
+In the &lt;a href=&quot;&#x2F;scm&#x2F;scm3&quot;&gt;next part&lt;&#x2F;a&gt; I will introduce a new consistency rule that allows us to handle constraints that are posed by the minima and maxima of the system variables.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Minimum and maximum level constraints</title>
+		<published>2016-06-01T00:00:00+00:00</published>
+		<updated>2016-06-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/scm/scm3/" type="text/html"/>
+		<id>https://sthiele.github.io/scm/scm3/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 3 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+Previously, we covered the sign consistency rule for &lt;a href=&quot;&#x2F;scm&#x2F;scm1#sign-consistency-rules&quot;&gt;backward propagation&lt;&#x2F;a&gt;.
+In this part I will introduce a new rule that discards solutions that violate minimum and maximum constraints on system variables. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;constrained-values-for-system-variables&quot;&gt;Constrained values for system variables&lt;&#x2F;h2&gt;
+&lt;p&gt;A lot of variables in biological systems have minimum (resp. maximum) constraints. 
+Concentration level cannot go below 0 or above 100%, and signals which are below the detection threshold cannot drop any further. 
+Figure &lt;em&gt;1&lt;&#x2F;em&gt; shows an IG with four variables &lt;em&gt;a&lt;&#x2F;em&gt;, &lt;em&gt;b&lt;&#x2F;em&gt;, &lt;em&gt;c&lt;&#x2F;em&gt; and &lt;em&gt;d&lt;&#x2F;em&gt;.
+Let&#x27;s say the variable &lt;em&gt;c&lt;&#x2F;em&gt; represent a concentration and only values in the range of 0 to 100 are valid.
+Further, we know that in our reference state &lt;em&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; the variable &lt;em&gt;c&lt;&#x2F;em&gt; is at its minimum. 
+Let’s try to find all labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; that represent transisitions from &lt;em&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; to a state &lt;em&gt;S&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; where the level of &lt;em&gt;d&lt;&#x2F;em&gt; has increased, &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(d) = +&lt;&#x2F;em&gt;.
+Figure &lt;em&gt;2&lt;&#x2F;em&gt; shows all labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; that satisfy consistency &lt;em&gt;Rule 1&lt;&#x2F;em&gt;.
+The labelings &lt;em&gt;μ&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; and &lt;em&gt;μ&lt;sub&gt;3&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; violate the the minimality constraint on variable &lt;em&gt;c&lt;&#x2F;em&gt;,
+because there exists no value for &lt;em&gt;c&lt;&#x2F;em&gt; in [0,100] such that &lt;em&gt;sign(c - 0) = –&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;IG2.png&quot; alt=&quot;IG2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: An IG and with the reference state &lt;em&gt;SR&lt;&#x2F;em&gt; where variable c &lt;em&gt;on&lt;&#x2F;em&gt; its minimum.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL_IG2.png&quot; alt=&quot;COL_IG2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2&lt;&#x2F;strong&gt;: All labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; with &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(d) = +&lt;&#x2F;em&gt; that satisfy &lt;em&gt;Rule 1&lt;&#x2F;em&gt;. Only &lt;em&gt;μ&lt;sub&gt;1&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; is consistent with the value restrictions of variable &lt;em&gt;c&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;To deal with minimum (resp. maximum) constraints we introduce a new consistency rule.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rule 2 (obey minima&#x2F;maxima)&lt;&#x2F;strong&gt;: A variable that is on its minimum cannot decrease and an variable at its maximum cannot increase.
+&lt;em&gt;Let (V,E,σ) be an IG, MIN ⊆ V variables that are at their minimum, and MAX ⊆ V variables that are at their maximum. Then a labeling μ : V →{+,–,0} satisfies Rule 2 for node i ∈ V iff&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;μ(i) = 0, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;μ(i) = –, and i ∉ MIN, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;μ(i) = +, and i ∉ MAX.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;Rule 2&lt;&#x2F;em&gt; allows us to exclude solutions that violate the constraints on minimal&#x2F;maximal values.
+In &lt;em&gt;Figure 2&lt;&#x2F;em&gt; only labeling &lt;em&gt;μ&lt;sub&gt;1&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; satisfies both consistency rules &lt;em&gt;1&lt;&#x2F;em&gt; and &lt;em&gt;2&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;We now have a consistency rule that allows us to filter solutions that violate constraints restricting the minimum or maximum level of system variables. 
+This rule can be combined with other consistency rules to get better explanations for state transitions.
+In the &lt;a href=&quot;&#x2F;scm&#x2F;scm4&quot;&gt;next part&lt;&#x2F;a&gt; I will introduce another consistency rule that increases the predictive power of sign consistency methods. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Predicting effects on downstream regulated variables</title>
+		<published>2016-06-01T00:00:00+00:00</published>
+		<updated>2016-06-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/scm/scm4/" type="text/html"/>
+		<id>https://sthiele.github.io/scm/scm4/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 4 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+Previously, we covered the sign consistency rule for &lt;a href=&quot;&#x2F;scm&#x2F;scm1#sign-consistency-rules&quot;&gt;backward propagation&lt;&#x2F;a&gt; which works for transitions between steady states. 
+In this part I introduce another consistency rule that also works for steady state transitions, 
+and increases the predictive power of sign consistency methods.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;forward-propagation&quot;&gt;Forward propagation&lt;&#x2F;h2&gt;
+&lt;p&gt;The backward reasoning implemented by &lt;em&gt;Rule 1&lt;&#x2F;em&gt; is very cautious. 
+It expresses the assumption is that for every effect there must be a cause but it excludes the assumption that a change must have and effect. Figure &lt;em&gt;1&lt;&#x2F;em&gt; shows all labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; that are consistent with &lt;em&gt;Rule 1&lt;&#x2F;em&gt; and were &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(b) = +&lt;&#x2F;em&gt;.
+In all labelings it holds that &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(a) = +&lt;&#x2F;em&gt;, so we can predict very precisely the cause for an increase in &lt;em&gt;b&lt;&#x2F;em&gt;. 
+But the labelings for &lt;em&gt;c&lt;&#x2F;em&gt; are ambiguous, although we see an increase in &lt;em&gt;b&lt;&#x2F;em&gt; we cannot predict an increase in &lt;em&gt;c&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL3.png&quot; alt=&quot;COL3&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: Prediction under consistency &lt;em&gt;Rule 1&lt;&#x2F;em&gt;. Backward propagation does not allow an unambiguous prediction for &lt;em&gt;c&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;To increase the predictive power of our method we define a new consistency rule that implements the assumption that a change in one variable has an effect on its successors. 
+We define this rule for independent regulations &lt;em&gt;i → j&lt;&#x2F;em&gt; were a change in &lt;em&gt;i&lt;&#x2F;em&gt; is sufficient to cause an change in &lt;em&gt;j&lt;&#x2F;em&gt;. 
+In the next part we will introduce cooperative (dependent) regulations were it depends on other variables in the system whether the change in &lt;em&gt;i&lt;&#x2F;em&gt; will have an effect on &lt;em&gt;j&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;QST2.png&quot; alt=&quot;QST2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2&lt;&#x2F;strong&gt;: Five quantitative stable states of a variable with two independent regulations.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL4.png&quot; alt=&quot;COL4&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 3&lt;&#x2F;strong&gt;: Sign labeling representation of possible transitions among the states in Figure &lt;em&gt;2&lt;&#x2F;em&gt;. 
+The &lt;em&gt;~&lt;&#x2F;em&gt; means that the values of the input nodes have been switched left to right in the state.&lt;&#x2F;p&gt;
+&lt;p&gt;Figure &lt;em&gt;2&lt;&#x2F;em&gt; shows exemplarily five quantitative representations of stable states of a system were one variable is independently regulated by two predecessors. 
+In Figure &lt;em&gt;3&lt;&#x2F;em&gt; we see the possible sign labelings representing different state transitions. 
+We see that for the cases &lt;em&gt;a&lt;&#x2F;em&gt;-&lt;em&gt;c&lt;&#x2F;em&gt; there exists an unambiguous input output behavior.
+In the cases &lt;em&gt;d&lt;&#x2F;em&gt;-&lt;em&gt;f&lt;&#x2F;em&gt; we see different outputs for the same input. 
+This behavior is enforced through the following forward propagation rule.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rule 3 (forward propagation)&lt;&#x2F;strong&gt; &lt;em&gt;0-change&lt;&#x2F;em&gt; can only occur in a variable that does not depend on other variables with change, or if it receives opposing regulations.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Let (V,E,σ) be an IG. Then a labeling μ : V →{+,–,0} satisfies Rule 3 for node i ∈ V iff&lt;&#x2F;em&gt;
++ &lt;em&gt;μ(i)≠0, or&lt;&#x2F;em&gt;
++ &lt;em&gt;there is no edge j → i in E such that μ(j)σ(j,i) ∈{+,–}, or&lt;&#x2F;em&gt;
++ &lt;em&gt;there exist at least two edges j&lt;sub&gt;1&lt;&#x2F;sub&gt; → i and j&lt;sub&gt;2&lt;&#x2F;sub&gt; → i in E such that μ(j&lt;sub&gt;1&lt;&#x2F;sub&gt;)σ(j&lt;sub&gt;1&lt;&#x2F;sub&gt;,i)+ μ(j&lt;sub&gt;2&lt;&#x2F;sub&gt;)σ(j&lt;sub&gt;2&lt;&#x2F;sub&gt;,i) = 0.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This rule implements forward propagation by restricting the occurrence of &lt;em&gt;0&lt;&#x2F;em&gt;. 
+In other words &lt;em&gt;Rule 3&lt;&#x2F;em&gt; limits the cases were a change in an upstream node can have no effect on the regulated down stream node. 
+We can see now that labeling &lt;em&gt;μ&lt;sub&gt;1&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; in Figure 1 does not satisfy &lt;em&gt;Rule 3&lt;&#x2F;em&gt; for &lt;em&gt;c&lt;&#x2F;em&gt;. 
+Only labeling &lt;em&gt;μ&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; satisfies both &lt;em&gt;Rule 1&lt;&#x2F;em&gt; and &lt;em&gt;3&lt;&#x2F;em&gt; for all nodes, leaving us with only one possible behavior.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;In this part I have introduced the forward propagation rule for independent regulations, and we have seen how forward propagation increases the predictive power of sign consistency methods. 
+In the &lt;a href=&quot;&#x2F;scm&#x2F;scm5&quot;&gt;next part&lt;&#x2F;a&gt; I will show how we can implement forward propagation for cooperative (dependent) regulations.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Predicting effects on cooperatively regulated variables</title>
+		<published>2016-06-01T00:00:00+00:00</published>
+		<updated>2016-06-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/scm/scm5/" type="text/html"/>
+		<id>https://sthiele.github.io/scm/scm5/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 5 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+The previous part introduced the &lt;a href=&quot;&#x2F;scm&#x2F;scm4#forward-propagation&quot;&gt;forward propagation rule for independent regulations&lt;&#x2F;a&gt;. 
+I mentioned that there exists a second kind of regulations, cooperative dependent regulation.
+While for independent regulation &lt;em&gt;i → j&lt;&#x2F;em&gt; a change in &lt;em&gt;i&lt;&#x2F;em&gt; is sufficient to cause an change in &lt;em&gt;j&lt;&#x2F;em&gt;,
+it depends for cooperative regulations on multiple variables whether the change in &lt;em&gt;i&lt;&#x2F;em&gt; will have an effect on &lt;em&gt;j&lt;&#x2F;em&gt;.
+Cooperative regulation exists in various forms in biological systems as chemical reactions that need multiple reactants or complex protein interactions. 
+In this part I will show how cooperative regulations can be modeled within the sign consistency approach.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;forward-propagation-in-cooperatively-regulated-variables&quot;&gt;Forward propagation in cooperatively regulated variables&lt;&#x2F;h2&gt;
+&lt;p&gt;Cooperative regulations are represented as distinct type of variables in our system similar to &lt;em&gt;AND&lt;&#x2F;em&gt; nodes of a logic network.
+The basic idea behind cooperative regulation is that one needs all regulators to have an effect,
+but there exist only one limiting factor.
+It might be sufficient to increase (resp. decrease) one of the regulators to change the limiting factor,
+but to ensure a change in the limiting factor all regulators have to increase (resp. decrease).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;QST3.png&quot; alt=&quot;QST3&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: Five quantitative stable states of a cooperatively regulated variable.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL5.png&quot; alt=&quot;COL5&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2&lt;&#x2F;strong&gt;: Sign labeling representation of possible transitions among the states in Figure &lt;em&gt;1&lt;&#x2F;em&gt;.
+The &lt;em&gt;~&lt;&#x2F;em&gt; means that the values of the input nodes have been switched left to right in the state.&lt;&#x2F;p&gt;
+&lt;p&gt;Figure &lt;em&gt;1&lt;&#x2F;em&gt; shows exemplarily five quantitative representations of stable states of a system were one variable is cooperatively regulated by two predecessors. 
+In Figure &lt;em&gt;2&lt;&#x2F;em&gt; we see the possible sign labelings representing different state transitions.
+We see that for the cases &lt;em&gt;a&lt;&#x2F;em&gt; and &lt;em&gt;d&lt;&#x2F;em&gt; there exists an unambiguous input output behavior.
+In the cases &lt;em&gt;b&lt;&#x2F;em&gt;-&lt;em&gt;c&lt;&#x2F;em&gt; and &lt;em&gt;e&lt;&#x2F;em&gt;-&lt;em&gt;g&lt;&#x2F;em&gt; we see different outputs for the same input.
+In both state transitions &lt;em&gt;b&lt;&#x2F;em&gt; and &lt;em&gt;c&lt;&#x2F;em&gt; we have an increase in one of the regulators while the other regulator remains unchanged, 
+but only in &lt;em&gt;c&lt;&#x2F;em&gt; the limiting factor has changed leading to a change in the regulated variable. 
+This behavior is implemented by the following &lt;em&gt;forward propagation&lt;&#x2F;em&gt; rule.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rule 3b (forward propagation cooperative regulation)&lt;&#x2F;strong&gt;: 0-change can only occur in a variable that does not depend on other variables with change, or if it receives opposing regulations.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Let (V,E,σ) be an IG and V&lt;sub&gt;C&lt;&#x2F;sub&gt; ⊆ V cooperatively regulated variables.
+Then a labeling μ : V →{+,–,0} satisfies &lt;em&gt;Rule 3b&lt;&#x2F;em&gt; for node i ∈ V&lt;sub&gt;C&lt;&#x2F;sub&gt; iff&lt;&#x2F;em&gt;
++ &lt;em&gt;μ(i)≠0, or&lt;&#x2F;em&gt;
++ &lt;em&gt;there is no edge j → i in E such that μ(j)σ(j,i) ∈{+,–}, or&lt;&#x2F;em&gt;
++ &lt;em&gt;there is an edge j → i in E such that σ(j,i) = 0, or&lt;&#x2F;em&gt;
++ &lt;em&gt;there exist at least two edges j&lt;sub&gt;1&lt;&#x2F;sub&gt; →i and j&lt;sub&gt;2&lt;&#x2F;sub&gt; →i in E such that μ(j&lt;sub&gt;1&lt;&#x2F;sub&gt;)σ(j&lt;sub&gt;1&lt;&#x2F;sub&gt;,i)+ μ(j&lt;sub&gt;2&lt;&#x2F;sub&gt;)σ(j&lt;sub&gt;2&lt;&#x2F;sub&gt;,i) = 0.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This rule implements forward propagation by restricting the occurrence of &lt;em&gt;0&lt;&#x2F;em&gt;. 
+In other words &lt;em&gt;Rule 3b&lt;&#x2F;em&gt; limits the cases were a &lt;em&gt;change&lt;&#x2F;em&gt; in an upstream node can have no effect on the regulated down stream node.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;In this part I introduced the forward propagation rule for cooperative regulations. 
+In the &lt;a href=&quot;&#x2F;scm&#x2F;scm6&quot;&gt;next part&lt;&#x2F;a&gt; I will introduce a consistency rule that allow us to filter unfounded self regulations. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Excluding unfounded changes in feedback loops</title>
+		<published>2016-06-01T00:00:00+00:00</published>
+		<updated>2016-06-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/scm/scm6/" type="text/html"/>
+		<id>https://sthiele.github.io/scm/scm6/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 6 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+In this part I will introduce a new global consistency rule to ensure that
+every change is justified by a chain of influences that can be traced back to an input node. 
+This natural constraint is especially useful to exclude self-justification of changes via positive feedback loops.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;circular-regulation&quot;&gt;Circular regulation&lt;&#x2F;h2&gt;
+&lt;p&gt;In most biological systems we find self regulation via feedback loops. 
+The consistency rules that we’ve covered so far allow circular explanation.
+This poses the problem that they allow state transitions for which we can not identify the reason that triggered the state change. 
+For example in Figure &lt;em&gt;1&lt;&#x2F;em&gt; we see an IG with labelings that explain an increase in &lt;em&gt;d&lt;&#x2F;em&gt;. 
+Both total labelings satisfy the propagation rules (&lt;em&gt;Rule 1&lt;&#x2F;em&gt; and &lt;em&gt;3&lt;&#x2F;em&gt;). 
+For &lt;em&gt;μ&lt;sub&gt;1&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; we see a circular up regulation in &lt;em&gt;b&lt;&#x2F;em&gt; and &lt;em&gt;c&lt;&#x2F;em&gt;,
+which is used as explanation for the increase in &lt;em&gt;d&lt;&#x2F;em&gt;, but
+we don’t know why &lt;em&gt;b&lt;&#x2F;em&gt; and &lt;em&gt;c&lt;&#x2F;em&gt; have increase in the first place. 
+Only the labeling &lt;em&gt;μ&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; allows us to identify a trigger for the state change, i.e. the increase in &lt;em&gt;a&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL6.png&quot; alt=&quot;COL6&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: Example for an influence graph with self regulation. 
+An increase in &lt;em&gt;d&lt;&#x2F;em&gt; can be explained either by self activation in &lt;em&gt;b&lt;&#x2F;em&gt; and &lt;em&gt;c&lt;&#x2F;em&gt; or by the input node &lt;em&gt;a&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;To filter labelings which represent circular explanations we introduce the following consistency rule.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rule 4 (a change must be founded in an input)&lt;&#x2F;strong&gt;: 
+&lt;em&gt;Let (V,E,σ) be an IG and I ⊆ V the input nodes. 
+Then a labeling μ : V →{+,–,0} satisfies Rule 4 for i ∈ V if&lt;&#x2F;em&gt;
++ &lt;em&gt;i ∈ I, or&lt;&#x2F;em&gt;
++ &lt;em&gt;μ(i) = 0, or&lt;&#x2F;em&gt;
++ &lt;em&gt;there exist a path (v&lt;sub&gt;0&lt;&#x2F;sub&gt;,…,v&lt;sub&gt;k&lt;&#x2F;sub&gt;) in E with v&lt;sub&gt;0&lt;&#x2F;sub&gt; ∈ I, v&lt;sub&gt;k&lt;&#x2F;sub&gt; = i and μ(v&lt;sub&gt;n-1&lt;&#x2F;sub&gt;)σ(v&lt;sub&gt;n-1&lt;&#x2F;sub&gt;,v&lt;sub&gt;n&lt;&#x2F;sub&gt;) = μ(v&lt;sub&gt;n&lt;&#x2F;sub&gt;) for all n = 1…k.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Using &lt;em&gt;Rule 4&lt;&#x2F;em&gt; we can avoid manual removal of positive feedback loops as done in other approaches, and
+identify state transitions which can be explained by external perturbations.
+Only the labeling &lt;em&gt;μ&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; satisfies &lt;em&gt;Rule 4&lt;&#x2F;em&gt;.
+Consistency rule 4 is especially useful if we want apply sign consistency methods in the context of perturbation experiments.
+When we are actually interested in the response to perturbations, or 
+if we want to identify possible perturbations that trigger desired state transitions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;This part introduced a consistency rule that allows us to exclude unfounded self regulations. 
+In the next part I will show how we can relate our model to actual measurement data via sign constraints.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Extended notions of sign consistency</title>
+		<published>2015-10-02T00:00:00+00:00</published>
+		<updated>2015-10-02T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/extended-sign-consistency/" type="text/html"/>
+		<id>https://sthiele.github.io/extended-sign-consistency/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;media.springernature.com&#x2F;full&#x2F;springer-static&#x2F;image&#x2F;art%3A10.1186%2Fs12859-015-0733-7&#x2F;MediaObjects&#x2F;12859_2015_733_Fig2_HTML.gif&quot; alt=&quot;Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bmcbioinformatics.biomedcentral.com&#x2F;articles&#x2F;10.1186&#x2F;s12859-015-0733-7&quot;&gt;Extended notions of sign consistency to relate experimental data to signaling and regulatory network topologies&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>PyASP basics</title>
+		<published>2015-10-01T00:00:00+00:00</published>
+		<updated>2015-10-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/pyasp-basics/" type="text/html"/>
+		<id>https://sthiele.github.io/pyasp-basics/</id>
+		<content type="html">&lt;p&gt;This post explains the basics on how to use the PyASP library.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;I assume that &lt;code&gt;pyasp&lt;&#x2F;code&gt; is already installed on the system.
+This tutorial has been tested with Python 3 and &lt;a href=&quot;https:&#x2F;&#x2F;pypi.python.org&#x2F;pypi&#x2F;pyasp&#x2F;1.4.1&quot;&gt;pyasp 1.4.1&lt;&#x2F;a&gt;.
+You can download the logic programs that are used in this example here
+-&amp;gt; &lt;a href=&quot;https:&#x2F;&#x2F;sthiele.github.io&#x2F;pyasp-basics&#x2F;queens.lp&quot;&gt;queens.lp&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;sthiele.github.io&#x2F;pyasp-basics&#x2F;facts.lp&quot;&gt;facts.lp&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Import the library&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fcf0ca;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#9d0006;&quot;&gt;from &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;pyasp.asp &lt;&#x2F;span&gt;&lt;span style=&quot;color:#9d0006;&quot;&gt;import &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;*
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Create a solver object.&lt;&#x2F;p&gt;
+&lt;p&gt;Before creating a solver object you need to declare what options your solver should run with. There are two kind of options the options for the grounder (see gringo documentation) and the options for the solver (see clasp documentation). In this example our only solver option is &#x27;2&#x27; which means we are looking for atmost 2 solutions.&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fcf0ca;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;goptions &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;&amp;#39;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;soptions &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;2&amp;#39;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;solver   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;Gringo4Clasp(gringo_options&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;goptions,
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;                        clasp_options&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;soptions)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Running the solver on some input.&lt;&#x2F;p&gt;
+&lt;p&gt;Just like gringo the run method of the solver object accepts a list of input files. Here we use the encoding of the queens problems and solve it for a size of 10 as declared in facts.lp.&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fcf0ca;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;encoding &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;queens.lp&amp;#39;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;facts    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;facts.lp&amp;#39;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;result   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;solver.run([encoding, facts],
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;                      collapseTerms&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;True&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;                      collapseAtoms&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;False&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The result is a list of the solutions as TermSets.&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fcf0ca;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#b57614;&quot;&gt;print&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;(result)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;TermSet({Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;8&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;3&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;10&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;9&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;1&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;1&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;3&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;4&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;6&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;2&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;5&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;7&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;2&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;10&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;7&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;5&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;4&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;8&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;9&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;6&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;])})&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;,
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;TermSet({Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;10&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;9&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;8&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;6&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;6&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;3&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;3&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;4&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;5&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;7&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;9&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;5&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;1&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;1&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;7&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;2&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;4&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;8&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;2&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;10&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;])})&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;]
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Create your own set of facts.&lt;&#x2F;p&gt;
+&lt;p&gt;You can also create your own facts from within python and feed it as input to the solver. So far we have solved the 10-queens problem. Now we create a new set of facts including d(11) and solve the 11-queens problem.&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fcf0ca;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;newfacts &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;TermSet()
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;newterm  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;d&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;, [&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;quot;11&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;])
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;newfacts.add(newterm)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;result   &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;solver.run([encoding, facts, newfacts.to_file()],
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;                      collapseTerms&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;True&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;                      collapseAtoms&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;False&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Now the result contains 2 solutions to the 11-queens problem.&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fcf0ca;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#b57614;&quot;&gt;print&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;(result)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;TermSet({Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;11&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;11&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;10&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;8&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;5&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;2&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;6&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;1&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;4&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;9&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;2&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;5&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;8&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;4&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;7&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;6&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;9&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;10&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;3&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;7&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;1&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;3&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;])})&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;,
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;TermSet({Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;1&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;3&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;2&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;7&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;5&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;2&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;3&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;1&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;11&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;11&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;9&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;10&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;4&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;8&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;10&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;5&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;7&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;6&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;6&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;9&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;]), Term(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;q&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,[&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;8&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;4&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;])})&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;]
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Parse and pretty print your solutions.&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fcf0ca;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#9d0006;&quot;&gt;for &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;s &lt;&#x2F;span&gt;&lt;span style=&quot;color:#9d0006;&quot;&gt;in &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;result :
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#9d0006;&quot;&gt;for &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;a &lt;&#x2F;span&gt;&lt;span style=&quot;color:#9d0006;&quot;&gt;in &lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;s :
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;    args&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;quot;,&amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;.join(a.args())
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b57614;&quot;&gt;print&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;(a.pred(),&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;(&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,args,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;)&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,sep&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39;&amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,end&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b23c15;&quot;&gt;=&lt;&#x2F;span&gt;&lt;span style=&quot;color:#79740e;&quot;&gt;&amp;#39; &amp;#39;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828aa;&quot;&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b57614;&quot;&gt;print&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;()
+
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;11&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;11&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;10&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;8&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;5&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;6&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;4&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;9&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;5&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;8&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;4&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;7&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;6&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;9&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;10&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;3&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;7&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;3&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;3&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;7&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;5&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;2&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;3&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;1&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;11&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;11&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;9&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;10&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;4&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;8&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;10&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;5&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;7&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;6&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;6&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;9&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;) q(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;8&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;,&lt;&#x2F;span&gt;&lt;span style=&quot;color:#8f3f71;&quot;&gt;4&lt;&#x2F;span&gt;&lt;span style=&quot;color:#282828;&quot;&gt;)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>First reconstruction of a metabolic network using meneco published in The Plant Journal</title>
+		<published>2014-06-01T00:00:00+00:00</published>
+		<updated>2014-06-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/meneco-plant-journal/" type="text/html"/>
+		<id>https://sthiele.github.io/meneco-plant-journal/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;wol-prod-cdn.literatumonline.com&#x2F;cms&#x2F;attachment&#x2F;3df80d89-6f18-4e7f-a431-afca8dcc03e9&#x2F;tpj.2014.80.issue-2.cover.jpg&quot; alt=&quot;Journal&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;abs&#x2F;10.1111&#x2F;tpj.12627&quot;&gt;The genome‐scale metabolic network of Ectocarpus siliculosus (EctoGEM): a resource to study brown algal physiology and beyond&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>TLDR - Frebruary 2019</title>
+		<published>2014-06-01T00:00:00+00:00</published>
+		<updated>2014-06-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/tldr-february-2019/" type="text/html"/>
+		<id>https://sthiele.github.io/tldr-february-2019/</id>
+		<content type="html">&lt;h2 id=&quot;tldr-february-2019&quot;&gt;TLDR  February 2019&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;posteo.de&#x2F;en&#x2F;site&#x2F;features#featuresemail&quot;&gt;https:&#x2F;&#x2F;posteo.de&#x2F;en&#x2F;site&#x2F;features#featuresemail&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.pythonforengineers.com&#x2F;build-a-reddit-bot-part-1&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.pythonforengineers.com&#x2F;build-a-reddit-bot-part-1&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jvns.ca&#x2F;blog&#x2F;senior-engineer&#x2F;&quot;&gt;https:&#x2F;&#x2F;jvns.ca&#x2F;blog&#x2F;senior-engineer&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kornel.ski&#x2F;rust-sys-crate&quot;&gt;https:&#x2F;&#x2F;kornel.ski&#x2F;rust-sys-crate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rust-lang-nursery.github.io&#x2F;api-guidelines&#x2F;about.html&quot;&gt;https:&#x2F;&#x2F;rust-lang-nursery.github.io&#x2F;api-guidelines&#x2F;about.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;s3.amazonaws.com&#x2F;temp.michaelfbryan.com&#x2F;index.html&quot;&gt;https:&#x2F;&#x2F;s3.amazonaws.com&#x2F;temp.michaelfbryan.com&#x2F;index.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Roboter-Hacker-gegen-Bot-Netze-3618448.html&quot;&gt;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Roboter-Hacker-gegen-Bot-Netze-3618448.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Strom-erzeugende-Bakterien-4133923.html?wt_mc=rss.tr.beitrag.atom&quot;&gt;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Strom-erzeugende-Bakterien-4133923.html?wt_mc=rss.tr.beitrag.atom&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Chips-jetzt-mit-Hirn-3664430.html&quot;&gt;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Chips-jetzt-mit-Hirn-3664430.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Das-Smart-Home-wird-energieautark-3657146.html&quot;&gt;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Das-Smart-Home-wird-energieautark-3657146.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;USA-E-Autos-auf-der-Kriechspur-3654330.html&quot;&gt;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;USA-E-Autos-auf-der-Kriechspur-3654330.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Wohnung-als-Festung-3657139.html&quot;&gt;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Wohnung-als-Festung-3657139.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Computer-mit-gesundem-Menschenverstand-3649020.html&quot;&gt;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Computer-mit-gesundem-Menschenverstand-3649020.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Das-Hormon-der-Hundertjaehrigen-3594665.html&quot;&gt;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Das-Hormon-der-Hundertjaehrigen-3594665.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Experimentieren-mit-Glas-3636192.html&quot;&gt;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Experimentieren-mit-Glas-3636192.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Internet-jetzt-aber-sicher-3595509.html?seite=2&quot;&gt;https:&#x2F;&#x2F;www.heise.de&#x2F;tr&#x2F;artikel&#x2F;Internet-jetzt-aber-sicher-3595509.html?seite=2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;compsci&#x2F;comments&#x2F;4mgvxt&#x2F;grovers_search_algorithm_quantum_computers&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;compsci&#x2F;comments&#x2F;4mgvxt&#x2F;grovers_search_algorithm_quantum_computers&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Alfred_North_Whitehead&quot;&gt;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Alfred_North_Whitehead&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Norman_Rockwell#Personal_life&quot;&gt;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Norman_Rockwell#Personal_life&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.riesterrente-heute.de&#x2F;kinderzulage&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.riesterrente-heute.de&#x2F;kinderzulage&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lifein19x19.com&#x2F;viewtopic.php?f=9&amp;amp;t=15302&quot;&gt;https:&#x2F;&#x2F;lifein19x19.com&#x2F;viewtopic.php?f=9&amp;amp;t=15302&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;SabakiHQ&#x2F;Sabaki&#x2F;pull&#x2F;294&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;SabakiHQ&#x2F;Sabaki&#x2F;pull&#x2F;294&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;user_guide&#x2F;index.html#markup&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;user_guide&#x2F;index.html#markup&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;go.html&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;go.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;sgf4.html&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;sgf4.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;properties.html#PL&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;properties.html#PL&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;compatibility.html&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;compatibility.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;y-ich.github.io&#x2F;rust-sgf&#x2F;target&#x2F;doc&#x2F;sgf&#x2F;sgf_node&#x2F;struct.SgfNode.html&quot;&gt;http:&#x2F;&#x2F;y-ich.github.io&#x2F;rust-sgf&#x2F;target&#x2F;doc&#x2F;sgf&#x2F;sgf_node&#x2F;struct.SgfNode.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.khanacademy.org&#x2F;humanities&#x2F;us-government-and-civics&#x2F;government-civics-with-cbss-john-dickerson&quot;&gt;https:&#x2F;&#x2F;www.khanacademy.org&#x2F;humanities&#x2F;us-government-and-civics&#x2F;government-civics-with-cbss-john-dickerson&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;lawsandsausagescomic.com&#x2F;comic&#x2F;203&quot;&gt;http:&#x2F;&#x2F;lawsandsausagescomic.com&#x2F;comic&#x2F;203&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;media.ccc.de&#x2F;v&#x2F;fiffkon18-5-digitale_entmundigung#t=639&quot;&gt;https:&#x2F;&#x2F;media.ccc.de&#x2F;v&#x2F;fiffkon18-5-digitale_entmundigung#t=639&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.aristoteliansociety.org.uk&#x2F;the-proceedings&#x2F;proceedings-podcasts&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.aristoteliansociety.org.uk&#x2F;the-proceedings&#x2F;proceedings-podcasts&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ASP application in the Bioinformatics Journal</title>
+		<published>2013-07-01T00:00:00+00:00</published>
+		<updated>2013-07-01T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/caspo-bioinformatics/" type="text/html"/>
+		<id>https://sthiele.github.io/caspo-bioinformatics/</id>
+		<content type="html">&lt;p&gt;Our first ASP application published in the Bioinformatics Journal&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;oup.silverchair-cdn.com&#x2F;oup&#x2F;backfile&#x2F;Content_public&#x2F;Journal&#x2F;bioinformatics&#x2F;Issue&#x2F;29&#x2F;18&#x2F;0&#x2F;m_bioinformatics29_18.cover.gif?Expires=2147483647&amp;amp;Signature=brobNoIivMYhmOPNrDOiMROLvOVKQNW7rZyTaIpcVtLJKvjn0yTDn8kxyGBW1XMQC3g2bsiokK9hV4P8xvmiP%7EgZX8kuSz1gAEowIuSC4OXEIoi%7EYmG82ilOD0pE5xEmCQks3rR1tp1A7rEaZJ%7EBkUGMbGPKXgiM6guYS%7E4PVDolNYSmctlMhlUFPxlG9Swl3VMhkXTIs9n8mRAG3U4-M4acquob%7EH20zFwyClij5DVcHMcwSdHQAnjMGsOT133jT0LfYWfhkg59esuHiU8NYLjo-g-G2aKBCumkfK%7EJUxVZpA8uZ1ilUp2TwRZpH-txcOPeMC4WK6DTs1mF66ZJhw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&quot; alt=&quot;Journal&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;academic.oup.com&#x2F;bioinformatics&#x2F;article&#x2F;29&#x2F;18&#x2F;2320&#x2F;240224&quot;&gt;Exhaustively characterizing feasible logic models of a signaling network using Answer Set Programming&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;</content>
+	</entry>
+</feed>

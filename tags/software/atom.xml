@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>sthiele::weblog - Software</title>
+	<link href="https://sthiele.github.io/tags/software/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://sthiele.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2018-10-12T00:00:00+00:00</updated>
+	<id>https://sthiele.github.io/tags/software/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Software</title>
+		<published>2018-10-12T00:00:00+00:00</published>
+		<updated>2018-10-12T00:00:00+00:00</updated>
+		<link href="https://sthiele.github.io/software/" type="text/html"/>
+		<id>https://sthiele.github.io/software/</id>
+		<content type="html">&lt;p&gt;Current projects:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;potassco&#x2F;clingo-rs&quot;&gt;&lt;code&gt;clingo-rs&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - Rust bindings to the clingo library.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;meneco&quot;&gt;&lt;code&gt;meneco&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - A tool to compute optimal extensions for a metabolic network.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;iggy&quot;&gt;&lt;code&gt;iggy&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - Tools for the consistency based analysis (consistency check, diagnosis, repair and prediction) of influence graphs models and experimental observations.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;exdesi&quot;&gt;&lt;code&gt;exdesi&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - Design experiments to differentiate interaction graph models.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;ingranalyze&quot;&gt;&lt;code&gt;ingranalyze&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - The precursor of Iggy computes the minimal inconsistent core (MIC) of an influence graph model.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;precursor&quot;&gt;&lt;code&gt;precursor&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - A tool to compute minimal sets of precursor metabolites necessary to produce targets metabolites.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sthiele&#x2F;pyasp&quot;&gt;&lt;code&gt;pyasp&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - A convenience wrapper for the ASP tools gringo, clasp, claspD.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Older projects:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sthiele&#x2F;clingo-rs&quot;&gt;&lt;code&gt;hasple&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - An experimental answer set solver in Haskell.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bioasp&#x2F;shogen&quot;&gt;&lt;code&gt;shogen&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - Combine metabolic network and gene sequence to compute the &lt;em&gt;Shortest Gene Segments (SGS)&lt;&#x2F;em&gt; activating a metabolic pathway.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;potassco.org&#x2F;clingo&quot;&gt;&lt;code&gt;gringo&lt;&#x2F;code&gt; and &lt;code&gt;clingo&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; - A grounder and solver for logic programs.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;platypus&lt;&#x2F;code&gt;- An parallel answer set solver&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>
