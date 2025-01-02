@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - CNA</title>
+    <link rel="self" type="application/atom+xml" href="https://sthiele.github.io/tags/cna/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sthiele.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2017-03-01T00:00:00+00:00</updated>
+    <id>https://sthiele.github.io/tags/cna/atom.xml</id>
+    <entry xml:lang="en">
+        <title>First CNA video tutorials online</title>
+        <published>2017-03-01T00:00:00+00:00</published>
+        <updated>2017-03-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/cna-video-tutorials/"/>
+        <id>https://sthiele.github.io/cna-video-tutorials/</id>
+        
+        <summary type="html">&lt;p&gt;I created some video tutorials for &lt;a href=&quot;https:&#x2F;&#x2F;www2.mpi-magdeburg.mpg.de&#x2F;projects&#x2F;cna&#x2F;cna.html&quot;&gt;CellNetAnalyzer&lt;&#x2F;a&gt;,
+the software we develop at work.
+I uploaded the first video to youtube.&lt;&#x2F;p&gt;
+&lt;div &gt;
+    &lt;iframe
+        src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;?list=PLvcqZyZHMRRR7ZUg0_yyFKMK5VJLB4Cj1&quot;
+        webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;</summary>
+        
+    </entry>
+</feed>
