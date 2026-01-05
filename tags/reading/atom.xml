@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Reading</title>
+    <link rel="self" type="application/atom+xml" href="https://sthiele.github.io/tags/reading/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sthiele.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-07-10T00:00:00+00:00</updated>
+    <id>https://sthiele.github.io/tags/reading/atom.xml</id>
+    <entry xml:lang="en">
+        <title>List of Books I&#x27;ve read</title>
+        <published>2024-07-10T00:00:00+00:00</published>
+        <updated>2024-07-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/books/"/>
+        <id>https://sthiele.github.io/books/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/books/">&lt;p&gt;&lt;a href=&quot;&#x2F;toread&quot;&gt;My current reading stack&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2025&quot;&gt;2025&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Dorothee_Elmiger&quot;&gt;Dorothee Elmiger&lt;&#x2F;a&gt; - Die Holländerinnen&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Annie_Ernaux&quot;&gt;Annie Ernaux&lt;&#x2F;a&gt; - Die Jahre&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Christian_Kracht&quot;&gt;Christiant Kracht&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Faserland&quot;&gt;Faserland&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;E._T._A._Hoffmann&quot;&gt;E.T.A. Hoffmann&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Der_Sandmann_(Hoffmann)&quot;&gt;Der Sandmann&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Niklas_Luhmann&quot;&gt;Niklas Luhmann&lt;&#x2F;a&gt; - Einführung in die Systemtheorie&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Cormac_McCarthy&quot;&gt;Cormac McCarthy&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Blood_Meridian&quot;&gt;Blood Meridian&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Gerhart_Hauptmann&quot;&gt;Gerhart Hauptmann&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Bahnw%C3%A4rter_Thiel&quot;&gt;Bahnwärter Thiel&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Die_Weber&quot;&gt;Die Weber&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Orhan_Pamuk&quot;&gt;Orhan Pamuk&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Istanbul_%E2%80%93_Erinnerung_an_eine_Stadt&quot;&gt;Istanbul – Erinnerung an eine Stadt&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Thomas_Mann&quot;&gt;Thomas Mann&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Buddenbrooks&quot;&gt;Buddenbrooks - Verfall einer Familie&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Klaus_Mann&quot;&gt;Klaus Mann&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Mephisto_(Roman)&quot;&gt;Mephisto&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Te-Ping_Chen&quot;&gt;Te-Ping Chen&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;bookwyrm.social&#x2F;book&#x2F;127699&#x2F;s&#x2F;land-of-big-numbers&quot;&gt;Ist es nicht schön hier&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Ernest_Hemingway&quot;&gt;Ernest Hemmingway&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;For_Whom_the_Bell_Tolls&quot;&gt;For Whom the Bell Tolls&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Friedrich_Schiller&quot;&gt;Friedrich Schiller&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Wilhelm_Tell_(Schiller)&quot;&gt;Willhelm Tell&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Peter_Handke&quot;&gt;Peter Handke&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Die_Angst_des_Tormanns_beim_Elfmeter_(Erz%C3%A4hlung)&quot;&gt;Die Angst des Tormanns beim Elfmeter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Carlo_Collodi&quot;&gt;Carlo Collodi&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Pinocchio&quot;&gt;Pinocchio&lt;&#x2F;a&gt;, Translator &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Charlotte_Birnbaum&quot;&gt;Charlotte Birnbaum&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Albert_Camus&quot;&gt;Albert Camus&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Les Muets &#x2F; Die Stummen&lt;&#x2F;li&gt;
+&lt;li&gt;L&#x27;Hôte &#x2F; Der Gast&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Italo_Calvino&quot;&gt;Italo Calvino&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Baron_in_the_Trees&quot;&gt;Der Baron auf den Bäumen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Wenn_ein_Reisender_in_einer_Winternacht&quot;&gt;Wenn ein Reisender in einer Winternacht&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Han_Kang&quot;&gt;Han Kang&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Menschenwerk&quot;&gt;Menschenwerk&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Abdulrazak_Gurnah&quot;&gt;Abdulrazak Gurnah&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Das_verlorene_Paradies_(Roman)&quot;&gt;Das verlorene Paradies&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Michel_Houellebecq&quot;&gt;Michel Houellebecq&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Submission_(novel)&quot;&gt;Unterwerfung&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Karte_und_Gebiet&quot;&gt;Karte und Gebiet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Tim_Marshall&quot;&gt;Tim Marshall&lt;&#x2F;a&gt; - [Die Macht der Geographie im 21. Jahrhundert]&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Plutarch&quot;&gt;Plutarch&lt;&#x2F;a&gt; - Leben und Taten berühmter Griechen und Römer - 4 Parallelbiographien
+&lt;ul&gt;
+&lt;li&gt;Themistokekeles&lt;&#x2F;li&gt;
+&lt;li&gt;Camillus&lt;&#x2F;li&gt;
+&lt;li&gt;Perikles&lt;&#x2F;li&gt;
+&lt;li&gt;Fabius Maximus&lt;&#x2F;li&gt;
+&lt;li&gt;Alkibiades&lt;&#x2F;li&gt;
+&lt;li&gt;Gaius Marcius Coriolanus&lt;&#x2F;li&gt;
+&lt;li&gt;Demetrios&lt;&#x2F;li&gt;
+&lt;li&gt;Marcus Antonius&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Dirk_Oschmann&quot;&gt;Dirk Oschmann&lt;&#x2F;a&gt; - Der Osten: eine westdeutsche Erfindung&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Friedrich_Nietzsche&quot;&gt;Friedrich Nietzsche&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Jenseits_von_Gut_und_B%C3%B6se_(Nietzsche)&quot;&gt;Jenseits von Gut und Böse&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Montesquieu&quot;&gt;Montesquieu&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Vom_Geist_der_Gesetze&quot;&gt;Vom Geiste der Gesetze&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Alexis_de_Tocqueville&quot;&gt;Alexis de Tocqueville&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;%C3%9Cber_die_Demokratie_in_Amerika&quot;&gt;Über die Demokratie in Amerika&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Sigmund_Freud&quot;&gt;Sigmund Freud&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Das_Unbehagen_in_der_Kultur&quot;&gt;Das Unbehagen in der Kultur&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Thomas_Kuhn&quot;&gt;Thomas S. Kuhn&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Structure_of_Scientific_Revolutions&quot;&gt;The Structure of Scientific Revolutions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Bhagavad_Gita&quot;&gt;Bhagavadgita&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Leo_Trotzki&quot;&gt;Leo Trotzki&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Mein_Leben_(Trotzki)&quot;&gt;Mein Leben&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Wassily_Kandinsky&quot;&gt;Wassily Kandisky&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;digi.ub.uni-heidelberg.de&#x2F;diglit&#x2F;kandinsky1928&#x2F;0051&#x2F;image,info&quot;&gt;Punkt und Linie zu Fläche&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2024&quot;&gt;2024&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Haruki_Murakami&quot;&gt;Haruki Murakami&lt;&#x2F;a&gt; - Honigkuchen&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Jack_Kerouac&quot;&gt;Jack Kerouac&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;On_the_Road&quot;&gt;On the Road&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;John_Updike&quot;&gt;John Updike&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Rabbit,_Run&quot;&gt;Rabbit, Run&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Patrick Holzapfel - Hermelin auf Bänken&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Kazuo_Ishiguro&quot;&gt;Kazuo Ishiguro&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Klara_and_the_Sun&quot;&gt;Klara and the Sun&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Vincent_Zabus&quot;&gt;Vincent Zabus&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;fr.wikipedia.org&#x2F;wiki&#x2F;Nicoby&quot;&gt;Nicoby&lt;&#x2F;a&gt; - Sofies Welt (Graphic Novel)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Hans_Peter_Duerr&quot;&gt;Hans Peter Duerr&lt;&#x2F;a&gt; - Traumzeit. Über die Grenze zwischen Wildnis und Zivilisation&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bret_Easton_Ellis&quot;&gt;Bret Easton Ellis&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Shards&quot;&gt;The Shards&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Zora_del_Buono&quot;&gt;Zora del Buono&lt;&#x2F;a&gt; - Die Marschallin&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Paul_Auster&quot;&gt;Paul Auster&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_New_York_Trilogy&quot;&gt;New York Trilogy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;J._M._Coetzee&quot;&gt;J.M. Coetzee&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Disgrace&quot;&gt;Disgrace&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Yuval_Noah_Harari&quot;&gt;Harari, Yuval Noah&lt;&#x2F;a&gt; - Sapiens: Das Spiel der Welten (Graphic Novel)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Steffen_Schroeder&quot;&gt;Steffen Schroeder&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Planck_oder_Als_das_Licht_seine_Leichtigkeit_verlor&quot;&gt;Planck oder Als das Licht seine Leichtigkeit verlor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Octavia_E._Butler&quot;&gt;Octavia E. Butler&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Parable_of_the_Sower_(novel)&quot;&gt;Parable of the Sower&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Jenny_Erpenbeck&quot;&gt;Jenny Erpenbeck&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Kairos_(novel)&quot;&gt;Kairos&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Eugen_Ruge&quot;&gt;Eugen Ruge&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bookwyrm.social&#x2F;book&#x2F;1446710&#x2F;s&#x2F;in-zeiten-des-abnehmenden-lichts-german-edition&quot;&gt;In Zeiten des abnehmenden Lichts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bookwyrm.social&#x2F;book&#x2F;597644&#x2F;s&#x2F;metropol&quot;&gt;Metropol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Richard_David_Precht&quot;&gt;Richard David Precht&lt;&#x2F;a&gt; &amp;amp; &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Harald_Welzer&quot;&gt;Harald Welzer&lt;&#x2F;a&gt; - Die vierte Gewalt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Eva_Menasse&quot;&gt;Eva Menasse&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Eva_Menasse#Dunkelblum_(2021)&quot;&gt;Dunkelblum&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Neal_Stephenson&quot;&gt;Neal Stephenson&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;bookwyrm.social&#x2F;book&#x2F;858506&#x2F;s&#x2F;anathem&quot;&gt;Anathem&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;George_Saunders&quot;&gt;George Saunders&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;bookwyrm.social&#x2F;book&#x2F;685293&#x2F;s&#x2F;fox-8&quot;&gt;Fox 8&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Janne_Teller&quot;&gt;Janne Teller&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;bookwyrm.social&#x2F;book&#x2F;384191&#x2F;s&#x2F;nichts&quot;&gt;Nichts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Michiko Aoyama - Frau Komachi empfiehlt ein Buch&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Jon_Fosse&quot;&gt;Jon Fosse&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Morning_and_Evening&quot;&gt;Morgen und Abend&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bookwyrm.social&#x2F;author&#x2F;130113&#x2F;s&#x2F;irene-muchemi-ndiritu&quot;&gt;Irene Muchemi-Ndiritu&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;bookwyrm.social&#x2F;book&#x2F;707938&#x2F;s&#x2F;lucky-girl&quot;&gt;Lucky Girl&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Claire Alet, &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Thomas_Piketty&quot;&gt;Thomas Piketty&lt;&#x2F;a&gt;, Benjamin Adam - Kapital und Ideologie: Die Graphic Novel&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Timon_Karl_Kaleyta&quot;&gt;Timon Karl Kaleyta&lt;&#x2F;a&gt; - Heilung&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Toni_Morrison&quot;&gt;Toni Morrison&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Rezitativ_(Erz%C3%A4hlung)&quot;&gt;Rezitativ&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Tonio_Schachinger&quot;&gt;Tonio Schachinger&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;bookwyrm.social&#x2F;book&#x2F;1432309&#x2F;s&#x2F;echtzeitalter&quot;&gt;Echtzeitalter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Lea_Ypi&quot;&gt;Lea Ypi&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Free_(Ypi_book)&quot;&gt;Free: Coming of Age at the End of History&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2023&quot;&gt;2023&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Ry%C5%ABnosuke_Akutagawa&quot;&gt;Ryūnosuke Akutagawa&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;bookwyrm.social&#x2F;book&#x2F;979668&#x2F;s&#x2F;rashomon-erzahlungen&quot;&gt;Rashomon&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Erwin_Strittmatter&quot;&gt;Erwin Strittmatter&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;d-nb.info&#x2F;954658760&quot;&gt;Der Laden (Teil 2)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Julia_Schoch&quot;&gt;Julia Schoch&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;d-nb.info&#x2F;1271044846&quot;&gt;Das Liebespaar des Jahrhunderts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Ferdinand_von_Schirach&quot;&gt;Ferdinand v. Schirach&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;d-nb.info&#x2F;1170492789&quot;&gt;Kaffee und Zigaretten&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nino_Haratischwili&quot;&gt;Nino Haratischwili&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;d-nb.info&#x2F;124677240X&quot;&gt;Das mangelnde Licht&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Kazuo_Ishiguro&quot;&gt;Kazuo Ishiguro&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Remains_of_the_Day&quot;&gt;The Remains of the Day&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Thomas_Metzinger&quot;&gt;Thomas Metzinger&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;d-nb.info&#x2F;1044650222&quot;&gt;Der Ego Tunnel&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Brigitte_Ro%C3%9Fbeck&quot;&gt;Brigitte Roßbeck&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;d-nb.info&#x2F;1067747842&quot;&gt;Franz Marc: Die Träume und das Leben&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Heinrich_Heine&quot;&gt;Heinrich Heine&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Germany._A_Winter%27s_Tale&quot;&gt;Deutschland ein Wintermärchen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2022&quot;&gt;2022&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;T._C._Boyle&quot;&gt;T. C. Boyle&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Road_to_Wellville&quot;&gt;The Road to Wellville&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Thomas_Mann&quot;&gt;Thomas Mann&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Mario_and_the_Magician&quot;&gt;Mario und der Zauberer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Haruki_Murakami&quot;&gt;Haruki Murakami&lt;&#x2F;a&gt; - Die unheimliche Bibliothek&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bertolt_Brecht&quot;&gt;Berthold Brecht&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Threepenny_Novel&quot;&gt;Dreigroschenroman&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Milan_Kundera&quot;&gt;Milan Kundera&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Die_unertr%C3%A4gliche_Leichtigkeit_des_Seins&quot;&gt;Die unerträgliche Leichtigkeit des Seins&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Book_of_Laughter_and_Forgetting&quot;&gt;Das Buch vom Lachen und Vergessen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Todd_Strasser&quot;&gt;Morton Rhue&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Wave_(novel)&quot;&gt;The Wave&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Ray_Bradbury&quot;&gt;Ray Bradbury&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Fahrenheit_451&quot;&gt;Fahrenheit 451&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Alessandro_Baricco&quot;&gt;Alessandro Baricco&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Seide_(Roman)&quot;&gt;Seide&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2021&quot;&gt;2021&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Erwin_Strittmatter&quot;&gt;Erwin Strittmatter&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;d-nb.info&#x2F;870785494&quot;&gt;Der Laden (Teil 1)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Der Wundertäter (Teil 1)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Khu%C3%AA_Ph%E1%BA%A1m&quot;&gt;Khue Pham&lt;&#x2F;a&gt; - Wo auch immer Ihr seid&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Heinrich_Mann&quot;&gt;Heinrich Mann&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Der_Untertan&quot;&gt;Der Untertan&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;%C3%89ric-Emmanuel_Schmitt&quot;&gt;Eric Emmanuel Schmitt&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Oskar_und_die_Dame_in_Rosa&quot;&gt;Oskar und die Dame in Rosa&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Das_Kind_von_Noah&quot;&gt;Das Kind von Noah&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Juli_Zeh&quot;&gt;Juli Zeh&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Nullzeit_(Roman)&quot;&gt;Nullzeit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Cho_Nam-Joo&quot;&gt;Cho Nam-Joo&lt;&#x2F;a&gt; - Kim Jiyoung, Geboren 1982&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Christa_Wolf&quot;&gt;Christa Wolf&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Medea:_Stimmen&quot;&gt;Medea: Stimmen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Chinghiz_Aitmatov&quot;&gt;Tschingis Aitmatow&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Jamila_(novel)&quot;&gt;Dschamilja&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2020&quot;&gt;2020&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Christa_Wolf&quot;&gt;Christa Wolf&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Ein_Tag_im_Jahr&quot;&gt;Ein Tag im Jahr&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Greg_Egan&quot;&gt;Greg Egan&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Permutation_City&quot;&gt;Permutation City&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Diaspora_(novel)&quot;&gt;Diaspora&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Martin_Suter&quot;&gt;Martin Suter&lt;&#x2F;a&gt; - Der letzte Weynfeldt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;William_Gibson&quot;&gt;William Gibson&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;40179612-agency&quot;&gt;Agency&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;1182281.Jan_Brokken&quot;&gt;Jan Brokken&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;43455861-sibirische-sommer-mit-dostojewski&quot;&gt;Sibirische Sommer mit Dostojewski&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2019&quot;&gt;2019&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Gabriel_Garc%C3%ADa_M%C3%A1rquez&quot;&gt;Gabriel García Márquez&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;1210234.Erinnerung_an_meine_traurigen_Huren&quot;&gt;Erinnerung an meine traurigen Huren&lt;&#x2F;a&gt;, Translator &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;504.Dagmar_Ploetz&quot;&gt;Dagmar Ploetz&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Giuseppe_Tomasi_di_Lampedusa&quot;&gt;Giuseppe Tomasi di Lampedusa&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Leopard&quot;&gt;Der Leopard&lt;&#x2F;a&gt;, Translator &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Charlotte_Birnbaum&quot;&gt;Charlotte Birnbaum&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Georg_B%C3%BCchner&quot;&gt;Georg Büchner&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;162326.Woyzeck_Leonce_und_Lena&quot;&gt;Woyzeck&#x2F;Leonce und Lena&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Stefan_Zweig&quot;&gt;Stefan Zweig&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;1988256.Joseph_Fouch_&quot;&gt;Joseph Fouché: Bildnis eines politischen Menschen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Denis_Diderot&quot;&gt;Denis Diderot&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;4485897-die-nonne&quot;&gt;Die Nonne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Theodor_Fontane&quot;&gt;Fontane, Theodor&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;47178963-mathilde-m-hring&quot;&gt;Mathilde Möhring&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Frank_Herbert&quot;&gt;Herbert, Frank&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;44323246-dune&quot;&gt;Dune: The Gateway Collection&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Anna_Seghers&quot;&gt;Anna Seghers&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;1769122.Das_siebte_Kreuz&quot;&gt;Das siebte Kreuz&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Leo_Tolstoy&quot;&gt;Tolstoi, Lew&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;3924200-der-tod-des-iwan-iljitsch&quot;&gt;Der Tod des Iwan Iljitsch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bertolt_Brecht&quot;&gt;Brecht, Bertolt&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;241526.Leben_des_Galilei&quot;&gt;Leben des Galilei&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Kazuo_Ishiguro&quot;&gt;Ishiguro, Kazuo&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;6334.Never_Let_Me_Go&quot;&gt;Never Let Me Go&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Christoph_Hein&quot;&gt;Hein, Christoph&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;34639026-trutz&quot;&gt;Trutz&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Yuval_Noah_Harari&quot;&gt;Harari, Yuval Noah&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;23692271-sapiens&quot;&gt;Sapiens: A Brief History of Humankind&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;John_Steinbeck&quot;&gt;John Steinbeck&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;18114322-the-grapes-of-wrath&quot;&gt;The Grapes of Wrath&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2018&quot;&gt;2018&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Hannah_Arendt&quot;&gt;Hannah Arendt&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;%C3%9Cber_die_Revolution&quot;&gt;Über die Revolution&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Erich_Maria_Remarque&quot;&gt;Erich Maria Remarque&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Im_Westen_nichts_Neues&quot;&gt;Im Westen nichts Neues&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.goodreads.com&#x2F;author&#x2F;show&#x2F;266631.Wilhelm_Schmid&quot;&gt;Wilhelm Schmid - Dem Leben Sinn geben&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;David_Mazzucchelli&quot;&gt;David Mazzucchelli&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Paul_Karasik&quot;&gt;Paul Karasik&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Paul_Auster&quot;&gt;Paul Austers&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3864971047&quot;&gt;Stadt aus Glass&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bertolt_Brecht&quot;&gt;Brecht, Bertolt&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;&quot;&gt;Mutter Courage und ihre Kinder&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bertolt_Brecht&quot;&gt;Brecht, Bertolt&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;&quot;&gt;Der gute Mensch von Sezuan&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;&quot;&gt;Stephen Hawking - A Brief History of Time&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;&quot;&gt;Thomas Mann - Der Zauberberg&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Der_Idiot&quot;&gt;Fjodor M. Dostojewskij - Der Idiot&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Kurgast&quot;&gt;Hermann Hesse - Kurgast&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3746627435&quot;&gt;Hans Falada - Wer einmal aus dem Blechnapf fraß&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3746626781&quot;&gt;Hans Falada - Wolf unter Wölfen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3596163587&quot;&gt;Fjodor M. Dostojewskij - Die Brüder Karamasow&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3596180945&quot;&gt;Art Spiegelman - Die Vollständige Maus&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B01N07L0MZ&quot;&gt;Osamu Tezuka - Buddah&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3551791805&quot;&gt;Osamu Tezuka - Kirihito&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2017&quot;&gt;2017&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3843083177&quot;&gt;Iwan Turgenew - Väter und Söhne&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Leo_Tolstoy&quot;&gt;Tolstoi, Lew&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3491960541&quot;&gt;Krieg und Frieden&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3746661110&quot;&gt;Anna Karenina&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3849695794&quot;&gt;Auferstehung&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Aleksandr_Solzhenitsyn&quot;&gt;Alexander Solschenizyn&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;359618424X&quot;&gt;Der Archipel GULAG 1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Fran%C3%A7oise_Sagan&quot;&gt;Françoise Sagan&lt;&#x2F;a&gt; - Lieben Sie Brahms?&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Nikolai_Gogol&quot;&gt;Nikolai Wassiljewitsch Gogol&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004UBAHFS&quot;&gt;Tote Seelen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3937683399&quot;&gt;Le Monde diplomatique - Atlas der Globalisierung: Die Welt von morgen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Maxim_Gorky&quot;&gt;Maxim Gorki&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3954550636&quot;&gt;Die Mutter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;B0026L9UIE&#x2F;&quot;&gt;Guy de Maupassant - Bel Ami&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Aldous_Huxley&quot;&gt;Aldous Huxley&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;B0031R5K6S&#x2F;&quot;&gt;Brave New World&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Marguerite_Duras&quot;&gt;Marguerite Duras&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;3518381296&#x2F;&quot;&gt;Der Liebhaber&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Stefan_Zweig&quot;&gt;Stefan Zweig&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00CEQOBSA&quot;&gt;Triumph und Tragik des Erasmus von Rotterdam&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00CEQ8KAA&quot;&gt;Magellan&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00CEQ8DV6&quot;&gt;Sternstunden der Menschheit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2016&quot;&gt;2016&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Liu_Cixin&quot;&gt;Cixin Liu&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00S8FCJCQ&#x2F;&quot;&gt;The Three-Body Problem&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00U7G0UYI&#x2F;&quot;&gt;The Dark Forest&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B016AWGJBK&#x2F;&quot;&gt;Death’s End (The Three-Body Problem)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;B00AEGQOV4&#x2F;&quot;&gt;Mohsin Hamid - How to Get Filthy Rich In Rising Asia&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;B004TQR2HK&#x2F;&quot;&gt;Hans Falada - Kleiner Mann - was nun?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00AK78QAY&#x2F;&quot;&gt;Walter Isaacson - Kissinger: A Biography&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0095TDFE0&#x2F;&quot;&gt;Pascal Mercier - Nachtzug nach Lissabon&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00NOPQU2K&#x2F;&quot;&gt;Paula Hawkins - The Girl on the Train&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00K0OI42W&#x2F;&quot;&gt;Harper Lee - To Kill a Mockingbird&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B008DM2MGW&#x2F;&quot;&gt;Philip K. Dick - The Man in the High Castle&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00ELXQYLG&#x2F;&quot;&gt;Anthony Burgess - A Clockwork Orange&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;William_Hertling&quot;&gt;William Hertling&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B006ACIMQQ&#x2F;&quot;&gt;Avogardo Corp: The Singularity is Closer Than It Appears&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B007FZVI2M&#x2F;&quot;&gt;A.I. Apocalypse&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00EEIGHDI&#x2F;&quot;&gt;The Last Firewall&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00UGIOCUK&#x2F;&quot;&gt;The Turing Exception&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Anna_Seghers&quot;&gt;&lt;strong&gt;Anna Seghers&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.de&#x2F;gp&#x2F;product&#x2F;3351036043&#x2F;&quot;&gt;&lt;strong&gt;Das siebte Kreuz (gekürzte Comicfassung)&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+Eine aus dem englischen rückübersetze Comicversion. Macht aber Lust auf das Original.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Neal_Stephenson&quot;&gt;&lt;strong&gt;Neal Stephenson&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Seveneves&quot;&gt;&lt;strong&gt;Seveneves&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+Too long descriptions of boring fictional lasso swinging technology.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2015&quot;&gt;2015&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Gabriel_Garc%C3%ADa_M%C3%A1rquez&quot;&gt;Gabriel García Márquez&lt;&#x2F;a&gt; - Hundert Jahre Einsamkeit&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Isabel_Allende&quot;&gt;Isabel Allende&lt;&#x2F;a&gt; - Das Geisterhaus&lt;&#x2F;li&gt;
+&lt;li&gt;Leopold Sacher-Masoch - Venus im Pelz&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Ken_Kesey&quot;&gt;Ken Kesey&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;One_Flew_Over_the_Cuckoo%27s_Nest_(novel)&quot;&gt;One Flew Over the Cuckoo’s Nest&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;F._Scott_Fitzgerald&quot;&gt;F. Scott Fitzgerald&lt;&#x2F;a&gt; - The Great Gatsby&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Truman_Capote&quot;&gt;Truman Capote&lt;&#x2F;a&gt; - Breakfast at Tiffany’s&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Kurt_Vonnegut&quot;&gt;Kurt Vonnegut&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Cat%27s_Cradle&quot;&gt;Cat’s Cradle&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;John_Steinbeck&quot;&gt;John Steinbeck&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B002RI9K5Y&quot;&gt;East of Eden&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Cannery_Row_(novel)&quot;&gt;Cannery Row&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;William_Golding&quot;&gt;William Golding&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B000OCXIRG&quot;&gt;Lord of the Flies&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Yasunari_Kawabata&quot;&gt;Yasunari Kawabata&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B012S0ZR3E&quot;&gt;The Master of Go&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Neil_Gaiman&quot;&gt;Neil Gaiman&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;American_Gods&quot;&gt;American Gods&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Stephen_King&quot;&gt;Stephen King&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Cujo&quot;&gt;Cujo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Arthur_C._Clarke&quot;&gt;Arthur C. Clarke&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;2001:_A_Space_Odyssey_(novel)&quot;&gt;2001: A Space Odyssey&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Hugh_Howey&quot;&gt;Hugh Howey&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0071XO8RA&quot;&gt;Wool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00B6Z6HI2&quot;&gt;Shift&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00CYNGPTG&quot;&gt;Dust&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Andy_Weir&quot;&gt;Andy Weir&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00FAXJHCY&quot;&gt;The Martian&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Ernest_Cline&quot;&gt;Ernest Cline&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B005CVWWJY&quot;&gt;Ready Player One&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Ramez_Naam&quot;&gt;Ramez Naam&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Nexus_Trilogy&quot;&gt;Nexus, Crux, Apex&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Ken_Grimwood&quot;&gt;Ken Grimwood&lt;&#x2F;a&gt; - Replay&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Joe_Haldeman&quot;&gt;Joe Haldeman&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;The Forever War&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00AJ1ZSJ8&quot;&gt;The Accidental Time Machine&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dave_Eggers&quot;&gt;&lt;strong&gt;Dave Eggers&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;0241970377&quot;&gt;&lt;strong&gt;The Circle&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The book describes the dystopia of a post privacy society.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2014&quot;&gt;2014&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Margaret_Atwood&quot;&gt;Margaret Atwood&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0082BAJA0&quot;&gt;The Handmaid’s Tale&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Daniel_Suarez_(author)&quot;&gt;Daniel Suarez&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0038QN2AS&quot;&gt;Daemon&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004IPQEAS&quot;&gt;Freedom TM&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00DMCPOBI&quot;&gt;Influx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Chuck_Palahniuk&quot;&gt;Chuck Palahniuk&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0060MBJCK&quot;&gt;Fight Club&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2013&quot;&gt;2013&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;William_Gibson&quot;&gt;Wiliam Gibson&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B003ZUXXBA&quot;&gt;Zero History&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B01JP7JRXE&quot;&gt;Blue Ant Series&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0057GZINQ&quot;&gt;Vergil - Äneis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Mikhail_Bulgakov&quot;&gt;Michail Bulgakow&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B008O8W0J4&quot;&gt;Der Meister und Margarita&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Arthur_C._Clarke&quot;&gt;Arthur C. Clarke&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B0079MRDIE&quot;&gt;Rendezvous with Rama&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00AS8VV0C&quot;&gt;Arkardy and Boris Strugatzki - Gesammelte Werke 5&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Alex_Garland&quot;&gt;Alex Garland&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B003AYZBM0&quot;&gt;The Beach&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;!-- [Jean Baptiste Moliere - Der Misanthrop](https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00507UZHQ) \ --&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00BBWYZK2&quot;&gt;&lt;strong&gt;Pablo Tusset - Oxford 7&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+A student uprising in space. The story has some analogies to the recent &lt;em&gt;Podemos&lt;&#x2F;em&gt; movement in Spain.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2012&quot;&gt;2012&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004UBEPFQ&quot;&gt;Miguel de Cervantes - Der sinnreiche Junker Don Quijote von der Mancha - Erstes Buch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00507T6X0&quot;&gt;Anton Tschechow - Drei Schwestern&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Neal_Stephenson&quot;&gt;Neal Stephenson&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004OL2CM0&quot;&gt;Cryptonomicon&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004OL2CMK&quot;&gt;Quicksilver (Barock-Zyklus 1)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004OL2CNE&quot;&gt;Confusion (Barock-Zyklus 2)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004OL2WF2&quot;&gt;Principia&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Marcus_Aurelius&quot;&gt;Marcus Aurelius&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004UO761I&quot;&gt;Selbstbetrachtungen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004OVF0PG&quot;&gt;Arkardy and Boris Strugatzki - Gesammelte Werke 1-4&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;!--[Anton Tschechow - Die Möwe](https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B004UBE5AG)
+[Anton Tschechow - Onkel Wanja](https:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;B00507V3UO)--&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Orhan_Pamuk&quot;&gt;&lt;strong&gt;Orhan Pamuk&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - &lt;a href=&quot;http:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3596177626&quot;&gt;&lt;strong&gt;Die weiße Festung&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+Das Buch war ein Weihnachtsgeschenk meiner Freundin zur Vorbereitung auf unseren Urlaub in Istanbul.
+Leider hält das Buch nicht was der Literatur Nobelpreis des Autors und die eigentlich interessante
+Ausgangskonstellation versprechen.
+Der Roman handelt von einem jungen Venezianer der im 17. Jahrhundert als Sklave in Istanbul strandet.
+Dort gerät er in die Hände eines wissbegierigen Gelehrten dem er auf verblüffende Weise ähnelt.
+Was der Anfang eines spannenden Abenteuers sein könnte wird zum langweiligsten Buch das Ich seit langem
+gelesen habe.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;S%C3%B8ren_Kierkegaard&quot;&gt;&lt;strong&gt;Sören Kirkegaard&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; - &lt;a href=&quot;http:&#x2F;&#x2F;smile.amazon.de&#x2F;gp&#x2F;product&#x2F;3458321055&#x2F;&quot;&gt;&lt;strong&gt;Tagebuch des Verführers&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+Ein Briefroman, eigentlich ein Teil aus Kierkegaards größerem Werk “Entweder - Oder ”.
+Geschildert wird die Verführung eines Mädchens.
+Der Verführer in diesem Buch ist ein Ästhet der rücksichtslos den sinnlichen Prozess der Verführung genießt.
+Lesenswert.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;unknown-date&quot;&gt;Unknown date&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;William_S._Burroughs&quot;&gt;William S. Burroughs&lt;&#x2F;a&gt; - &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Naked_Lunch&quot;&gt;Naked Lunch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Kurt_Vonnegut&quot;&gt;Kurt Vonnegut&lt;&#x2F;a&gt; - Schlachthof 5&lt;&#x2F;li&gt;
+&lt;li&gt;The Hichthikers Guide Through the Galaxy - a Trilogy in 5 Parts&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Vladimir_Nabokov&quot;&gt;Vladimir Nabokov&lt;&#x2F;a&gt; - Lolita&lt;&#x2F;li&gt;
+&lt;li&gt;William Shakespeare - Romeo und Julia, Orthello, der Sturm, Macbeth, Hamlet&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Stanis%C5%82aw_Lem&quot;&gt;Stanislav Lem&lt;&#x2F;a&gt; - Solaris, etc.&lt;&#x2F;li&gt;
+&lt;li&gt;Boris und Arkardi Strugatzki (Sowjetische Phantastik, Science Fiction)
+&lt;ul&gt;
+&lt;li&gt;Picknick am Wegesrand&lt;&#x2F;li&gt;
+&lt;li&gt;Die dunkle Stadt&lt;&#x2F;li&gt;
+&lt;li&gt;Die Schnecke am Hang&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;1948, Die Farm der Tiere, Krieg der Welten&lt;&#x2F;li&gt;
+&lt;li&gt;Robert Luis Stevenson - Dr. Jeckyll und Mr. Hyde, Die Schatzinsel (Kinderfassung)&lt;&#x2F;li&gt;
+&lt;li&gt;Daniel Defoe - Robinson Crusoe&lt;&#x2F;li&gt;
+&lt;li&gt;Jeff VanderMeer - Annihilation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;box1&quot;&gt;Box1&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;J.D. Salinger - Der Fänger im Roggen&lt;&#x2F;li&gt;
+&lt;li&gt;Nick Hornby - High Fidelity&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Yann_Martel&quot;&gt;Yann Martel&lt;&#x2F;a&gt; - Schiffbruch mit Tiger&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Charles_Webb_(author)&quot;&gt;Charles Webb&lt;&#x2F;a&gt; - Die Reifeprüfung&lt;&#x2F;li&gt;
+&lt;li&gt;Francois Lelord - Hector und die Suche nach dem Glück&lt;&#x2F;li&gt;
+&lt;li&gt;Rita Mae Brown - Rubinroter Dschungel&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Truman_Capote&quot;&gt;Truman Capote&lt;&#x2F;a&gt; - Kaltblütig&lt;&#x2F;li&gt;
+&lt;li&gt;Douglas Coupland - Generation X&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>List of Books I want to read</title>
+        <published>2018-10-12T00:00:00+00:00</published>
+        <updated>2018-10-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/toread/"/>
+        <id>https://sthiele.github.io/toread/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/toread/">&lt;h2 id=&quot;current-list&quot;&gt;Current list&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Die Reise in den Westen&lt;&#x2F;li&gt;
+&lt;li&gt;Virginia Woolf&lt;&#x2F;li&gt;
+&lt;li&gt;Max Weber&lt;&#x2F;li&gt;
+&lt;li&gt;Richard Wright - Black Boy&lt;&#x2F;li&gt;
+&lt;li&gt;Myth a Handbook&lt;&#x2F;li&gt;
+&lt;li&gt;The Diktators handbook&lt;&#x2F;li&gt;
+&lt;li&gt;The yellow wallpaper&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;want-to-read&quot;&gt;Want to read&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Movable feast - Hemmingway&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Totenhaus - Dostojewski&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Invisible man - Ellison&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The way of all flash - Samuel Butler&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bertrand_Russell&quot;&gt;&lt;strong&gt;Bertrand Russell&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; — &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;A_History_of_Western_Philosophy&quot;&gt;&lt;strong&gt;A History of Western Philosophy&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is on my stack since 2019. It’s a pretty dense and comprehensive history of philosophy mostly philosophers in the West. I started pretty enthusiastic with the ancient philosophers but later on skipped some parts Currently, I am at the thirteenth century and the Middle Ages are pretty heavy on religion. I hope to soon reach modern philosophy which hopefully I can relate more to.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

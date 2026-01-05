@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+      <!-- Enable responsiveness on mobile devices-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+      
+    
+
+      <title> - PyASP basics</title>
+
+      
+
+      
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
+          
+      
+
+      
+          <link rel="stylesheet" href="https://sthiele.github.io/site.css">
+          
+      
+
+      
+      
+    </head>
+
+    <body>
+        <div class="container">
+
+            <div id="mobile-navbar" class="mobile-navbar">
+              <div class="mobile-header-logo">
+                <a href="https:&#x2F;&#x2F;sthiele.github.io" class="logo">sthiele::weblog</a>
+              </div>
+              <div class="mobile-navbar-icon icon-out">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+
+            <nav id="mobile-menu" class="mobile-menu slideout-menu slideout-menu-left">
+              <ul class="mobile-menu-list">
+                
+                    <li class="mobile-menu-item">
+                        <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;tags">
+                            Tags
+                        </a>
+                    </li>
+                
+                    <li class="mobile-menu-item">
+                        <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;about">
+                            About
+                        </a>
+                    </li>
+                
+              </ul>
+            </nav>
+
+            <header id="header">
+                <div class="logo"><a href="https:&#x2F;&#x2F;sthiele.github.io">sthiele::weblog</a></div>
+                <nav class="menu">
+                    <ul>
+                        
+                            <li>
+                                <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;tags">
+                                    Tags
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;about">
+                                    About
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </nav>
+            </header>
+
+            <main>
+                <div class="content" id="mobile-panel">
+                    
+
+
+
+<article class="post">
+    
+    <header class="post__header">
+        <h1 class="post__title">
+            <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;pyasp-basics&#x2F;">PyASP basics</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2015-10-01</span>
+            
+        </div>
+    </header>
+
+    <div class="post-content">
+      <p>This post explains the basics on how to use the PyASP library.</p>
+<span id="continue-reading"></span>
+<p>I assume that <code>pyasp</code> is already installed on the system.
+This tutorial has been tested with Python 3 and <a href="https://pypi.python.org/pypi/pyasp/1.4.1">pyasp 1.4.1</a>.
+You can download the logic programs that are used in this example here
+-&gt; <a href="https://sthiele.github.io/pyasp-basics/queens.lp">queens.lp</a> and <a href="https://sthiele.github.io/pyasp-basics/facts.lp">facts.lp</a></p>
+<ul>
+<li>
+<p>Import the library</p>
+<pre data-lang="python" style="background-color:#2b303b;color:#c0c5ce;" class="language-python "><code class="language-python" data-lang="python"><span style="color:#b48ead;">from </span><span>pyasp.asp </span><span style="color:#b48ead;">import </span><span style="color:#d08770;">*
+</span></code></pre>
+</li>
+<li>
+<p>Create a solver object.</p>
+<p>Before creating a solver object you need to declare what options your solver should run with. There are two kind of options the options for the grounder (see gringo documentation) and the options for the solver (see clasp documentation). In this example our only solver option is '2' which means we are looking for atmost 2 solutions.</p>
+<pre data-lang="python" style="background-color:#2b303b;color:#c0c5ce;" class="language-python "><code class="language-python" data-lang="python"><span>goptions = &#39;&#39;
+</span><span>soptions = &#39;</span><span style="color:#a3be8c;">2</span><span>&#39;
+</span><span>solver   = </span><span style="color:#bf616a;">Gringo4Clasp</span><span>(</span><span style="color:#bf616a;">gringo_options</span><span>=goptions,
+</span><span>                        </span><span style="color:#bf616a;">clasp_options</span><span>=soptions)
+</span></code></pre>
+</li>
+<li>
+<p>Running the solver on some input.</p>
+<p>Just like gringo the run method of the solver object accepts a list of input files. Here we use the encoding of the queens problems and solve it for a size of 10 as declared in facts.lp.</p>
+<pre data-lang="python" style="background-color:#2b303b;color:#c0c5ce;" class="language-python "><code class="language-python" data-lang="python"><span>encoding = &#39;</span><span style="color:#a3be8c;">queens.lp</span><span>&#39;
+</span><span>facts    = &#39;</span><span style="color:#a3be8c;">facts.lp</span><span>&#39;
+</span><span>result   = solver.</span><span style="color:#bf616a;">run</span><span>([encoding, facts],
+</span><span>                      </span><span style="color:#bf616a;">collapseTerms</span><span>=</span><span style="color:#d08770;">True</span><span>,
+</span><span>                      </span><span style="color:#bf616a;">collapseAtoms</span><span>=</span><span style="color:#d08770;">False</span><span>)
+</span></code></pre>
+<p>The result is a list of the solutions as TermSets.</p>
+<pre data-lang="python" style="background-color:#2b303b;color:#c0c5ce;" class="language-python "><code class="language-python" data-lang="python"><span style="color:#96b5b4;">print</span><span>(result)
+</span><span>[</span><span style="color:#bf616a;">TermSet</span><span>({</span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">8</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">3</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">10</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">9</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">1</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">1</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">3</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">4</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">6</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">2</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">5</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">7</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">2</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">10</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">7</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">5</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">4</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">8</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">9</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">6</span><span>&#39;])}),
+</span><span> </span><span style="color:#bf616a;">TermSet</span><span>({</span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">10</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">9</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">8</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">6</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">6</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">3</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">3</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">4</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">5</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">7</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">9</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">5</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">1</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">1</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">7</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">2</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">4</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">8</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">2</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">10</span><span>&#39;])})]
+</span></code></pre>
+</li>
+<li>
+<p>Create your own set of facts.</p>
+<p>You can also create your own facts from within python and feed it as input to the solver. So far we have solved the 10-queens problem. Now we create a new set of facts including d(11) and solve the 11-queens problem.</p>
+<pre data-lang="python" style="background-color:#2b303b;color:#c0c5ce;" class="language-python "><code class="language-python" data-lang="python"><span>newfacts = </span><span style="color:#bf616a;">TermSet</span><span>()
+</span><span>newterm  = </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">d</span><span>&#39;, [&quot;</span><span style="color:#a3be8c;">11</span><span>&quot;])
+</span><span>newfacts.</span><span style="color:#bf616a;">add</span><span>(newterm)
+</span><span>result   = solver.</span><span style="color:#bf616a;">run</span><span>([encoding, facts, newfacts.</span><span style="color:#bf616a;">to_file</span><span>()],
+</span><span>                      </span><span style="color:#bf616a;">collapseTerms</span><span>=</span><span style="color:#d08770;">True</span><span>,
+</span><span>                      </span><span style="color:#bf616a;">collapseAtoms</span><span>=</span><span style="color:#d08770;">False</span><span>)
+</span></code></pre>
+<p>Now the result contains 2 solutions to the 11-queens problem.</p>
+<pre data-lang="python" style="background-color:#2b303b;color:#c0c5ce;" class="language-python "><code class="language-python" data-lang="python"><span style="color:#96b5b4;">print</span><span>(result)
+</span><span>[</span><span style="color:#bf616a;">TermSet</span><span>({</span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">11</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">11</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">10</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">8</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">5</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">2</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">6</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">1</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">4</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">9</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">2</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">5</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">8</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">4</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">7</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">6</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">9</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">10</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">3</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">7</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">1</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">3</span><span>&#39;])}),
+</span><span> </span><span style="color:#bf616a;">TermSet</span><span>({</span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">1</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">3</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">2</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">7</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">5</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">2</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">3</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">1</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">11</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">11</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">9</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">10</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">4</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">8</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">10</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">5</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">7</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">6</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">6</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">9</span><span>&#39;]), </span><span style="color:#bf616a;">Term</span><span>(&#39;</span><span style="color:#a3be8c;">q</span><span>&#39;,[&#39;</span><span style="color:#a3be8c;">8</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">4</span><span>&#39;])})]
+</span></code></pre>
+</li>
+<li>
+<p>Parse and pretty print your solutions.</p>
+<pre data-lang="python" style="background-color:#2b303b;color:#c0c5ce;" class="language-python "><code class="language-python" data-lang="python"><span style="color:#b48ead;">for </span><span>s </span><span style="color:#b48ead;">in </span><span>result :
+</span><span>  </span><span style="color:#b48ead;">for </span><span>a </span><span style="color:#b48ead;">in </span><span>s :
+</span><span>    args= &quot;</span><span style="color:#a3be8c;">,</span><span>&quot;.</span><span style="color:#bf616a;">join</span><span>(a.</span><span style="color:#bf616a;">args</span><span>())
+</span><span>    </span><span style="color:#96b5b4;">print</span><span>(a.</span><span style="color:#bf616a;">pred</span><span>(),&#39;</span><span style="color:#a3be8c;">(</span><span>&#39;,args,&#39;</span><span style="color:#a3be8c;">)</span><span>&#39;,</span><span style="color:#bf616a;">sep</span><span>=&#39;&#39;,</span><span style="color:#bf616a;">end</span><span>=&#39; &#39;)
+</span><span>  </span><span style="color:#96b5b4;">print</span><span>()
+</span><span>
+</span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">11</span><span>,</span><span style="color:#d08770;">11</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">10</span><span>,</span><span style="color:#d08770;">8</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">5</span><span>,</span><span style="color:#d08770;">2</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">6</span><span>,</span><span style="color:#d08770;">1</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">4</span><span>,</span><span style="color:#d08770;">9</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">2</span><span>,</span><span style="color:#d08770;">5</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">8</span><span>,</span><span style="color:#d08770;">4</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">7</span><span>,</span><span style="color:#d08770;">6</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">9</span><span>,</span><span style="color:#d08770;">10</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">3</span><span>,</span><span style="color:#d08770;">7</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">1</span><span>,</span><span style="color:#d08770;">3</span><span>)
+</span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">1</span><span>,</span><span style="color:#d08770;">3</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">2</span><span>,</span><span style="color:#d08770;">7</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">5</span><span>,</span><span style="color:#d08770;">2</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">3</span><span>,</span><span style="color:#d08770;">1</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">11</span><span>,</span><span style="color:#d08770;">11</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">9</span><span>,</span><span style="color:#d08770;">10</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">4</span><span>,</span><span style="color:#d08770;">8</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">10</span><span>,</span><span style="color:#d08770;">5</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">7</span><span>,</span><span style="color:#d08770;">6</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">6</span><span>,</span><span style="color:#d08770;">9</span><span>) </span><span style="color:#bf616a;">q</span><span>(</span><span style="color:#d08770;">8</span><span>,</span><span style="color:#d08770;">4</span><span>)
+</span></code></pre>
+</li>
+</ul>
+
+    </div>
+
+    
+    
+
+    <div class="post-footer">
+        
+            
+                <div class="post-tags">
+                    
+                        <a href="https://sthiele.github.io/tags/asp/">#ASP</a>
+                    
+                </div>
+            
+            
+                <div class="post-nav">
+                    
+                        <a class="previous" href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;extended-sign-consistency&#x2F;">‹ Extended notions of sign consistency</a>
+                    
+                    
+                        <a class="next" href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;meneco-plant-journal&#x2F;">First reconstruction of a metabolic network using meneco published in The Plant Journal ›</a>
+                    
+                </div>
+            
+
+        
+
+    </div>
+
+    
+    
+</article>
+
+
+                </div>
+            </main>
+
+            
+            
+        </div>
+
+      
+          <script type="text/javascript" src="https://sthiele.github.io/even.js" ></script>
+      
+    </body>
+
+</html>

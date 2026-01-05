@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+      <!-- Enable responsiveness on mobile devices-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+      
+    
+
+      <title> - Interaction graphs and signed system changes</title>
+
+      
+
+      
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
+          
+      
+
+      
+          <link rel="stylesheet" href="https://sthiele.github.io/site.css">
+          
+      
+
+      
+      
+    </head>
+
+    <body>
+        <div class="container">
+
+            <div id="mobile-navbar" class="mobile-navbar">
+              <div class="mobile-header-logo">
+                <a href="https:&#x2F;&#x2F;sthiele.github.io" class="logo">sthiele::weblog</a>
+              </div>
+              <div class="mobile-navbar-icon icon-out">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+
+            <nav id="mobile-menu" class="mobile-menu slideout-menu slideout-menu-left">
+              <ul class="mobile-menu-list">
+                
+                    <li class="mobile-menu-item">
+                        <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;tags">
+                            Tags
+                        </a>
+                    </li>
+                
+                    <li class="mobile-menu-item">
+                        <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;about">
+                            About
+                        </a>
+                    </li>
+                
+              </ul>
+            </nav>
+
+            <header id="header">
+                <div class="logo"><a href="https:&#x2F;&#x2F;sthiele.github.io">sthiele::weblog</a></div>
+                <nav class="menu">
+                    <ul>
+                        
+                            <li>
+                                <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;tags">
+                                    Tags
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;about">
+                                    About
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </nav>
+            </header>
+
+            <main>
+                <div class="content" id="mobile-panel">
+                    
+
+
+<div class="post-toc" id="post-toc">
+    <h2 class="post-toc-title">Contents</h2>
+    <div class="post-toc-content always-active">
+        <nav id="TableOfContents">
+            <ul>
+                
+                <li>
+                    <a href="https://sthiele.github.io/scm/scm1/#what-are-interaction-graphs" class="toc-link">What are interaction graphs?</a>
+                    
+                </li>
+                
+                <li>
+                    <a href="https://sthiele.github.io/scm/scm1/#what-are-signed-system-changes" class="toc-link">What are signed system changes?</a>
+                    
+                </li>
+                
+                <li>
+                    <a href="https://sthiele.github.io/scm/scm1/#sign-consistency-rules" class="toc-link">Sign consistency rules</a>
+                    
+                </li>
+                
+                <li>
+                    <a href="https://sthiele.github.io/scm/scm1/#conclusion" class="toc-link">Conclusion</a>
+                    
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+<article class="post">
+    
+    <header class="post__header">
+        <h1 class="post__title">
+            <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;scm&#x2F;scm1&#x2F;">Interaction graphs and signed system changes</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2016-06-01</span>
+            
+        </div>
+    </header>
+
+    <div class="post-content">
+      <p><strong><code>This is work in progress! The content is still incomplete and changing.</code></strong></p>
+<p>In this first part of the Sign Consistency Methods (SCM) series, we will introduce interaction graph models and how they are used by SCM to model the changes in a dynamic system.</p>
+<h2 id="what-are-interaction-graphs">What are interaction graphs?</h2>
+<p>Interaction or influence graphs are a widely-used representation for complex systems.
+The components or variables of the system are represented by nodes, and edges denote how these components interact with each other.
+Many biological systems have a representation as interaction graphs, such as hunter-prey models, gene regulatory networks, and signaling networks.</p>
+<p>A more formal definition of an interaction graph is as follows:</p>
+<p><strong>Definition 1</strong>:
+<em>An interaction graph is a signed directed graph (V, E, σ), where</em>
+<em>V is a set of nodes that represent system variables,</em>
+<em>E is a set of edges that represent the influence of changes in one variable on another, and</em>
+<em>σ : E → {+, –} is a labeling of the edges that indicates whether the change in one variable tends to increase or decrease the value of another variable.</em></p>
+<p><em>An edge i→j in the graph indicates that the change in the value of variable i has an influence on the value of variable j, and the sign label σ(i,j) specifies whether this influence is positive (i tends to increase j) or negative (i tends to decrease j).</em></p>
+<p>An example of an interaction graph is given in Figure 1.
+There exist many variants of interaction graphs, some have weighted edges and some have other kinds of edges or different types of nodes.
+But this definition will suffice for now.</p>
+<p><img src="/scm/IG1.png" alt="IG1" /></p>
+<p><strong>Fig. 1</strong>: Example of an interaction graph. Green arrows indicate positive (+) influence, red edges negative (–) influence.</p>
+<h2 id="what-are-signed-system-changes">What are signed system changes?</h2>
+<p>Interaction graphs are models of dynamic quantitative systems where a quantitative state of the system is a mapping <em>S<sub>i</sub> : V → ℝ<sup>+</sup></em>.
+Sign consistency methods use signs to denote changes in the variables of the modeled system.
+Examples for such changes could be increase or decrease in metabolite concentrations or expression levels of genes.
+The signs <em>+</em> and <em>–</em> are used to denote <em>increase</em> and <em>decrease</em> and <em>0</em> signifies <em>no-change</em>.
+Sign consistency methods relate the IG model of the system and the variations between system states by representing the variations as labels on the nodes in the graph.
+For example, the changes between two states of the system are represented by labeling the nodes of IG with the signs of the change in the corresponding system variable.
+Given two system states <em>S<sub>R</sub></em> and <em>S<sub>O</sub></em> the differences between these states can be represented as the labeling <em>μ<sub>RO</sub> : V →{+,–,0}</em> with <em>μ<sub>RO</sub>(x) = sign(x<sub>S<sub>O</sub></sub> - x<sub>S<sub>R</sub></sub>)</em>.
+See Figure 2 for an example of two states and the corresponding sign labeling.
+We use the colors
+<span style="background:#AAE6AA">    </span>,
+<span style="background:#E6AAAA">    </span>,
+<span style="background:#82B9FF">    </span> to represent the signs <em>+</em>, <em>–</em>, <em>0</em>.</p>
+<p><img src="/scm/QST1.png" alt="QST1" /></p>
+<p><strong>Fig. 2</strong>: Example of a sign labeling representing the changes between two quantitative states.</p>
+<h2 id="sign-consistency-rules">Sign consistency rules</h2>
+<p>Sign consistency methods define rules that determine which labelings of the graph are considered consistent and which are considered inconsistent.
+There exist several different consistency rules which are useful to model different properties of a biological system.
+For now we only consider the following.</p>
+<p><strong>Rule 1 (backwards propagation)</strong>
+Every change in a node must be explained by a change in one of its predecessors.
+<em>Let (V,E,σ) be an IG. Then a labeling μ : V →{+,–,0} satisfies Rule 1 for node i ∈ V iff</em></p>
+<ul>
+<li><em>μ(i) = 0, or</em></li>
+<li><em>there is some edge j→i in E such that μ(i) = μ(j)σ(j,i).</em></li>
+</ul>
+<p><em>Rule 1</em> implements backward reasoning.
+Given an effect we look backwards to verify its cause.
+Labelings that are consistent with this rule represent the differences between steady states.
+In a steady state the values of all state variables are balanced.
+Hence, the change in one variable must be sustained by the change in one of its predecessors.
+In other words, if <em>S<sub>R</sub></em> and <em>S<sub>O</sub></em> are steady states of the system then the labeling <em>μ<sub>RO</sub></em> is consistent with <em>Rule 1</em>.
+The trivial example is when both states are the same <em>S<sub>R</sub> = S<sub>O</sub></em> then nothing changes <em>∀x ∈ V : μ<sub>RO</sub>(x) = 0</em>.</p>
+<p>Let’s see what else we can do with that.
+<em>Figure 3</em> shows an interaction graph and all labelings <em>μ<sub>i</sub> : V →{+,–,0}</em> with <em>μ<sub>i</sub>(a) = +</em> that satisfy <em>Rule 1</em>.</p>
+<p><img src="/scm/COL1.png" alt="COL1" /></p>
+<p><strong>Fig. 3</strong>: Labeled interaction graph</p>
+<p>Often it is useful to represent the labelings in a table as shown in <em>Table 1</em>.
+As you can see, there exist only four labelings that satisfy these constraints.
+In every of these labeling it holds <em>μ<sub>i</sub>(e) = +</em> and <em>μ<sub>i</sub>(f) = –</em>.
+We can use this table to predict the behavior of the system.
+We see that in every steady state, with an increase in <em>a</em> we also have an increase in <em>e</em> and a decrease in <em>f</em>.
+For <em>b</em> and <em>c</em> we can predict that they will not decrease, and for <em>d</em> that it will not increase.</p>
+<p><img src="/scm/CT1.png" alt="CT1" /></p>
+<p><strong>Table 1</strong>: Table of admissible labelings.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>In this part I introduced interaction graphs and explained how they can be used to model biological systems. We have seen how sign consistency methods represent variations in the system as sign labelings, and how sign consistency constraints can be used to derive predictions over the steady states of a system. So far we have modeled a closed system.
+In <a href="/scm/scm2">Part 2</a> I will introduce external inputs and perturbations.</p>
+
+    </div>
+
+    
+    
+
+    <div class="post-footer">
+        
+            
+                <div class="post-tags">
+                    
+                        <a href="https://sthiele.github.io/tags/sign-consistency/">#sign-consistency</a>
+                    
+                </div>
+            
+            
+
+        
+
+    </div>
+
+    
+    
+</article>
+
+
+                </div>
+            </main>
+
+            
+            
+        </div>
+
+      
+          <script type="text/javascript" src="https://sthiele.github.io/even.js" ></script>
+      
+    </body>
+
+</html>

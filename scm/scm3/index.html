@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+      <!-- Enable responsiveness on mobile devices-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+      
+    
+
+      <title> - Minimum and maximum level constraints</title>
+
+      
+
+      
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
+          
+      
+
+      
+          <link rel="stylesheet" href="https://sthiele.github.io/site.css">
+          
+      
+
+      
+      
+    </head>
+
+    <body>
+        <div class="container">
+
+            <div id="mobile-navbar" class="mobile-navbar">
+              <div class="mobile-header-logo">
+                <a href="https:&#x2F;&#x2F;sthiele.github.io" class="logo">sthiele::weblog</a>
+              </div>
+              <div class="mobile-navbar-icon icon-out">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+
+            <nav id="mobile-menu" class="mobile-menu slideout-menu slideout-menu-left">
+              <ul class="mobile-menu-list">
+                
+                    <li class="mobile-menu-item">
+                        <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;tags">
+                            Tags
+                        </a>
+                    </li>
+                
+                    <li class="mobile-menu-item">
+                        <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;about">
+                            About
+                        </a>
+                    </li>
+                
+              </ul>
+            </nav>
+
+            <header id="header">
+                <div class="logo"><a href="https:&#x2F;&#x2F;sthiele.github.io">sthiele::weblog</a></div>
+                <nav class="menu">
+                    <ul>
+                        
+                            <li>
+                                <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;tags">
+                                    Tags
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;about">
+                                    About
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </nav>
+            </header>
+
+            <main>
+                <div class="content" id="mobile-panel">
+                    
+
+
+<div class="post-toc" id="post-toc">
+    <h2 class="post-toc-title">Contents</h2>
+    <div class="post-toc-content always-active">
+        <nav id="TableOfContents">
+            <ul>
+                
+                <li>
+                    <a href="https://sthiele.github.io/scm/scm3/#constrained-values-for-system-variables" class="toc-link">Constrained values for system variables</a>
+                    
+                </li>
+                
+                <li>
+                    <a href="https://sthiele.github.io/scm/scm3/#conclusion" class="toc-link">Conclusion</a>
+                    
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+<article class="post">
+    
+    <header class="post__header">
+        <h1 class="post__title">
+            <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;scm&#x2F;scm3&#x2F;">Minimum and maximum level constraints</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2016-06-01</span>
+            
+        </div>
+    </header>
+
+    <div class="post-content">
+      <p><strong><code>This is work in progress! The content is still incomplete and changing.</code></strong></p>
+<p>This is Part 3 of the <a href="/scm">sign consistency series</a>.
+Previously, we covered the sign consistency rule for <a href="/scm/scm1#sign-consistency-rules">backward propagation</a>.
+In this part I will introduce a new rule that discards solutions that violate minimum and maximum constraints on system variables.</p>
+<h2 id="constrained-values-for-system-variables">Constrained values for system variables</h2>
+<p>A lot of variables in biological systems have minimum (resp. maximum) constraints.
+Concentration level cannot go below 0 or above 100%, and signals which are below the detection threshold cannot drop any further.
+Figure <em>1</em> shows an IG with four variables <em>a</em>, <em>b</em>, <em>c</em> and <em>d</em>.
+Let’s say the variable <em>c</em> represent a concentration and only values in the range of 0 to 100 are valid.
+Further, we know that in our reference state <em>S<sub>R</sub></em> the variable <em>c</em> is at its minimum.
+Let’s try to find all labelings <em>μ<sub>i</sub></em> that represent transisitions from <em>S<sub>R</sub></em> to a state <em>S<sub>i</sub></em> where the level of <em>d</em> has increased, <em>μ<sub>i</sub>(d) = +</em>.
+Figure <em>2</em> shows all labelings <em>μ<sub>i</sub></em> that satisfy consistency <em>Rule 1</em>.
+The labelings <em>μ<sub>2</sub></em> and <em>μ<sub>3</sub></em> violate the the minimality constraint on variable <em>c</em>,
+because there exists no value for <em>c</em> in [0,100] such that <em>sign(c - 0) = –</em>.</p>
+<p><img src="/scm/IG2.png" alt="IG2" /></p>
+<p><strong>Fig. 1</strong>: An IG and with the reference state <em>SR</em> where variable c <em>on</em> its minimum.</p>
+<p><img src="/scm/COL_IG2.png" alt="COL_IG2" /></p>
+<p><strong>Fig. 2</strong>: All labelings <em>μ<sub>i</sub></em> with <em>μ<sub>i</sub>(d) = +</em> that satisfy <em>Rule 1</em>. Only <em>μ<sub>1</sub></em> is consistent with the value restrictions of variable <em>c</em>.</p>
+<p>To deal with minimum (resp. maximum) constraints we introduce a new consistency rule.</p>
+<p><strong>Rule 2 (obey minima/maxima)</strong>: A variable that is on its minimum cannot decrease and an variable at its maximum cannot increase.
+<em>Let (V,E,σ) be an IG, MIN ⊆ V variables that are at their minimum, and MAX ⊆ V variables that are at their maximum. Then a labeling μ : V →{+,–,0} satisfies Rule 2 for node i ∈ V iff</em></p>
+<ul>
+<li><em>μ(i) = 0, or</em></li>
+<li><em>μ(i) = –, and i ∉ MIN, or</em></li>
+<li><em>μ(i) = +, and i ∉ MAX.</em></li>
+</ul>
+<p><em>Rule 2</em> allows us to exclude solutions that violate the constraints on minimal/maximal values.
+In <em>Figure 2</em> only labeling <em>μ<sub>1</sub></em> satisfies both consistency rules <em>1</em> and <em>2</em>.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>We now have a consistency rule that allows us to filter solutions that violate constraints restricting the minimum or maximum level of system variables.
+This rule can be combined with other consistency rules to get better explanations for state transitions.
+In the <a href="/scm/scm4">next part</a> I will introduce another consistency rule that increases the predictive power of sign consistency methods.</p>
+
+    </div>
+
+    
+    
+
+    <div class="post-footer">
+        
+            
+                <div class="post-tags">
+                    
+                        <a href="https://sthiele.github.io/tags/sign-consistency/">#sign-consistency</a>
+                    
+                </div>
+            
+            
+
+        
+
+    </div>
+
+    
+    
+</article>
+
+
+                </div>
+            </main>
+
+            
+            
+        </div>
+
+      
+          <script type="text/javascript" src="https://sthiele.github.io/even.js" ></script>
+      
+    </body>
+
+</html>

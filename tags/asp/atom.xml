@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - ASP</title>
+    <link rel="self" type="application/atom+xml" href="https://sthiele.github.io/tags/asp/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sthiele.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2015-10-02T00:00:00+00:00</updated>
+    <id>https://sthiele.github.io/tags/asp/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Extended notions of sign consistency</title>
+        <published>2015-10-02T00:00:00+00:00</published>
+        <updated>2015-10-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/extended-sign-consistency/"/>
+        <id>https://sthiele.github.io/extended-sign-consistency/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;media.springernature.com&#x2F;full&#x2F;springer-static&#x2F;image&#x2F;art%3A10.1186%2Fs12859-015-0733-7&#x2F;MediaObjects&#x2F;12859_2015_733_Fig2_HTML.gif&quot; alt=&quot;Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bmcbioinformatics.biomedcentral.com&#x2F;articles&#x2F;10.1186&#x2F;s12859-015-0733-7&quot;&gt;Extended notions of sign consistency to relate experimental data to signaling and regulatory network topologies&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>PyASP basics</title>
+        <published>2015-10-01T00:00:00+00:00</published>
+        <updated>2015-10-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/pyasp-basics/"/>
+        <id>https://sthiele.github.io/pyasp-basics/</id>
+        
+        <summary type="html">&lt;p&gt;This post explains the basics on how to use the PyASP library.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>First reconstruction of a metabolic network using meneco published in The Plant Journal</title>
+        <published>2014-06-01T00:00:00+00:00</published>
+        <updated>2014-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/meneco-plant-journal/"/>
+        <id>https://sthiele.github.io/meneco-plant-journal/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/meneco-plant-journal/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;wol-prod-cdn.literatumonline.com&#x2F;cms&#x2F;attachment&#x2F;3df80d89-6f18-4e7f-a431-afca8dcc03e9&#x2F;tpj.2014.80.issue-2.cover.jpg&quot; alt=&quot;Journal&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;abs&#x2F;10.1111&#x2F;tpj.12627&quot;&gt;The genome‐scale metabolic network of Ectocarpus siliculosus (EctoGEM): a resource to study brown algal physiology and beyond&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>ASP application in the Bioinformatics Journal</title>
+        <published>2013-07-01T00:00:00+00:00</published>
+        <updated>2013-07-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/caspo-bioinformatics/"/>
+        <id>https://sthiele.github.io/caspo-bioinformatics/</id>
+        
+        <summary type="html">&lt;p&gt;Our first ASP application published in the Bioinformatics Journal&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;oup.silverchair-cdn.com&#x2F;oup&#x2F;backfile&#x2F;Content_public&#x2F;Journal&#x2F;bioinformatics&#x2F;Issue&#x2F;29&#x2F;18&#x2F;0&#x2F;m_bioinformatics29_18.cover.gif?Expires=2147483647&amp;amp;Signature=brobNoIivMYhmOPNrDOiMROLvOVKQNW7rZyTaIpcVtLJKvjn0yTDn8kxyGBW1XMQC3g2bsiokK9hV4P8xvmiP~gZX8kuSz1gAEowIuSC4OXEIoi~YmG82ilOD0pE5xEmCQks3rR1tp1A7rEaZJ~BkUGMbGPKXgiM6guYS~4PVDolNYSmctlMhlUFPxlG9Swl3VMhkXTIs9n8mRAG3U4-M4acquob~H20zFwyClij5DVcHMcwSdHQAnjMGsOT133jT0LfYWfhkg59esuHiU8NYLjo-g-G2aKBCumkfK~JUxVZpA8uZ1ilUp2TwRZpH-txcOPeMC4WK6DTs1mF66ZJhw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&quot; alt=&quot;Journal&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;academic.oup.com&#x2F;bioinformatics&#x2F;article&#x2F;29&#x2F;18&#x2F;2320&#x2F;240224&quot;&gt;Exhaustively characterizing feasible logic models of a signaling network using Answer Set Programming&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>

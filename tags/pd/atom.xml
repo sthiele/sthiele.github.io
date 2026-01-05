@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - PD</title>
+    <link rel="self" type="application/atom+xml" href="https://sthiele.github.io/tags/pd/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sthiele.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2014-06-01T00:00:00+00:00</updated>
+    <id>https://sthiele.github.io/tags/pd/atom.xml</id>
+    <entry xml:lang="en">
+        <title>TLDR - February 2019</title>
+        <published>2014-06-01T00:00:00+00:00</published>
+        <updated>2014-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/tldr-february-2019/"/>
+        <id>https://sthiele.github.io/tldr-february-2019/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/tldr-february-2019/">&lt;h2 id=&quot;tldr-february-2019&quot;&gt;TLDR  February 2019&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.pythonforengineers.com&#x2F;build-a-reddit-bot-part-1&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.pythonforengineers.com&#x2F;build-a-reddit-bot-part-1&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jvns.ca&#x2F;blog&#x2F;senior-engineer&#x2F;&quot;&gt;https:&#x2F;&#x2F;jvns.ca&#x2F;blog&#x2F;senior-engineer&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kornel.ski&#x2F;rust-sys-crate&quot;&gt;https:&#x2F;&#x2F;kornel.ski&#x2F;rust-sys-crate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rust-lang-nursery.github.io&#x2F;api-guidelines&#x2F;about.html&quot;&gt;https:&#x2F;&#x2F;rust-lang-nursery.github.io&#x2F;api-guidelines&#x2F;about.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;s3.amazonaws.com&#x2F;temp.michaelfbryan.com&#x2F;index.html&quot;&gt;https:&#x2F;&#x2F;s3.amazonaws.com&#x2F;temp.michaelfbryan.com&#x2F;index.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;compsci&#x2F;comments&#x2F;4mgvxt&#x2F;grovers_search_algorithm_quantum_computers&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;compsci&#x2F;comments&#x2F;4mgvxt&#x2F;grovers_search_algorithm_quantum_computers&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Alfred_North_Whitehead&quot;&gt;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Alfred_North_Whitehead&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Norman_Rockwell#Personal_life&quot;&gt;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Norman_Rockwell#Personal_life&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.riesterrente-heute.de&#x2F;kinderzulage&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.riesterrente-heute.de&#x2F;kinderzulage&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lifein19x19.com&#x2F;viewtopic.php?f=9&amp;amp;t=15302&quot;&gt;https:&#x2F;&#x2F;lifein19x19.com&#x2F;viewtopic.php?f=9&amp;amp;t=15302&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;SabakiHQ&#x2F;Sabaki&#x2F;pull&#x2F;294&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;SabakiHQ&#x2F;Sabaki&#x2F;pull&#x2F;294&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;user_guide&#x2F;index.html#markup&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;user_guide&#x2F;index.html#markup&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;go.html&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;go.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;sgf4.html&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;sgf4.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;properties.html#PL&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;properties.html#PL&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;compatibility.html&quot;&gt;https:&#x2F;&#x2F;www.red-bean.com&#x2F;sgf&#x2F;compatibility.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;y-ich.github.io&#x2F;rust-sgf&#x2F;target&#x2F;doc&#x2F;sgf&#x2F;sgf_node&#x2F;struct.SgfNode.html&quot;&gt;http:&#x2F;&#x2F;y-ich.github.io&#x2F;rust-sgf&#x2F;target&#x2F;doc&#x2F;sgf&#x2F;sgf_node&#x2F;struct.SgfNode.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.khanacademy.org&#x2F;humanities&#x2F;us-government-and-civics&#x2F;government-civics-with-cbss-john-dickerson&quot;&gt;https:&#x2F;&#x2F;www.khanacademy.org&#x2F;humanities&#x2F;us-government-and-civics&#x2F;government-civics-with-cbss-john-dickerson&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;lawsandsausagescomic.com&#x2F;comic&#x2F;203&quot;&gt;http:&#x2F;&#x2F;lawsandsausagescomic.com&#x2F;comic&#x2F;203&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;media.ccc.de&#x2F;v&#x2F;fiffkon18-5-digitale_entmundigung#t=639&quot;&gt;https:&#x2F;&#x2F;media.ccc.de&#x2F;v&#x2F;fiffkon18-5-digitale_entmundigung#t=639&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.aristoteliansociety.org.uk&#x2F;the-proceedings&#x2F;proceedings-podcasts&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.aristoteliansociety.org.uk&#x2F;the-proceedings&#x2F;proceedings-podcasts&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

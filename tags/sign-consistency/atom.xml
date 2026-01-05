@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - sign-consistency</title>
+    <link rel="self" type="application/atom+xml" href="https://sthiele.github.io/tags/sign-consistency/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sthiele.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2016-06-01T00:00:00+00:00</updated>
+    <id>https://sthiele.github.io/tags/sign-consistency/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Sign consistency methods to reason over the transitional behavior of dynamic systems</title>
+        <published>2016-06-01T00:00:00+00:00</published>
+        <updated>2016-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/scm/"/>
+        <id>https://sthiele.github.io/scm/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/scm/">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;In this series I want to explain how interaction graph models and sign consistency methods are used to model the behavior of dynamical systems. The focus lies on modeling the behavior of biological systems, although the application to artificial systems is possible. In particular, I want to show how certain sign consistency methods work, under which assumption they operate, which biological questions they allow us to answer, and what problems exist. My aim is to be very beginner friendly with lots of examples. OK, let’s dive into it! Here is a table of content that list the covered topics from which you can cherry pick.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contents&quot;&gt;CONTENTS&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;scm&#x2F;scm1&quot;&gt;&lt;strong&gt;Interaction graphs and signed system changes&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;scm&#x2F;scm2&quot;&gt;&lt;strong&gt;Modeling open systems inputs and perturbations&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;scm&#x2F;scm3&quot;&gt;&lt;strong&gt;Minimum and maximum level constraints&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;scm&#x2F;scm4&quot;&gt;&lt;strong&gt;Predicting effects on downstream regulated variables&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;scm&#x2F;scm5&quot;&gt;&lt;strong&gt;Predicting effects on cooperatively regulated variables&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;scm&#x2F;scm6&quot;&gt;&lt;strong&gt;Excluding unfounded changes in feedback loops&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Model consistency wrt. measurement data&lt;&#x2F;strong&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Consistency index and data repair&lt;&#x2F;strong&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Model repair and network inference&lt;&#x2F;strong&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Dependency matrix&lt;&#x2F;strong&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Experiment design&lt;&#x2F;strong&gt; &lt;br &#x2F;&gt;
+&lt;strong&gt;Relation to Boolean Networks&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;references&quot;&gt;References&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;S. Thiele, L. Cerone, J. Saez-Rodriguez, A. Siegel, C. Guziołowski, and S. Klamt. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1186&#x2F;s12859-015-0733-7&quot;&gt;Extended notions of sign consistency to relate experimental data to signaling and regulatory network topologies&lt;&#x2F;a&gt;, &lt;em&gt;BMC Bioinformatics&lt;&#x2F;em&gt;, 16(345), 2015.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;I. N. Melas, R. Samaga, L. G. Alexopoulos, and S. Klamt. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1371&#x2F;journal.pcbi.1003204&quot;&gt;Detecting and Removing Inconsistencies between Experimental Data and Signaling Network Topologies Using Integer Linear Programming on Interaction Graphs&lt;&#x2F;a&gt;, &lt;em&gt;PLoS Computational Biology&lt;&#x2F;em&gt;, 9(9):e1003204, 09 2013.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;R. Samaga and S. Klamt. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1186&#x2F;1478-811X-11-43&quot;&gt;Modeling approaches for qualitative and semi-quantitative analysis of cellular signaling networks&lt;&#x2F;a&gt;, &lt;em&gt;Cell Communication and Signaling&lt;&#x2F;em&gt;, 11(43), 2013.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;M. Gebser, T. Schaub, S. Thiele, and P. Veber. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1017&#x2F;S1471068410000554&quot;&gt;Detecting inconsistencies in large biological networks with answer set programming&lt;&#x2F;a&gt;, &lt;em&gt;Theory and Practice of Logic Programming&lt;&#x2F;em&gt;, 11(2-3):323–360, 2011.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;M. Gebser, C. Guziołowski, M. Ivanchev, T. Schaub, A. Siegel, S. Thiele, and P. Veber. &lt;a href=&quot;http:&#x2F;&#x2F;aaai.org&#x2F;ocs&#x2F;index.php&#x2F;KR&#x2F;KR2010&#x2F;paper&#x2F;view&#x2F;1334&quot;&gt;Repair and prediction (under inconsistency) in large biological networks with answer set programming&lt;&#x2F;a&gt;, &lt;em&gt;Proceedings of the Twelfth International Conference on the Principles of Knowledge Representation and Reasoning (KR’10)&lt;&#x2F;em&gt;, AAAI Press, 2010.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;J. Saez-Rodriguez, L. G. Alexopoulos, J. Epperlein, R. Samaga, D. A. Lauffenburger, S. Klamt, and P. K. Sorger. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1038&#x2F;msb.2009.87&quot;&gt;Discrete logic modelling as a means to link protein signalling networks with functional analysis of mammalian signal transduction&lt;&#x2F;a&gt;, &lt;em&gt;Molecular systems biology&lt;&#x2F;em&gt;, 5(331), 2009.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;S. Klamt, J. Saez-Rodriguez, J. Lindquist, L. Simeoni, and E. Gilles. &lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1186&#x2F;1471-2105-7-56&quot;&gt;A methodology for the structural and functional analysis of signaling and regulatory networks&lt;&#x2F;a&gt;, &lt;em&gt;BMC Bioinformatics&lt;&#x2F;em&gt;, 7(1):56, 2006.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Interaction graphs and signed system changes</title>
+        <published>2016-06-01T00:00:00+00:00</published>
+        <updated>2016-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/scm/scm1/"/>
+        <id>https://sthiele.github.io/scm/scm1/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/scm/scm1/">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;In this first part of the Sign Consistency Methods (SCM) series, we will introduce interaction graph models and how they are used by SCM to model the changes in a dynamic system.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-are-interaction-graphs&quot;&gt;What are interaction graphs?&lt;&#x2F;h2&gt;
+&lt;p&gt;Interaction or influence graphs are a widely-used representation for complex systems.
+The components or variables of the system are represented by nodes, and edges denote how these components interact with each other.
+Many biological systems have a representation as interaction graphs, such as hunter-prey models, gene regulatory networks, and signaling networks.&lt;&#x2F;p&gt;
+&lt;p&gt;A more formal definition of an interaction graph is as follows:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Definition 1&lt;&#x2F;strong&gt;:
+&lt;em&gt;An interaction graph is a signed directed graph (V, E, σ), where&lt;&#x2F;em&gt;
+&lt;em&gt;V is a set of nodes that represent system variables,&lt;&#x2F;em&gt;
+&lt;em&gt;E is a set of edges that represent the influence of changes in one variable on another, and&lt;&#x2F;em&gt;
+&lt;em&gt;σ : E → {+, –} is a labeling of the edges that indicates whether the change in one variable tends to increase or decrease the value of another variable.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;An edge i→j in the graph indicates that the change in the value of variable i has an influence on the value of variable j, and the sign label σ(i,j) specifies whether this influence is positive (i tends to increase j) or negative (i tends to decrease j).&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;An example of an interaction graph is given in Figure 1.
+There exist many variants of interaction graphs, some have weighted edges and some have other kinds of edges or different types of nodes.
+But this definition will suffice for now.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;IG1.png&quot; alt=&quot;IG1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: Example of an interaction graph. Green arrows indicate positive (+) influence, red edges negative (–) influence.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-are-signed-system-changes&quot;&gt;What are signed system changes?&lt;&#x2F;h2&gt;
+&lt;p&gt;Interaction graphs are models of dynamic quantitative systems where a quantitative state of the system is a mapping &lt;em&gt;S&lt;sub&gt;i&lt;&#x2F;sub&gt; : V → ℝ&lt;sup&gt;+&lt;&#x2F;sup&gt;&lt;&#x2F;em&gt;.
+Sign consistency methods use signs to denote changes in the variables of the modeled system.
+Examples for such changes could be increase or decrease in metabolite concentrations or expression levels of genes.
+The signs &lt;em&gt;+&lt;&#x2F;em&gt; and &lt;em&gt;–&lt;&#x2F;em&gt; are used to denote &lt;em&gt;increase&lt;&#x2F;em&gt; and &lt;em&gt;decrease&lt;&#x2F;em&gt; and &lt;em&gt;0&lt;&#x2F;em&gt; signifies &lt;em&gt;no-change&lt;&#x2F;em&gt;.
+Sign consistency methods relate the IG model of the system and the variations between system states by representing the variations as labels on the nodes in the graph.
+For example, the changes between two states of the system are represented by labeling the nodes of IG with the signs of the change in the corresponding system variable.
+Given two system states &lt;em&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; and &lt;em&gt;S&lt;sub&gt;O&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; the differences between these states can be represented as the labeling &lt;em&gt;μ&lt;sub&gt;RO&lt;&#x2F;sub&gt; : V →{+,–,0}&lt;&#x2F;em&gt; with &lt;em&gt;μ&lt;sub&gt;RO&lt;&#x2F;sub&gt;(x) = sign(x&lt;sub&gt;S&lt;sub&gt;O&lt;&#x2F;sub&gt;&lt;&#x2F;sub&gt; - x&lt;sub&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt;&lt;&#x2F;sub&gt;)&lt;&#x2F;em&gt;.
+See Figure 2 for an example of two states and the corresponding sign labeling.
+We use the colors
+&lt;span style=&quot;background:#AAE6AA&quot;&gt;    &lt;&#x2F;span&gt;,
+&lt;span style=&quot;background:#E6AAAA&quot;&gt;    &lt;&#x2F;span&gt;,
+&lt;span style=&quot;background:#82B9FF&quot;&gt;    &lt;&#x2F;span&gt; to represent the signs &lt;em&gt;+&lt;&#x2F;em&gt;, &lt;em&gt;–&lt;&#x2F;em&gt;, &lt;em&gt;0&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;QST1.png&quot; alt=&quot;QST1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2&lt;&#x2F;strong&gt;: Example of a sign labeling representing the changes between two quantitative states.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;sign-consistency-rules&quot;&gt;Sign consistency rules&lt;&#x2F;h2&gt;
+&lt;p&gt;Sign consistency methods define rules that determine which labelings of the graph are considered consistent and which are considered inconsistent.
+There exist several different consistency rules which are useful to model different properties of a biological system.
+For now we only consider the following.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rule 1 (backwards propagation)&lt;&#x2F;strong&gt;
+Every change in a node must be explained by a change in one of its predecessors.
+&lt;em&gt;Let (V,E,σ) be an IG. Then a labeling μ : V →{+,–,0} satisfies Rule 1 for node i ∈ V iff&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;μ(i) = 0, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;there is some edge j→i in E such that μ(i) = μ(j)σ(j,i).&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;Rule 1&lt;&#x2F;em&gt; implements backward reasoning.
+Given an effect we look backwards to verify its cause.
+Labelings that are consistent with this rule represent the differences between steady states.
+In a steady state the values of all state variables are balanced.
+Hence, the change in one variable must be sustained by the change in one of its predecessors.
+In other words, if &lt;em&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; and &lt;em&gt;S&lt;sub&gt;O&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; are steady states of the system then the labeling &lt;em&gt;μ&lt;sub&gt;RO&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; is consistent with &lt;em&gt;Rule 1&lt;&#x2F;em&gt;.
+The trivial example is when both states are the same &lt;em&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt; = S&lt;sub&gt;O&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; then nothing changes &lt;em&gt;∀x ∈ V : μ&lt;sub&gt;RO&lt;&#x2F;sub&gt;(x) = 0&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Let’s see what else we can do with that.
+&lt;em&gt;Figure 3&lt;&#x2F;em&gt; shows an interaction graph and all labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt; : V →{+,–,0}&lt;&#x2F;em&gt; with &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(a) = +&lt;&#x2F;em&gt; that satisfy &lt;em&gt;Rule 1&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL1.png&quot; alt=&quot;COL1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 3&lt;&#x2F;strong&gt;: Labeled interaction graph&lt;&#x2F;p&gt;
+&lt;p&gt;Often it is useful to represent the labelings in a table as shown in &lt;em&gt;Table 1&lt;&#x2F;em&gt;.
+As you can see, there exist only four labelings that satisfy these constraints.
+In every of these labeling it holds &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(e) = +&lt;&#x2F;em&gt; and &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(f) = –&lt;&#x2F;em&gt;.
+We can use this table to predict the behavior of the system.
+We see that in every steady state, with an increase in &lt;em&gt;a&lt;&#x2F;em&gt; we also have an increase in &lt;em&gt;e&lt;&#x2F;em&gt; and a decrease in &lt;em&gt;f&lt;&#x2F;em&gt;.
+For &lt;em&gt;b&lt;&#x2F;em&gt; and &lt;em&gt;c&lt;&#x2F;em&gt; we can predict that they will not decrease, and for &lt;em&gt;d&lt;&#x2F;em&gt; that it will not increase.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;CT1.png&quot; alt=&quot;CT1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Table 1&lt;&#x2F;strong&gt;: Table of admissible labelings.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;In this part I introduced interaction graphs and explained how they can be used to model biological systems. We have seen how sign consistency methods represent variations in the system as sign labelings, and how sign consistency constraints can be used to derive predictions over the steady states of a system. So far we have modeled a closed system.
+In &lt;a href=&quot;&#x2F;scm&#x2F;scm2&quot;&gt;Part 2&lt;&#x2F;a&gt; I will introduce external inputs and perturbations.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Modeling open systems inputs and perturbations</title>
+        <published>2016-06-01T00:00:00+00:00</published>
+        <updated>2016-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/scm/scm2/"/>
+        <id>https://sthiele.github.io/scm/scm2/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/scm/scm2/">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 2 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+In &lt;a href=&quot;&#x2F;scm&#x2F;scm1&quot;&gt;Part 1&lt;&#x2F;a&gt; of this series we learned how to use interaction graphs and sign consistency methods to reason about steady states in closed systems.
+In this part we add inputs to our model and answer the question how a biological system responds to external influences.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;inputs-and-perturbations&quot;&gt;Inputs and perturbations&lt;&#x2F;h2&gt;
+&lt;p&gt;Most systems interact in some ways with a surrounding environment.
+To reason over systems response to different environmental settings we introduce &lt;em&gt;input&lt;&#x2F;em&gt; variables.
+Input variables are not controlled by the system but represent external influences on the system.
+Such &lt;em&gt;inputs&lt;&#x2F;em&gt; could be stressors like temperature, light or drugs.
+In an IG &lt;em&gt;(E,V)&lt;&#x2F;em&gt;
+we denote the set of nodes that represent input variables with &lt;em&gt;I ⊆ V&lt;&#x2F;em&gt;.
+Because input nodes are controlled externally,
+they are excluded from the sign consistency rules.&lt;&#x2F;p&gt;
+&lt;p&gt;For the closed system shown in &lt;em&gt;Figure 1&lt;&#x2F;em&gt;, there exists no single labeling &lt;em&gt;μ : V→{+,–,0}&lt;&#x2F;em&gt;, with &lt;em&gt;μ(a) = +&lt;&#x2F;em&gt; and &lt;em&gt;μ(b) = –&lt;&#x2F;em&gt; that satisfies &lt;em&gt;Rule 1&lt;&#x2F;em&gt; for all &lt;em&gt;v ∈ V&lt;&#x2F;em&gt;.
+In other words, there exists no transition between steady states where &lt;em&gt;a&lt;&#x2F;em&gt; increases and &lt;em&gt;b&lt;&#x2F;em&gt; decreases.
+Because &lt;em&gt;a&lt;&#x2F;em&gt; is the only predecessor of &lt;em&gt;b&lt;&#x2F;em&gt;, between all steady states changes in &lt;em&gt;a&lt;&#x2F;em&gt; and &lt;em&gt;b&lt;&#x2F;em&gt; must have the same sign.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;IG1.png&quot; alt=&quot;IG1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: Example of an interaction graph. Green arrows indicate positive (+) influence, red edges negative (–) influence.&lt;&#x2F;p&gt;
+&lt;p&gt;We can interpret our model as an open system,
+were the value of &lt;em&gt;b&lt;&#x2F;em&gt; is determined by the environment by declaring &lt;em&gt;b&lt;&#x2F;em&gt; as input variable.
+With perturbations we can now take control over the input variables and find out how the system behaves under different environmental conditions.
+For example we can now find out how our system reacts to a decrease in &lt;em&gt;b&lt;&#x2F;em&gt;. &lt;em&gt;Figure 2&lt;&#x2F;em&gt; shows all labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; that satisfy &lt;em&gt;Rule 1&lt;&#x2F;em&gt; for all &lt;em&gt;v ∈ V \ I&lt;&#x2F;em&gt; with &lt;em&gt;I = {b}&lt;&#x2F;em&gt; and &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(a) = +&lt;&#x2F;em&gt; and &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(b) = –&lt;&#x2F;em&gt;.
+Input nodes are denoted with a black incoming arrow.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL2.png&quot; alt=&quot;COL2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2&lt;&#x2F;strong&gt;: Labeled interaction graph&lt;&#x2F;p&gt;
+&lt;p&gt;We see that using a perfect perturbation, a sustained decrease of &lt;em&gt;b&lt;&#x2F;em&gt;,
+the system can reach a quasi steady state where both &lt;em&gt;a&lt;&#x2F;em&gt; and &lt;em&gt;d&lt;&#x2F;em&gt; are increased.
+This is a state which could not be reached in the closed system without perturbation.
+While this is already an interesting reasoning mode, it is even more interesting to flip the question around and use this approach to do some treatment planning.
+Let’s see, what are the minimal perturbations that would allow the system to transition into a state where &lt;em&gt;a&lt;&#x2F;em&gt; and &lt;em&gt;d&lt;&#x2F;em&gt; are increased?
+&lt;em&gt;Figure 3&lt;&#x2F;em&gt; shows the potential perturbations (along with partial labelings) that allow for such a state-transition.
+We can see that we have two more alternatives to reach our goal, either a direct increase in &lt;em&gt;d&lt;&#x2F;em&gt; or a decrease in &lt;em&gt;c&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;MINPERT.png&quot; alt=&quot;MINPERT&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 3&lt;&#x2F;strong&gt;: Minimal perturbations of the system that can results in an increase of &lt;em&gt;a&lt;&#x2F;em&gt; and &lt;em&gt;d&lt;&#x2F;em&gt; (along with partial labeling)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;perturbations-and-model-topology&quot;&gt;Perturbations and model topology&lt;&#x2F;h2&gt;
+&lt;p&gt;Perturbations play a major role in the analysis of biological models.
+A complementary view point on perturbations is that they allow us to alter the model structure.
+In particular, all incoming edges of an input node can be ignored because the node is no longer constrained by the system but by us.
+A special role play so called &lt;em&gt;0-perturbations&lt;&#x2F;em&gt;, these are perturbations were the value of a variable is kept &lt;em&gt;constant over the state transition&lt;&#x2F;em&gt;.
+For those nodes the only possible label is &lt;em&gt;0&lt;&#x2F;em&gt; and we can ignore their outgoing edges because they can’t be responsible for any downstream changes.
+It’s easy to see that for complex models with many cyclic interactions such perturbations are very useful to investigate the influence of single components while excluding the influence of others.
+In a later part, we will see how perturbations are used to design experiments that allow to discriminate among alternative model topologies.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;In this part I introduced inputs and we have seen how one can model perturbations of a system.
+We have seen how we can reason over possible perturbations of a systems, and how to use this for treatment planning.
+In the &lt;a href=&quot;&#x2F;scm&#x2F;scm3&quot;&gt;next part&lt;&#x2F;a&gt; I will introduce a new consistency rule that allows us to handle constraints that are posed by the minima and maxima of the system variables.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Minimum and maximum level constraints</title>
+        <published>2016-06-01T00:00:00+00:00</published>
+        <updated>2016-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/scm/scm3/"/>
+        <id>https://sthiele.github.io/scm/scm3/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/scm/scm3/">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 3 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+Previously, we covered the sign consistency rule for &lt;a href=&quot;&#x2F;scm&#x2F;scm1#sign-consistency-rules&quot;&gt;backward propagation&lt;&#x2F;a&gt;.
+In this part I will introduce a new rule that discards solutions that violate minimum and maximum constraints on system variables.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;constrained-values-for-system-variables&quot;&gt;Constrained values for system variables&lt;&#x2F;h2&gt;
+&lt;p&gt;A lot of variables in biological systems have minimum (resp. maximum) constraints.
+Concentration level cannot go below 0 or above 100%, and signals which are below the detection threshold cannot drop any further.
+Figure &lt;em&gt;1&lt;&#x2F;em&gt; shows an IG with four variables &lt;em&gt;a&lt;&#x2F;em&gt;, &lt;em&gt;b&lt;&#x2F;em&gt;, &lt;em&gt;c&lt;&#x2F;em&gt; and &lt;em&gt;d&lt;&#x2F;em&gt;.
+Let’s say the variable &lt;em&gt;c&lt;&#x2F;em&gt; represent a concentration and only values in the range of 0 to 100 are valid.
+Further, we know that in our reference state &lt;em&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; the variable &lt;em&gt;c&lt;&#x2F;em&gt; is at its minimum.
+Let’s try to find all labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; that represent transisitions from &lt;em&gt;S&lt;sub&gt;R&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; to a state &lt;em&gt;S&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; where the level of &lt;em&gt;d&lt;&#x2F;em&gt; has increased, &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(d) = +&lt;&#x2F;em&gt;.
+Figure &lt;em&gt;2&lt;&#x2F;em&gt; shows all labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; that satisfy consistency &lt;em&gt;Rule 1&lt;&#x2F;em&gt;.
+The labelings &lt;em&gt;μ&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; and &lt;em&gt;μ&lt;sub&gt;3&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; violate the the minimality constraint on variable &lt;em&gt;c&lt;&#x2F;em&gt;,
+because there exists no value for &lt;em&gt;c&lt;&#x2F;em&gt; in [0,100] such that &lt;em&gt;sign(c - 0) = –&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;IG2.png&quot; alt=&quot;IG2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: An IG and with the reference state &lt;em&gt;SR&lt;&#x2F;em&gt; where variable c &lt;em&gt;on&lt;&#x2F;em&gt; its minimum.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL_IG2.png&quot; alt=&quot;COL_IG2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2&lt;&#x2F;strong&gt;: All labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; with &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(d) = +&lt;&#x2F;em&gt; that satisfy &lt;em&gt;Rule 1&lt;&#x2F;em&gt;. Only &lt;em&gt;μ&lt;sub&gt;1&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; is consistent with the value restrictions of variable &lt;em&gt;c&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;To deal with minimum (resp. maximum) constraints we introduce a new consistency rule.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rule 2 (obey minima&#x2F;maxima)&lt;&#x2F;strong&gt;: A variable that is on its minimum cannot decrease and an variable at its maximum cannot increase.
+&lt;em&gt;Let (V,E,σ) be an IG, MIN ⊆ V variables that are at their minimum, and MAX ⊆ V variables that are at their maximum. Then a labeling μ : V →{+,–,0} satisfies Rule 2 for node i ∈ V iff&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;μ(i) = 0, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;μ(i) = –, and i ∉ MIN, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;μ(i) = +, and i ∉ MAX.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;Rule 2&lt;&#x2F;em&gt; allows us to exclude solutions that violate the constraints on minimal&#x2F;maximal values.
+In &lt;em&gt;Figure 2&lt;&#x2F;em&gt; only labeling &lt;em&gt;μ&lt;sub&gt;1&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; satisfies both consistency rules &lt;em&gt;1&lt;&#x2F;em&gt; and &lt;em&gt;2&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;We now have a consistency rule that allows us to filter solutions that violate constraints restricting the minimum or maximum level of system variables.
+This rule can be combined with other consistency rules to get better explanations for state transitions.
+In the &lt;a href=&quot;&#x2F;scm&#x2F;scm4&quot;&gt;next part&lt;&#x2F;a&gt; I will introduce another consistency rule that increases the predictive power of sign consistency methods.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Predicting effects on downstream regulated variables</title>
+        <published>2016-06-01T00:00:00+00:00</published>
+        <updated>2016-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/scm/scm4/"/>
+        <id>https://sthiele.github.io/scm/scm4/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/scm/scm4/">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 4 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+Previously, we covered the sign consistency rule for &lt;a href=&quot;&#x2F;scm&#x2F;scm1#sign-consistency-rules&quot;&gt;backward propagation&lt;&#x2F;a&gt; which works for transitions between steady states.
+In this part I introduce another consistency rule that also works for steady state transitions,
+and increases the predictive power of sign consistency methods.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;forward-propagation&quot;&gt;Forward propagation&lt;&#x2F;h2&gt;
+&lt;p&gt;The backward reasoning implemented by &lt;em&gt;Rule 1&lt;&#x2F;em&gt; is very cautious.
+It expresses the assumption is that for every effect there must be a cause but it excludes the assumption that a change must have and effect. Figure &lt;em&gt;1&lt;&#x2F;em&gt; shows all labelings &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; that are consistent with &lt;em&gt;Rule 1&lt;&#x2F;em&gt; and were &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(b) = +&lt;&#x2F;em&gt;.
+In all labelings it holds that &lt;em&gt;μ&lt;sub&gt;i&lt;&#x2F;sub&gt;(a) = +&lt;&#x2F;em&gt;, so we can predict very precisely the cause for an increase in &lt;em&gt;b&lt;&#x2F;em&gt;.
+But the labelings for &lt;em&gt;c&lt;&#x2F;em&gt; are ambiguous, although we see an increase in &lt;em&gt;b&lt;&#x2F;em&gt; we cannot predict an increase in &lt;em&gt;c&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL3.png&quot; alt=&quot;COL3&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: Prediction under consistency &lt;em&gt;Rule 1&lt;&#x2F;em&gt;. Backward propagation does not allow an unambiguous prediction for &lt;em&gt;c&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;To increase the predictive power of our method we define a new consistency rule that implements the assumption that a change in one variable has an effect on its successors.
+We define this rule for independent regulations &lt;em&gt;i → j&lt;&#x2F;em&gt; were a change in &lt;em&gt;i&lt;&#x2F;em&gt; is sufficient to cause an change in &lt;em&gt;j&lt;&#x2F;em&gt;.
+In the next part we will introduce cooperative (dependent) regulations were it depends on other variables in the system whether the change in &lt;em&gt;i&lt;&#x2F;em&gt; will have an effect on &lt;em&gt;j&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;QST2.png&quot; alt=&quot;QST2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2&lt;&#x2F;strong&gt;: Five quantitative stable states of a variable with two independent regulations.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL4.png&quot; alt=&quot;COL4&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 3&lt;&#x2F;strong&gt;: Sign labeling representation of possible transitions among the states in Figure &lt;em&gt;2&lt;&#x2F;em&gt;.
+The &lt;em&gt;~&lt;&#x2F;em&gt; means that the values of the input nodes have been switched left to right in the state.&lt;&#x2F;p&gt;
+&lt;p&gt;Figure &lt;em&gt;2&lt;&#x2F;em&gt; shows exemplarily five quantitative representations of stable states of a system were one variable is independently regulated by two predecessors.
+In Figure &lt;em&gt;3&lt;&#x2F;em&gt; we see the possible sign labelings representing different state transitions.
+We see that for the cases &lt;em&gt;a&lt;&#x2F;em&gt;-&lt;em&gt;c&lt;&#x2F;em&gt; there exists an unambiguous input output behavior.
+In the cases &lt;em&gt;d&lt;&#x2F;em&gt;-&lt;em&gt;f&lt;&#x2F;em&gt; we see different outputs for the same input.
+This behavior is enforced through the following forward propagation rule.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rule 3 (forward propagation)&lt;&#x2F;strong&gt; &lt;em&gt;0-change&lt;&#x2F;em&gt; can only occur in a variable that does not depend on other variables with change, or if it receives opposing regulations.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Let (V,E,σ) be an IG. Then a labeling μ : V →{+,–,0} satisfies Rule 3 for node i ∈ V iff&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;μ(i)≠0, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;there is no edge j → i in E such that μ(j)σ(j,i) ∈{+,–}, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;there exist at least two edges j&lt;sub&gt;1&lt;&#x2F;sub&gt; → i and j&lt;sub&gt;2&lt;&#x2F;sub&gt; → i in E such that μ(j&lt;sub&gt;1&lt;&#x2F;sub&gt;)σ(j&lt;sub&gt;1&lt;&#x2F;sub&gt;,i)+ μ(j&lt;sub&gt;2&lt;&#x2F;sub&gt;)σ(j&lt;sub&gt;2&lt;&#x2F;sub&gt;,i) = 0.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This rule implements forward propagation by restricting the occurrence of &lt;em&gt;0&lt;&#x2F;em&gt;.
+In other words &lt;em&gt;Rule 3&lt;&#x2F;em&gt; limits the cases were a change in an upstream node can have no effect on the regulated down stream node.
+We can see now that labeling &lt;em&gt;μ&lt;sub&gt;1&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; in Figure 1 does not satisfy &lt;em&gt;Rule 3&lt;&#x2F;em&gt; for &lt;em&gt;c&lt;&#x2F;em&gt;.
+Only labeling &lt;em&gt;μ&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; satisfies both &lt;em&gt;Rule 1&lt;&#x2F;em&gt; and &lt;em&gt;3&lt;&#x2F;em&gt; for all nodes, leaving us with only one possible behavior.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;In this part I have introduced the forward propagation rule for independent regulations, and we have seen how forward propagation increases the predictive power of sign consistency methods.
+In the &lt;a href=&quot;&#x2F;scm&#x2F;scm5&quot;&gt;next part&lt;&#x2F;a&gt; I will show how we can implement forward propagation for cooperative (dependent) regulations.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Predicting effects on cooperatively regulated variables</title>
+        <published>2016-06-01T00:00:00+00:00</published>
+        <updated>2016-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/scm/scm5/"/>
+        <id>https://sthiele.github.io/scm/scm5/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/scm/scm5/">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 5 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+The previous part introduced the &lt;a href=&quot;&#x2F;scm&#x2F;scm4#forward-propagation&quot;&gt;forward propagation rule for independent regulations&lt;&#x2F;a&gt;.
+I mentioned that there exists a second kind of regulations, cooperative dependent regulation.
+While for independent regulation &lt;em&gt;i → j&lt;&#x2F;em&gt; a change in &lt;em&gt;i&lt;&#x2F;em&gt; is sufficient to cause an change in &lt;em&gt;j&lt;&#x2F;em&gt;,
+it depends for cooperative regulations on multiple variables whether the change in &lt;em&gt;i&lt;&#x2F;em&gt; will have an effect on &lt;em&gt;j&lt;&#x2F;em&gt;.
+Cooperative regulation exists in various forms in biological systems as chemical reactions that need multiple reactants or complex protein interactions.
+In this part I will show how cooperative regulations can be modeled within the sign consistency approach.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;forward-propagation-in-cooperatively-regulated-variables&quot;&gt;Forward propagation in cooperatively regulated variables&lt;&#x2F;h2&gt;
+&lt;p&gt;Cooperative regulations are represented as distinct type of variables in our system similar to &lt;em&gt;AND&lt;&#x2F;em&gt; nodes of a logic network.
+The basic idea behind cooperative regulation is that one needs all regulators to have an effect,
+but there exist only one limiting factor.
+It might be sufficient to increase (resp. decrease) one of the regulators to change the limiting factor,
+but to ensure a change in the limiting factor all regulators have to increase (resp. decrease).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;QST3.png&quot; alt=&quot;QST3&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: Five quantitative stable states of a cooperatively regulated variable.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL5.png&quot; alt=&quot;COL5&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2&lt;&#x2F;strong&gt;: Sign labeling representation of possible transitions among the states in Figure &lt;em&gt;1&lt;&#x2F;em&gt;.
+The &lt;em&gt;~&lt;&#x2F;em&gt; means that the values of the input nodes have been switched left to right in the state.&lt;&#x2F;p&gt;
+&lt;p&gt;Figure &lt;em&gt;1&lt;&#x2F;em&gt; shows exemplarily five quantitative representations of stable states of a system were one variable is cooperatively regulated by two predecessors.
+In Figure &lt;em&gt;2&lt;&#x2F;em&gt; we see the possible sign labelings representing different state transitions.
+We see that for the cases &lt;em&gt;a&lt;&#x2F;em&gt; and &lt;em&gt;d&lt;&#x2F;em&gt; there exists an unambiguous input output behavior.
+In the cases &lt;em&gt;b&lt;&#x2F;em&gt;-&lt;em&gt;c&lt;&#x2F;em&gt; and &lt;em&gt;e&lt;&#x2F;em&gt;-&lt;em&gt;g&lt;&#x2F;em&gt; we see different outputs for the same input.
+In both state transitions &lt;em&gt;b&lt;&#x2F;em&gt; and &lt;em&gt;c&lt;&#x2F;em&gt; we have an increase in one of the regulators while the other regulator remains unchanged,
+but only in &lt;em&gt;c&lt;&#x2F;em&gt; the limiting factor has changed leading to a change in the regulated variable.
+This behavior is implemented by the following &lt;em&gt;forward propagation&lt;&#x2F;em&gt; rule.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rule 3b (forward propagation cooperative regulation)&lt;&#x2F;strong&gt;: 0-change can only occur in a variable that does not depend on other variables with change, or if it receives opposing regulations.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Let (V,E,σ) be an IG and V&lt;sub&gt;C&lt;&#x2F;sub&gt; ⊆ V cooperatively regulated variables.
+Then a labeling μ : V →{+,–,0} satisfies&lt;&#x2F;em&gt;Rule 3b&lt;em&gt;for node i ∈ V&lt;sub&gt;C&lt;&#x2F;sub&gt; iff&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;μ(i)≠0, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;there is no edge j → i in E such that μ(j)σ(j,i) ∈{+,–}, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;there is an edge j → i in E such that σ(j,i) = 0, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;there exist at least two edges j&lt;sub&gt;1&lt;&#x2F;sub&gt; →i and j&lt;sub&gt;2&lt;&#x2F;sub&gt; →i in E such that μ(j&lt;sub&gt;1&lt;&#x2F;sub&gt;)σ(j&lt;sub&gt;1&lt;&#x2F;sub&gt;,i)+ μ(j&lt;sub&gt;2&lt;&#x2F;sub&gt;)σ(j&lt;sub&gt;2&lt;&#x2F;sub&gt;,i) = 0.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This rule implements forward propagation by restricting the occurrence of &lt;em&gt;0&lt;&#x2F;em&gt;.
+In other words &lt;em&gt;Rule 3b&lt;&#x2F;em&gt; limits the cases were a &lt;em&gt;change&lt;&#x2F;em&gt; in an upstream node can have no effect on the regulated down stream node.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;In this part I introduced the forward propagation rule for cooperative regulations.
+In the &lt;a href=&quot;&#x2F;scm&#x2F;scm6&quot;&gt;next part&lt;&#x2F;a&gt; I will introduce a consistency rule that allow us to filter unfounded self regulations.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Excluding unfounded changes in feedback loops</title>
+        <published>2016-06-01T00:00:00+00:00</published>
+        <updated>2016-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/scm/scm6/"/>
+        <id>https://sthiele.github.io/scm/scm6/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/scm/scm6/">&lt;p&gt;&lt;strong&gt;&lt;code&gt;This is work in progress! The content is still incomplete and changing.&lt;&#x2F;code&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This is Part 6 of the &lt;a href=&quot;&#x2F;scm&quot;&gt;sign consistency series&lt;&#x2F;a&gt;.
+In this part I will introduce a new global consistency rule to ensure that
+every change is justified by a chain of influences that can be traced back to an input node.
+This natural constraint is especially useful to exclude self-justification of changes via positive feedback loops.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;circular-regulation&quot;&gt;Circular regulation&lt;&#x2F;h2&gt;
+&lt;p&gt;In most biological systems we find self regulation via feedback loops.
+The consistency rules that we’ve covered so far allow circular explanation.
+This poses the problem that they allow state transitions for which we can not identify the reason that triggered the state change.
+For example in Figure &lt;em&gt;1&lt;&#x2F;em&gt; we see an IG with labelings that explain an increase in &lt;em&gt;d&lt;&#x2F;em&gt;.
+Both total labelings satisfy the propagation rules (&lt;em&gt;Rule 1&lt;&#x2F;em&gt; and &lt;em&gt;3&lt;&#x2F;em&gt;).
+For &lt;em&gt;μ&lt;sub&gt;1&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; we see a circular up regulation in &lt;em&gt;b&lt;&#x2F;em&gt; and &lt;em&gt;c&lt;&#x2F;em&gt;,
+which is used as explanation for the increase in &lt;em&gt;d&lt;&#x2F;em&gt;, but
+we don’t know why &lt;em&gt;b&lt;&#x2F;em&gt; and &lt;em&gt;c&lt;&#x2F;em&gt; have increase in the first place.
+Only the labeling &lt;em&gt;μ&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; allows us to identify a trigger for the state change, i.e. the increase in &lt;em&gt;a&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scm&#x2F;COL6.png&quot; alt=&quot;COL6&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 1&lt;&#x2F;strong&gt;: Example for an influence graph with self regulation.
+An increase in &lt;em&gt;d&lt;&#x2F;em&gt; can be explained either by self activation in &lt;em&gt;b&lt;&#x2F;em&gt; and &lt;em&gt;c&lt;&#x2F;em&gt; or by the input node &lt;em&gt;a&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;To filter labelings which represent circular explanations we introduce the following consistency rule.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Rule 4 (a change must be founded in an input)&lt;&#x2F;strong&gt;:
+&lt;em&gt;Let (V,E,σ) be an IG and I ⊆ V the input nodes.
+Then a labeling μ : V →{+,–,0} satisfies Rule 4 for i ∈ V if&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;i ∈ I, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;μ(i) = 0, or&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;there exist a path (v&lt;sub&gt;0&lt;&#x2F;sub&gt;,…,v&lt;sub&gt;k&lt;&#x2F;sub&gt;) in E with v&lt;sub&gt;0&lt;&#x2F;sub&gt; ∈ I, v&lt;sub&gt;k&lt;&#x2F;sub&gt; = i and μ(v&lt;sub&gt;n-1&lt;&#x2F;sub&gt;)σ(v&lt;sub&gt;n-1&lt;&#x2F;sub&gt;,v&lt;sub&gt;n&lt;&#x2F;sub&gt;) = μ(v&lt;sub&gt;n&lt;&#x2F;sub&gt;) for all n = 1…k.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Using &lt;em&gt;Rule 4&lt;&#x2F;em&gt; we can avoid manual removal of positive feedback loops as done in other approaches, and
+identify state transitions which can be explained by external perturbations.
+Only the labeling &lt;em&gt;μ&lt;sub&gt;2&lt;&#x2F;sub&gt;&lt;&#x2F;em&gt; satisfies &lt;em&gt;Rule 4&lt;&#x2F;em&gt;.
+Consistency rule 4 is especially useful if we want apply sign consistency methods in the context of perturbation experiments.
+When we are actually interested in the response to perturbations, or
+if we want to identify possible perturbations that trigger desired state transitions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;This part introduced a consistency rule that allows us to exclude unfounded self regulations.
+In the next part I will show how we can relate our model to actual measurement data via sign constraints.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

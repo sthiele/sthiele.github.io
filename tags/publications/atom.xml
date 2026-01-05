@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Publications</title>
+    <link rel="self" type="application/atom+xml" href="https://sthiele.github.io/tags/publications/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://sthiele.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2018-10-12T00:00:00+00:00</updated>
+    <id>https://sthiele.github.io/tags/publications/atom.xml</id>
+    <entry xml:lang="en">
+        <title>List of Publications</title>
+        <published>2018-10-12T00:00:00+00:00</published>
+        <updated>2018-10-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/publications/"/>
+        <id>https://sthiele.github.io/publications/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/publications/">&lt;p&gt;See also &lt;a href=&quot;https:&#x2F;&#x2F;scholar.google.de&#x2F;citations?user=ufPMoSAAAAAJ&quot;&gt;google.scholar&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;dblp.uni-trier.de&#x2F;pers&#x2F;hd&#x2F;t&#x2F;Thiele:Sven&quot;&gt;dblp&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2022&quot;&gt;2022&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1093&#x2F;bioinformatics&#x2F;btab828&quot;&gt;CNApy: a CellNetAnalyzer GUI in Python for analyzing and designing metabolic networks&lt;&#x2F;a&gt;, Sven Thiele, Axel von Kamp, Pavlos Stephanos Bekiaris, Philipp Schneider, Steffen Klamt, &lt;em&gt;Bioinformatics&lt;&#x2F;em&gt;, 38(5), 2022.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2019&quot;&gt;2019&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;TCBB.2018.2812184&quot;&gt;Designing optimal experiments to discriminate interaction graph models&lt;&#x2F;a&gt;, Sven Thiele, Sandra Heise, Wiebke Hessenkemper, Hannes Bongartz, Melissa Fensky, Fred Schaper, Steffen Klamt, &lt;em&gt;IEEE&#x2F;ACM Trans. Comput. Biol. Bioinform&lt;&#x2F;em&gt;, 16(3), 2019.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2017&quot;&gt;2017&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.jbiotec.2017.05.001&quot;&gt;Use of CellNetAnalyzer in biotechnology and metabolic engineering&lt;&#x2F;a&gt;, Axel von Kamp, Sven Thiele, Oliver Hädicke, Steffen Klamt, &lt;em&gt;Journal of Biotechnology&lt;&#x2F;em&gt;, 2017.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1371&#x2F;journal.pcbi.1005276&quot;&gt;Meneco, a Topology-Based Gap-Filling Tool Applicable to Degraded Genome-Wide Metabolic Networks&lt;&#x2F;a&gt;, Sylvain Prigent, Clémence Frioux, Simon M Dittami, Sven Thiele, Abdelhalim Larhlimi, Guillaume Collet, Fabien Gutknecht, Jeanne Got, Damien Eveillard, Jérémie Bourdon, Frédéric Plewniak, Thierry Tonon, Anne Siegel, &lt;em&gt;PLOS Computational Biology&lt;&#x2F;em&gt;, 2017.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2016&quot;&gt;2016&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1002&#x2F;mbo3.315&quot;&gt;Putative bacterial interactions from metagenomic knowledge with an integrative systems ecology approach&lt;&#x2F;a&gt;, Philippe Bordron, Mauricio Latorre, Maria-Paz Cortés, Mauricio González, Sven Thiele, Anne Siegel, Alejandro Maass, Damien Eveillard, &lt;em&gt;MicrobiologyOpen&lt;&#x2F;em&gt;, 2016.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2015&quot;&gt;2015&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1186&#x2F;s12859-015-0733-7&quot;&gt;Extended notions of sign consistency to relate experimental data to signaling and regulatory network topologies&lt;&#x2F;a&gt;,
+Sven Thiele, Luca Cerone, Julio Saez-Rodriguez, Anne Siegel, Carito Guziołowski, and Steffen Klamt, &lt;em&gt;BMC Bioinformatics&lt;&#x2F;em&gt;, 16(345), 2015.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1016&#x2F;j.tcs.2014.06.022&quot;&gt;Learning Boolean logic models of signaling networks with ASP&lt;&#x2F;a&gt;,
+Santiago Videla, Carito Guziołowski, Federica Eduati, Sven Thiele, Martin Gebser, Jacques Nicolas, Julio Saez-Rodriguez, Torsten Schaub, and Anne Siegel, &lt;em&gt;Theoretical Computer Science&lt;&#x2F;em&gt;, 599, pages 79–101, &lt;em&gt;Advances in Computational Methods in Systems Biology&lt;&#x2F;em&gt;, 2015.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2014&quot;&gt;2014&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1111&#x2F;tpj.12627&quot;&gt;The genome-scale metabolic network of Ectocarpus siliculosus (EctoGEM): a resource to study brown algal physiology and beyond&lt;&#x2F;a&gt;,
+Sylvain Prigent, Guillaume Collet, Simon M. Dittami, Ludovic Delage, Floriane Ethis de Corny, Olivier Dameron, Damien Eveillard, Sven Thiele, Jeanne Cambefort, Catherine Boyen, Anne Siegel, and Thierry Tonon, &lt;em&gt;The Plant Journal&lt;&#x2F;em&gt;, 80(2), pages 367–381, 2014.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2013&quot;&gt;2013&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1093&#x2F;bioinformatics&#x2F;btt393&quot;&gt;Exhaustively characterizing feasible logic models of a signaling network using Answer Set Programming&lt;&#x2F;a&gt;,
+Carito Guziołowski, Santiago Videla, Federica Eduati, Sven Thiele, Thomas Cokelaer, Anne Siegel, and Julio Saez-Rodriguez, &lt;em&gt;Bioinformatics&lt;&#x2F;em&gt;, 29(18), pages 2320-2326, 2013.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-642-40564-8_21&quot;&gt;An ASP Application in Integrative Biology: Identification of Functional Gene Units&lt;&#x2F;a&gt;,
+Philippe Bordron, Damien Eveillard, Alejandro Maass, Anne Siegel, and Sven Thiele, &lt;em&gt;Proceedings of the Twelfth International Conference on Logic Programming and Nonmonotonic Reasoning&lt;&#x2F;em&gt;, volume 8148 of Lecture Notes in Computer Science, pages 206-218, Springer, 2013.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-642-40564-8_25&quot;&gt;Extending the Metabolic Network of Ectocarpus Siliculosus Using Answer Set Programming&lt;&#x2F;a&gt;,
+Guillaume Collet, Damien Eveillard, Martin Gebser, Sylvain Prigent, Torsten Schaub, Anne Siegel, and Sven Thiele, &lt;em&gt;Proceedings of the Twelfth International Conference on Logic Programming and Nonmonotonic Reasoning&lt;&#x2F;em&gt;, volume 8148 of Lecture Notes in Computer Science, pages 245-256, Springer, 2013.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2012&quot;&gt;2012&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-642-33636-2_20&quot;&gt;Revisiting the Training of Logic Models of Protein Signaling Networks with ASP&lt;&#x2F;a&gt;,
+Santiago Videla, Carito Guziołowski, Federica Eduati, Sven Thiele, Niels Grabe, Julio Saez-Rodriguez, and Anne Siegel, &lt;em&gt;Proceedings of the Tenth International Conference on Computational Methods in Systems Biology (CMSB’12)&lt;&#x2F;em&gt;, volume 7605 of Lecture Notes in Computer Science, pages 342-361, Springer, 2012.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;opus.kobv.de&#x2F;ubp&#x2F;volltexte&#x2F;2012&#x2F;5938&#x2F;&quot;&gt;Modeling biological systems with Answer Set Programming&lt;&#x2F;a&gt;,
+Sven Thiele, PhD thesis, &lt;em&gt;Universitätsbibliothek&lt;&#x2F;em&gt;, 2012.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2011&quot;&gt;2011&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1017&#x2F;S1471068410000554&quot;&gt;Detecting Inconsistencies in Large Biological Networks with Answer Set Programming&lt;&#x2F;a&gt;,
+Martin Gebser, Torsten Schaub, Sven Thiele, and Philippe Veber,
+&lt;em&gt;Theory and Practice of Logic Programming&lt;&#x2F;em&gt;, 11(2-3), pages 323-360, 2011.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2010&quot;&gt;2010&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.aaai.org&#x2F;ocs&#x2F;index.php&#x2F;KR&#x2F;KR2010&#x2F;paper&#x2F;viewFile&#x2F;1334&#x2F;1660&quot;&gt;Repair and Prediction (Under Inconsistency) in Large Biological Networks with Answer Set Programming&lt;&#x2F;a&gt;,
+Martin Gebser, Carito Guziołowski, Mihail Ivanchev, Torsten Schaub, Anne Siegel, Sven Thiele, and Philippe Veber, &lt;em&gt;Proceedings of the Twelfth International Conference on the Principles of Knowledge Representation and Reasoning (KR’10)&lt;&#x2F;em&gt;, AAAI Press, 2010.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;opus.kobv.de&#x2F;ubp&#x2F;volltexte&#x2F;2010&#x2F;3797&#x2F;pdf&#x2F;wlp09.pdf#page=63&quot;&gt;xpanda: A (Simple) Preprocessor for Adding Multi-Valued Propositions to ASP&lt;&#x2F;a&gt;,
+Martin Gebser, Henrik Hinrichs, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Twenty-third Workshop on (Constraint) Logic Programming (WLP’09)&lt;&#x2F;em&gt;, page 51, Universitätsverlag Potsdam, 2010.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1109&#x2F;ICTAI.2010.62&quot;&gt;The BioASP Library: ASP Solutions for Systems Biology&lt;&#x2F;a&gt;,
+Martin Gebser, Arne König, Torsten Schaub, Sven Thiele, and Philippe Veber, &lt;em&gt;Proceedings of the Twenty-second International Conference on Tools with Artificial Intelligence (ICTAI’10)&lt;&#x2F;em&gt;, volume 1, pages 383-389, IEEE Computer Society, 2010.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2009&quot;&gt;2009&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-642-02846-5_27&quot;&gt;Metabolic Network Expansion with Answer Set Programming&lt;&#x2F;a&gt;,
+Torsten Schaub and Sven Thiele, &lt;em&gt;Proceedings of the Twenty-fifth International Conference on Logic Programming (ICLP’09)&lt;&#x2F;em&gt;, volume 5649 of Lecture Notes in Computer Science, pages 312-326, Springer, 2009.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-642-04238-6_49&quot;&gt;On the Input Language of ASP Grounder Gringo&lt;&#x2F;a&gt;,
+Martin Gebser, Roland Kaminski, Max Ostrowski, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Tenth International Conference on Logic Programming and Nonmonotonic Rea- soning (LPNMR’09)&lt;&#x2F;em&gt;, volume 5753 of Lecture Notes in Computer Science, pages 502-508, Springer, 2009.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2008&quot;&gt;2008&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-540-89982-2_19&quot;&gt;Detecting Inconsistencies in Large Biological Networks with Answer Set Programming&lt;&#x2F;a&gt;,
+Martin Gebser, Torsten Schaub, Sven Thiele, Björn Usadel, and Philippe Veber, &lt;em&gt;Proceedings of the Twenty-fourth International Conference on Logic Programming (ICLP’08)&lt;&#x2F;em&gt;, volume 5366 of Lecture Notes in Computer Science, pages 130-144, Springer, 2008.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-540-89982-2_23&quot;&gt;Engineering an Incremental ASP Solver&lt;&#x2F;a&gt;,
+Martin Gebser, Roland Kaminski, Benjamin Kaufmann, Max Ostrowski, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Twenty-fourth International Conference on Logic Programming (ICLP’08)&lt;&#x2F;em&gt;, volume 5366 of Lecture Notes in Computer Science, pages 190-205, Springer, 2008.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.kr.org&#x2F;NMR&#x2F;proceedings&#x2F;NMR2008.pdf#page=155&quot;&gt;A Versatile Intermediate Language for Answer Set Programming&lt;&#x2F;a&gt;,
+Martin Gebser, Tomi Janhunen, Max Ostrowski, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Twelfth International Workshop on Nonmonotonic Reasoning (NMR’08)&lt;&#x2F;em&gt;, number UNSW-CSE-TR-0819 in School of Computer Science and Engineering, The University of New South Wales, Technical Report Series, pages 150-159, 2008.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2007&quot;&gt;2007&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-540-72200-7_24&quot;&gt;Gringo : A New Grounder for Answer Set Programming&lt;&#x2F;a&gt;,
+Martin Gebser, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Ninth International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR’07)&lt;&#x2F;em&gt;, volume 4483 of Lecture Notes in Computer Science, pages 266-271, Springer, 2007.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;978-3-540-75256-1_10&quot;&gt;COBA 2.0: A Consistency-Based Belief Change System&lt;&#x2F;a&gt;,
+James P. Delgrande, Daphne H. Liu, Torsten Schaub, and Sven Thiele, &lt;em&gt;Proceedings of the Ninth European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU’07)&lt;&#x2F;em&gt;, volume 4724 of Lecture Notes in Computer Science, pages 78-90. Springer, 2007.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2006&quot;&gt;2006&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.cs.uni-potsdam.de&#x2F;wv&#x2F;pdfformat&#x2F;grjamescthti06a.pdf&quot;&gt;On Probing and Multi-Threading in Platypus&lt;&#x2F;a&gt;,
+Jean Gressmann, Tomi Janhunen, Robert E. Mercer, Torsten Schaub, Sven Thiele, and Richard Tichy, &lt;em&gt;Proceedings of the Seventeenth European Conference on Artificial Intelligence (ECAI’06)&lt;&#x2F;em&gt;, volume 141 of Frontiers in Artificial Intelligence and Applications, pages 392-396, IOS Press, 2006.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2005&quot;&gt;2005&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1007&#x2F;11546207_18&quot;&gt;Platypus: A Platform for Distributed Answer Set Solving&lt;&#x2F;a&gt;,
+Jean Gressmann, Tomi Janhunen, Robert E. Mercer, Torsten Schaub, Sven Thiele, and Richard Tichy, &lt;em&gt;Proceedings of the Eighth International Conference on Logic Programming and Nonmonotonic Reasoning (LPNMR’05)&lt;&#x2F;em&gt;, volume 3662 of Lecture Notes in Computer Science, pages 227-239, Springer, 2005.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Extended notions of sign consistency</title>
+        <published>2015-10-02T00:00:00+00:00</published>
+        <updated>2015-10-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/extended-sign-consistency/"/>
+        <id>https://sthiele.github.io/extended-sign-consistency/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;media.springernature.com&#x2F;full&#x2F;springer-static&#x2F;image&#x2F;art%3A10.1186%2Fs12859-015-0733-7&#x2F;MediaObjects&#x2F;12859_2015_733_Fig2_HTML.gif&quot; alt=&quot;Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bmcbioinformatics.biomedcentral.com&#x2F;articles&#x2F;10.1186&#x2F;s12859-015-0733-7&quot;&gt;Extended notions of sign consistency to relate experimental data to signaling and regulatory network topologies&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>First reconstruction of a metabolic network using meneco published in The Plant Journal</title>
+        <published>2014-06-01T00:00:00+00:00</published>
+        <updated>2014-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/meneco-plant-journal/"/>
+        <id>https://sthiele.github.io/meneco-plant-journal/</id>
+        
+        <content type="html" xml:base="https://sthiele.github.io/meneco-plant-journal/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;wol-prod-cdn.literatumonline.com&#x2F;cms&#x2F;attachment&#x2F;3df80d89-6f18-4e7f-a431-afca8dcc03e9&#x2F;tpj.2014.80.issue-2.cover.jpg&quot; alt=&quot;Journal&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;abs&#x2F;10.1111&#x2F;tpj.12627&quot;&gt;The genome‐scale metabolic network of Ectocarpus siliculosus (EctoGEM): a resource to study brown algal physiology and beyond&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>ASP application in the Bioinformatics Journal</title>
+        <published>2013-07-01T00:00:00+00:00</published>
+        <updated>2013-07-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://sthiele.github.io/caspo-bioinformatics/"/>
+        <id>https://sthiele.github.io/caspo-bioinformatics/</id>
+        
+        <summary type="html">&lt;p&gt;Our first ASP application published in the Bioinformatics Journal&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;oup.silverchair-cdn.com&#x2F;oup&#x2F;backfile&#x2F;Content_public&#x2F;Journal&#x2F;bioinformatics&#x2F;Issue&#x2F;29&#x2F;18&#x2F;0&#x2F;m_bioinformatics29_18.cover.gif?Expires=2147483647&amp;amp;Signature=brobNoIivMYhmOPNrDOiMROLvOVKQNW7rZyTaIpcVtLJKvjn0yTDn8kxyGBW1XMQC3g2bsiokK9hV4P8xvmiP~gZX8kuSz1gAEowIuSC4OXEIoi~YmG82ilOD0pE5xEmCQks3rR1tp1A7rEaZJ~BkUGMbGPKXgiM6guYS~4PVDolNYSmctlMhlUFPxlG9Swl3VMhkXTIs9n8mRAG3U4-M4acquob~H20zFwyClij5DVcHMcwSdHQAnjMGsOT133jT0LfYWfhkg59esuHiU8NYLjo-g-G2aKBCumkfK~JUxVZpA8uZ1ilUp2TwRZpH-txcOPeMC4WK6DTs1mF66ZJhw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&quot; alt=&quot;Journal&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;academic.oup.com&#x2F;bioinformatics&#x2F;article&#x2F;29&#x2F;18&#x2F;2320&#x2F;240224&quot;&gt;Exhaustively characterizing feasible logic models of a signaling network using Answer Set Programming&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>

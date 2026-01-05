@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+      <!-- Enable responsiveness on mobile devices-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+      
+    
+
+      <title> - Modeling open systems inputs and perturbations</title>
+
+      
+
+      
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
+          
+      
+
+      
+          <link rel="stylesheet" href="https://sthiele.github.io/site.css">
+          
+      
+
+      
+      
+    </head>
+
+    <body>
+        <div class="container">
+
+            <div id="mobile-navbar" class="mobile-navbar">
+              <div class="mobile-header-logo">
+                <a href="https:&#x2F;&#x2F;sthiele.github.io" class="logo">sthiele::weblog</a>
+              </div>
+              <div class="mobile-navbar-icon icon-out">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+
+            <nav id="mobile-menu" class="mobile-menu slideout-menu slideout-menu-left">
+              <ul class="mobile-menu-list">
+                
+                    <li class="mobile-menu-item">
+                        <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;tags">
+                            Tags
+                        </a>
+                    </li>
+                
+                    <li class="mobile-menu-item">
+                        <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;about">
+                            About
+                        </a>
+                    </li>
+                
+              </ul>
+            </nav>
+
+            <header id="header">
+                <div class="logo"><a href="https:&#x2F;&#x2F;sthiele.github.io">sthiele::weblog</a></div>
+                <nav class="menu">
+                    <ul>
+                        
+                            <li>
+                                <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;tags">
+                                    Tags
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;about">
+                                    About
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </nav>
+            </header>
+
+            <main>
+                <div class="content" id="mobile-panel">
+                    
+
+
+<div class="post-toc" id="post-toc">
+    <h2 class="post-toc-title">Contents</h2>
+    <div class="post-toc-content always-active">
+        <nav id="TableOfContents">
+            <ul>
+                
+                <li>
+                    <a href="https://sthiele.github.io/scm/scm2/#inputs-and-perturbations" class="toc-link">Inputs and perturbations</a>
+                    
+                </li>
+                
+                <li>
+                    <a href="https://sthiele.github.io/scm/scm2/#perturbations-and-model-topology" class="toc-link">Perturbations and model topology</a>
+                    
+                </li>
+                
+                <li>
+                    <a href="https://sthiele.github.io/scm/scm2/#conclusion" class="toc-link">Conclusion</a>
+                    
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+<article class="post">
+    
+    <header class="post__header">
+        <h1 class="post__title">
+            <a href="https:&#x2F;&#x2F;sthiele.github.io&#x2F;scm&#x2F;scm2&#x2F;">Modeling open systems inputs and perturbations</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2016-06-01</span>
+            
+        </div>
+    </header>
+
+    <div class="post-content">
+      <p><strong><code>This is work in progress! The content is still incomplete and changing.</code></strong></p>
+<p>This is Part 2 of the <a href="/scm">sign consistency series</a>.
+In <a href="/scm/scm1">Part 1</a> of this series we learned how to use interaction graphs and sign consistency methods to reason about steady states in closed systems.
+In this part we add inputs to our model and answer the question how a biological system responds to external influences.</p>
+<h2 id="inputs-and-perturbations">Inputs and perturbations</h2>
+<p>Most systems interact in some ways with a surrounding environment.
+To reason over systems response to different environmental settings we introduce <em>input</em> variables.
+Input variables are not controlled by the system but represent external influences on the system.
+Such <em>inputs</em> could be stressors like temperature, light or drugs.
+In an IG <em>(E,V)</em>
+we denote the set of nodes that represent input variables with <em>I ⊆ V</em>.
+Because input nodes are controlled externally,
+they are excluded from the sign consistency rules.</p>
+<p>For the closed system shown in <em>Figure 1</em>, there exists no single labeling <em>μ : V→{+,–,0}</em>, with <em>μ(a) = +</em> and <em>μ(b) = –</em> that satisfies <em>Rule 1</em> for all <em>v ∈ V</em>.
+In other words, there exists no transition between steady states where <em>a</em> increases and <em>b</em> decreases.
+Because <em>a</em> is the only predecessor of <em>b</em>, between all steady states changes in <em>a</em> and <em>b</em> must have the same sign.</p>
+<p><img src="/scm/IG1.png" alt="IG1" /></p>
+<p><strong>Fig. 1</strong>: Example of an interaction graph. Green arrows indicate positive (+) influence, red edges negative (–) influence.</p>
+<p>We can interpret our model as an open system,
+were the value of <em>b</em> is determined by the environment by declaring <em>b</em> as input variable.
+With perturbations we can now take control over the input variables and find out how the system behaves under different environmental conditions.
+For example we can now find out how our system reacts to a decrease in <em>b</em>. <em>Figure 2</em> shows all labelings <em>μ<sub>i</sub></em> that satisfy <em>Rule 1</em> for all <em>v ∈ V \ I</em> with <em>I = {b}</em> and <em>μ<sub>i</sub>(a) = +</em> and <em>μ<sub>i</sub>(b) = –</em>.
+Input nodes are denoted with a black incoming arrow.</p>
+<p><img src="/scm/COL2.png" alt="COL2" /></p>
+<p><strong>Fig. 2</strong>: Labeled interaction graph</p>
+<p>We see that using a perfect perturbation, a sustained decrease of <em>b</em>,
+the system can reach a quasi steady state where both <em>a</em> and <em>d</em> are increased.
+This is a state which could not be reached in the closed system without perturbation.
+While this is already an interesting reasoning mode, it is even more interesting to flip the question around and use this approach to do some treatment planning.
+Let’s see, what are the minimal perturbations that would allow the system to transition into a state where <em>a</em> and <em>d</em> are increased?
+<em>Figure 3</em> shows the potential perturbations (along with partial labelings) that allow for such a state-transition.
+We can see that we have two more alternatives to reach our goal, either a direct increase in <em>d</em> or a decrease in <em>c</em>.</p>
+<p><img src="/scm/MINPERT.png" alt="MINPERT" /></p>
+<p><strong>Fig. 3</strong>: Minimal perturbations of the system that can results in an increase of <em>a</em> and <em>d</em> (along with partial labeling)</p>
+<h2 id="perturbations-and-model-topology">Perturbations and model topology</h2>
+<p>Perturbations play a major role in the analysis of biological models.
+A complementary view point on perturbations is that they allow us to alter the model structure.
+In particular, all incoming edges of an input node can be ignored because the node is no longer constrained by the system but by us.
+A special role play so called <em>0-perturbations</em>, these are perturbations were the value of a variable is kept <em>constant over the state transition</em>.
+For those nodes the only possible label is <em>0</em> and we can ignore their outgoing edges because they can’t be responsible for any downstream changes.
+It’s easy to see that for complex models with many cyclic interactions such perturbations are very useful to investigate the influence of single components while excluding the influence of others.
+In a later part, we will see how perturbations are used to design experiments that allow to discriminate among alternative model topologies.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>In this part I introduced inputs and we have seen how one can model perturbations of a system.
+We have seen how we can reason over possible perturbations of a systems, and how to use this for treatment planning.
+In the <a href="/scm/scm3">next part</a> I will introduce a new consistency rule that allows us to handle constraints that are posed by the minima and maxima of the system variables.</p>
+
+    </div>
+
+    
+    
+
+    <div class="post-footer">
+        
+            
+                <div class="post-tags">
+                    
+                        <a href="https://sthiele.github.io/tags/sign-consistency/">#sign-consistency</a>
+                    
+                </div>
+            
+            
+
+        
+
+    </div>
+
+    
+    
+</article>
+
+
+                </div>
+            </main>
+
+            
+            
+        </div>
+
+      
+          <script type="text/javascript" src="https://sthiele.github.io/even.js" ></script>
+      
+    </body>
+
+</html>
